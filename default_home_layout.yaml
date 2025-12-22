@@ -1,0 +1,173 @@
+- title: Subscriptions
+  id: subscriptions
+  feedSources:
+    - id: inv_auth_feed
+      title: Subscriptions
+      apiType: Invidious
+      endpoint: auth_feed
+
+- title: Technology
+  id: technology_videos
+  feedSources:
+    - id: inv_search_technology_videos
+      title: Technology
+      apiType: Invidious
+      endpoint: search
+      queryParams:
+        q: (@JeffGeerling OR @AZisk OR @HardwareHaven OR @LinusTechTips OR @JeffSu OR @KyleErickson OR @NetworkChuck OR @CoreDumpped)
+        type: video
+        sort: relevance
+
+- title: Documentaries
+  id: documentaries
+  feedSources:
+    - id: inv_search_documentary
+      title: Documentaries
+      apiType: Invidious
+      endpoint: search
+      queryParams:
+        q: (documentary OR DW Documentaries)
+        type: video
+        sort: relevance
+
+
+- title: News & Current Affairs
+  id: news
+  feedSources:
+    - id: inv_search_news
+      title: News & Current Affairs
+      apiType: Invidious
+      endpoint: search
+      queryParams:
+        q: (firstpost)
+        type: video
+        sort: relevance
+
+
+- title: Music & Entertainment
+  id: entertainment
+  feedSources:
+    - id: inv_search_entertainment
+      title: Music & Entertainment
+      apiType: Invidious
+      endpoint: search
+      queryParams:
+        q: latest bollywood music (Sony Music OR T-Series OR Saregama Music) -"Best of" -"Party"
+        type: video
+        sort: relevance
+
+- title: Recommended
+  id: recommended
+  feedSources:
+    - id: inv_auth_recommended
+      title: Recommended
+      apiType: Invidious
+      endpoint: auth_recommended
+
+- title: More World News
+  id: more_news
+  feedSources:
+    - id: inv_search_more_news
+      title: More World News
+      apiType: Invidious
+      endpoint: search
+      queryParams:
+        q: (india news OR fox news OR cnn)
+        type: video
+        sort: relevance
+
+- title: Sports
+  id: sports
+  feedSources:
+    - id: inv_search_sports
+      title: Sports
+      apiType: Invidious
+      endpoint: search
+      queryParams:
+        q: (chelsea OR epl OR champions league)
+        type: video
+        sort: relevance
+
+- title: More Entertainment
+  id: more_entertainment
+  feedSources:
+    - id: inv_search_more_entertainment
+      title: More Entertainment
+      apiType: Invidious
+      endpoint: search
+      queryParams:
+        q: (latest trailers hindi OR latest movie trailers)
+        type: video
+        sort: relevance
+
+- title: Podcasts
+  id: podcasts
+  feedSources:
+    - id: inv_search_podcasts
+      title: Podcasts
+      apiType: Invidious
+      endpoint: search
+      queryParams:
+        q: (latest podcasts)
+        type: video
+        sort: relevance
+
+- title: Interesting
+  id: interesting
+  feedSources:
+    - id: inv_search_interesting
+      title: Interesting Videos
+      apiType: Invidious
+      endpoint: search
+      queryParams:
+        q: (latest interesting videos)
+        type: video
+        sort: relevance
+
+
+- title: Trending Tech
+  id: tech
+  feedSources:
+    - id: inv_search_tech
+      title: Trending Tech
+      apiType: Invidious
+      endpoint: search
+      queryParams:
+        q: (tech videos)
+        type: video
+        sort: relevance
+
+- title: More Videos
+  id: more_videos
+  feedSources:
+    - id: inv_search_more_videos
+      title: More Videos
+      apiType: Invidious
+      endpoint: search
+      queryParams:
+        q: (music videos OR 4K music videos)
+        type: video
+        sort: relevance
+
+
+- title: Popular Videos
+  id: popular_videos
+  feedSources:
+    - id: inv_search_popular_videos
+      title: Popular Videos
+      apiType: Invidious
+      endpoint: search
+      queryParams:
+        q: (latest popular videos OR latest trending videos)
+        type: video
+        sort: relevance
+
+
+- title: Popular
+  id: popular
+  feedSources:
+    - id: inv_popular
+      title: Popular
+      apiType: Invidious
+      endpoint: popular
+
