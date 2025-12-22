@@ -37,13 +37,7 @@ jobs:
           exit 1
         fi
         
-        # Simple validation - check file exists and has content
-        if [ ! -s "default_home_layout_new.json" ]; then
-          echo "❌ Generated JSON is empty"
-          exit 1
-        fi
-        
-        # Quick syntax check using python one-liner
+        # Simple validation
         python3 -c "import json; json.load(open('default_home_layout_new.json'))" && echo "✅ JSON syntax is valid"
         
         # Check if JSON already exists and is different
@@ -66,29 +60,15 @@ jobs:
     - name: Commit and push JSON changes
       if: steps.convert.outputs.changed == 'true'
       env:
-        PAT_TOKEN: ${{ secrets.GHA_PAT }}
+        REPO_URL: https://${{ secrets.GHA_PAT }}@github.com/${{ github.repository }}.git
       run: |
         # Configure git identity
         git config user.name "github-actions[bot]"
         git config user.email "github-actions[bot]@users.noreply.github.com"
         
-        # Set remote URL with PAT token
-        git remote set-url origin https://${PAT_TOKEN}@github.com/${{ github.repository }}
-        
         # Add and commit the JSON file
         git add default_home_layout.json
         git commit -m "Auto-convert: Update JSON from YAML [skip ci]"
         
-        # Push to vTube branch
-        git push origin HEAD:vTube
-        
-    - name: Show conversion status
-      if: always()
-      run: |
-        if [ "${{ steps.convert.outputs.changed }}" = "true" ]; then
-          echo "✅ JSON file was updated and committed."
-        elif [ "${{ steps.convert.outputs.changed }}" = "false" ]; then
-          echo "ℹ️  JSON file was already up-to-date."
-        else
-          echo "❌ Conversion failed or was skipped."
-        fi
+        # Push using the PAT token in the URL
+        git push $REPO_URL HEAD:vTube
