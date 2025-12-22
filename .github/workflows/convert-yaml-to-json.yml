@@ -18,9 +18,8 @@ jobs:
         token: ${{ secrets.GHA_PAT }}
         ref: vTube
         
-    - name: Install dependencies
+    - name: Install yq
       run: |
-        # Install yq for YAML to JSON conversion
         sudo wget -q https://github.com/mikefarah/yq/releases/latest/download/yq_linux_amd64 -O /usr/bin/yq
         sudo chmod +x /usr/bin/yq
         
@@ -32,17 +31,17 @@ jobs:
         # Convert YAML to JSON
         yq -o=json default_home_layout.yaml > default_home_layout_new.json
         
-        # Simple JSON validation
-        python3 -c "
-            import json, sys
-            try:
-                with open('default_home_layout_new.json', 'r') as f:
-                    json.load(f)
-                print('✅ JSON is valid')
-            except Exception as e:
-                print(f'❌ JSON validation error: {e}')
-                sys.exit(1)
-            "
+        # Simple JSON validation - using a heredoc to avoid indentation issues
+        python3 << 'EOF'
+          import json, sys
+          try:
+              with open('default_home_layout_new.json', 'r') as f:
+                  json.load(f)
+              print('✅ JSON is valid')
+          except Exception as e:
+              print(f'❌ JSON validation error: {e}')
+              sys.exit(1)
+          EOF
         
         # Check if JSON already exists and is different
         if [ -f "default_home_layout.json" ]; then
