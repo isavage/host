@@ -31,17 +31,20 @@ jobs:
         # Convert YAML to JSON
         yq -o=json default_home_layout.yaml > default_home_layout_new.json
         
-        # Simple JSON validation - using a heredoc to avoid indentation issues
-        python3 << 'EOF'
-          import json, sys
-          try:
-              with open('default_home_layout_new.json', 'r') as f:
-                  json.load(f)
-              print('✅ JSON is valid')
-          except Exception as e:
-              print(f'❌ JSON validation error: {e}')
-              sys.exit(1)
-          EOF
+        # Check if conversion succeeded
+        if [ $? -ne 0 ]; then
+          echo "❌ Failed to convert YAML to JSON"
+          exit 1
+        fi
+        
+        # Simple validation - check file exists and has content
+        if [ ! -s "default_home_layout_new.json" ]; then
+          echo "❌ Generated JSON is empty"
+          exit 1
+        fi
+        
+        # Quick syntax check using python one-liner
+        python3 -c "import json; json.load(open('default_home_layout_new.json'))" && echo "✅ JSON syntax is valid"
         
         # Check if JSON already exists and is different
         if [ -f "default_home_layout.json" ]; then
