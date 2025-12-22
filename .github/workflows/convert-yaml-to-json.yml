@@ -21,6 +21,7 @@ jobs:
       with:
         token: ${{ secrets.GHA_PAT }}
         ref: vTube
+        persist-credentials: true
         
     - name: Install dependencies
       run: |
@@ -88,20 +89,24 @@ jobs:
         
         echo "✅ Conversion successful!"
         
-    - name: Configure Git identity
+    - name: Configure Git for push
       if: steps.convert.outputs.changed == 'true'
       run: |
-        git config --global user.name "github-actions[bot]"
-        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        # Set the remote URL with the GITHUB_TOKEN
+        git remote set-url origin https://x-access-token:${{ secrets.GHA_PAT }}@github.com/${{ github.repository }}
         
     - name: Commit and push JSON changes
       if: steps.convert.outputs.changed == 'true'
       run: |
+        # Configure git identity
+        git config user.name "github-actions[bot]"
+        git config user.email "github-actions[bot]@users.noreply.github.com"
+        
         # Add and commit the JSON file
         git add default_home_layout.json
         git commit -m "Auto-convert: Update JSON from YAML [skip ci]"
         
-        # Push using the authenticated remote
+        # Push to vTube branch
         git push origin HEAD:vTube
         
     - name: Show conversion status
