@@ -88,6 +88,12 @@ jobs:
         
         echo "✅ Conversion successful!"
         
+    - name: Configure Git identity
+      if: steps.convert.outputs.changed == 'true'
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        
     - name: Commit and push JSON changes
       if: steps.convert.outputs.changed == 'true'
       run: |
@@ -97,7 +103,6 @@ jobs:
         
         # Push using the authenticated remote
         git push origin HEAD:vTube
-        
         
     - name: Show conversion status
       if: always()
