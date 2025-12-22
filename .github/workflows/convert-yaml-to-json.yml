@@ -91,16 +91,13 @@ jobs:
     - name: Commit and push JSON changes
       if: steps.convert.outputs.changed == 'true'
       run: |
-        # Configure git
-        git config --local user.email "github-actions[bot]@users.noreply.github.com"
-        git config --local user.name "github-actions[bot]"
-        
         # Add and commit the JSON file
         git add default_home_layout.json
         git commit -m "Auto-convert: Update JSON from YAML [skip ci]"
         
-        # Push back to vTube branch
+        # Push using the authenticated remote
         git push origin HEAD:vTube
+        
         
     - name: Show conversion status
       if: always()
