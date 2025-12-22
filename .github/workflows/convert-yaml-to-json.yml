@@ -8,16 +8,14 @@ on:
       - 'default_home_layout.yaml'
 
 jobs:
-  convert-yaml-to-json:
+  convert:
     runs-on: ubuntu-latest
     
     steps:
-    - name: Checkout vTube branch
-      uses: actions/checkout@v4
+    - uses: actions/checkout@v4
       with:
         token: ${{ secrets.GHA_PAT }}
         ref: vTube
-        persist-credentials: true  # This is key!
         
     - name: Install yq
       run: |
@@ -25,28 +23,28 @@ jobs:
         sudo chmod +x /usr/bin/yq
         
     - name: Convert YAML to JSON
-      id: convert
       run: |
-        echo "Converting default_home_layout.yaml to JSON..."
+        echo "Converting YAML to JSON..."
         yq -o=json default_home_layout.yaml > default_home_layout.json
         
-        # Validate
-        python3 -c "import json; json.load(open('default_home_layout.json'))" && echo "✅ JSON syntax is valid"
-        
-        # Check if different from previous commit
-        if git diff --quiet HEAD -- default_home_layout.json; then
-          echo "✅ No changes to JSON file."
-          echo "changed=false" >> $GITHUB_OUTPUT
-        else
-          echo "🔄 JSON file has changed."
-          echo "changed=true" >> $GITHUB_OUTPUT
-        fi
-        
     - name: Commit and push
-      if: steps.convert.outputs.changed == 'true'
+      env:
+        # Create the authenticated URL
+        AUTH_URL: https://x-access-token:${{ secrets.GHA_PAT }}@github.com/${{ github.repository }}
       run: |
+        # Configure git
         git config user.name "github-actions[bot]"
         git config user.email "github-actions[bot]@users.noreply.github.com"
+        
+        # Set the remote URL with authentication
+        git remote set-url origin $AUTH_URL
+        
+        # Add and check for changes
         git add default_home_layout.json
-        git commit -m "Auto-convert: Update JSON from YAML [skip ci]"
-        git push
+        
+        if ! git diff --cached --quiet; then
+          git commit -m "Auto-convert: Update JSON from YAML [skip ci]"
+          git push origin HEAD:vTube
+        else
+          echo "No changes to commit."
+        fi
