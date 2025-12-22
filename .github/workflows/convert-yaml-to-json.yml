@@ -15,7 +15,7 @@ jobs:
     - name: Checkout vTube branch
       uses: actions/checkout@v4
       with:
-        token: ${{ secrets.GITHUB_TOKEN }}
+        token: ${{ secrets.GHA_PAT }}
         ref: vTube
         
     - name: Install yq
@@ -44,9 +44,18 @@ jobs:
           exit 1
         fi
         
-        # Validate JSON syntax
-        if ! python3 -c "import json; json.load(open('default_home_layout_new.json'))"; then
-          echo "Error: Generated JSON is invalid!"
+        # Validate JSON syntax (simple check)
+        if ! python3 -c "
+            import json, sys
+            try:
+                with open('default_home_layout_new.json', 'r') as f:
+                    json.load(f)
+                print('JSON is valid')
+            except Exception as e:
+                print(f'JSON validation error: {e}')
+                sys.exit(1)
+            "; then
+                      echo "Error: Generated JSON is invalid!"
           exit 1
         fi
         
@@ -70,7 +79,7 @@ jobs:
     - name: Commit and push JSON changes
       if: steps.convert.outputs.changed == 'true'
       run: |
-        # Configure git
+        # Configure git with the PAT token
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
         
@@ -78,5 +87,5 @@ jobs:
         git add default_home_layout.json
         git commit -m "Auto-convert: Update JSON from YAML [skip ci]"
         
-        # Push back to vTube branch
-        git push origin vTube
+        # Push back to vTube branch using the PAT token
+        git push origin HEAD:vTube
