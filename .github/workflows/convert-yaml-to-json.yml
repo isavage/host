@@ -1,0 +1,82 @@
+name: Convert YAML to JSON
+
+on:
+  push:
+    branches:
+      - vTube
+    paths:
+      - 'default_home_layout.yaml'
+
+jobs:
+  convert-yaml-to-json:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout vTube branch
+      uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        ref: vTube
+        
+    - name: Install yq
+      run: |
+        sudo wget -q https://github.com/mikefarah/yq/releases/latest/download/yq_linux_amd64 -O /usr/bin/yq
+        sudo chmod +x /usr/bin/yq
+        echo "yq version: $(yq --version)"
+        
+    - name: Convert YAML to JSON
+      id: convert
+      run: |
+        echo "Converting default_home_layout.yaml to JSON..."
+        
+        # Validate YAML file exists
+        if [ ! -f "default_home_layout.yaml" ]; then
+          echo "Error: default_home_layout.yaml not found!"
+          exit 1
+        fi
+        
+        # Convert YAML to JSON
+        yq -o=json default_home_layout.yaml > default_home_layout_new.json
+        
+        # Check if conversion succeeded
+        if [ $? -ne 0 ]; then
+          echo "Error: Failed to convert YAML to JSON!"
+          exit 1
+        fi
+        
+        # Validate JSON syntax
+        if ! python3 -c "import json; json.load(open('default_home_layout_new.json'))"; then
+          echo "Error: Generated JSON is invalid!"
+          exit 1
+        fi
+        
+        # Check if JSON already exists and is different
+        if [ -f "default_home_layout.json" ]; then
+          if cmp -s default_home_layout_new.json default_home_layout.json; then
+            echo "No changes to JSON file."
+            echo "changed=false" >> $GITHUB_OUTPUT
+            rm default_home_layout_new.json
+          else
+            echo "JSON file has changed."
+            echo "changed=true" >> $GITHUB_OUTPUT
+            mv default_home_layout_new.json default_home_layout.json
+          fi
+        else
+          echo "Creating new JSON file."
+          echo "changed=true" >> $GITHUB_OUTPUT
+          mv default_home_layout_new.json default_home_layout.json
+        fi
+        
+    - name: Commit and push JSON changes
+      if: steps.convert.outputs.changed == 'true'
+      run: |
+        # Configure git
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        
+        # Add and commit the JSON file
+        git add default_home_layout.json
+        git commit -m "Auto-convert: Update JSON from YAML [skip ci]"
+        
+        # Push back to vTube branch
+        git push origin vTube
