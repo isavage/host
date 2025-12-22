@@ -7,10 +7,6 @@ on:
     paths:
       - 'default_home_layout.yaml'
 
-# Set permissions for GITHUB_TOKEN to write
-permissions:
-  contents: write
-
 jobs:
   convert-yaml-to-json:
     runs-on: ubuntu-latest
@@ -21,7 +17,6 @@ jobs:
       with:
         token: ${{ secrets.GHA_PAT }}
         ref: vTube
-        persist-credentials: true
         
     - name: Install dependencies
       run: |
@@ -29,46 +24,25 @@ jobs:
         sudo wget -q https://github.com/mikefarah/yq/releases/latest/download/yq_linux_amd64 -O /usr/bin/yq
         sudo chmod +x /usr/bin/yq
         
-        # Install jq for JSON validation (optional but helpful)
-        sudo apt-get update
-        sudo apt-get install -y jq
-        
     - name: Convert YAML to JSON
       id: convert
       run: |
         echo "Converting default_home_layout.yaml to JSON..."
         
-        # Validate YAML file exists
-        if [ ! -f "default_home_layout.yaml" ]; then
-          echo "Error: default_home_layout.yaml not found!"
-          exit 1
-        fi
-        
-        # First, check if YAML is valid
-        echo "Checking YAML syntax..."
-        if ! yq e '.' default_home_layout.yaml > /dev/null 2>&1; then
-          echo "Error: YAML file is invalid!"
-          exit 1
-        fi
-        
         # Convert YAML to JSON
-        echo "Converting to JSON..."
         yq -o=json default_home_layout.yaml > default_home_layout_new.json
         
-        # Check if conversion succeeded
-        if [ $? -ne 0 ]; then
-          echo "Error: Failed to convert YAML to JSON!"
-          exit 1
-        fi
-        
-        # Validate JSON syntax using jq (more reliable)
-        echo "Validating JSON..."
-        if ! jq empty default_home_layout_new.json 2>/dev/null; then
-          echo "Error: Generated JSON is invalid!"
-          echo "JSON content:"
-          cat default_home_layout_new.json
-          exit 1
-        fi
+        # Simple JSON validation
+        python3 -c "
+            import json, sys
+            try:
+                with open('default_home_layout_new.json', 'r') as f:
+                    json.load(f)
+                print('✅ JSON is valid')
+            except Exception as e:
+                print(f'❌ JSON validation error: {e}')
+                sys.exit(1)
+            "
         
         # Check if JSON already exists and is different
         if [ -f "default_home_layout.json" ]; then
@@ -87,20 +61,17 @@ jobs:
           mv default_home_layout_new.json default_home_layout.json
         fi
         
-        echo "✅ Conversion successful!"
-        
-    - name: Configure Git for push
-      if: steps.convert.outputs.changed == 'true'
-      run: |
-        # Set the remote URL with the GITHUB_TOKEN
-        git remote set-url origin https://x-access-token:${{ secrets.GHA_PAT }}@github.com/${{ github.repository }}
-        
     - name: Commit and push JSON changes
       if: steps.convert.outputs.changed == 'true'
+      env:
+        PAT_TOKEN: ${{ secrets.GHA_PAT }}
       run: |
         # Configure git identity
         git config user.name "github-actions[bot]"
         git config user.email "github-actions[bot]@users.noreply.github.com"
+        
+        # Set remote URL with PAT token
+        git remote set-url origin https://${PAT_TOKEN}@github.com/${{ github.repository }}
         
         # Add and commit the JSON file
         git add default_home_layout.json
