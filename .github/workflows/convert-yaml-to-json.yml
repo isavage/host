@@ -7,6 +7,10 @@ on:
     paths:
       - 'default_home_layout.yaml'
 
+# Set permissions for GITHUB_TOKEN to write
+permissions:
+  contents: write
+
 jobs:
   convert-yaml-to-json:
     runs-on: ubuntu-latest
@@ -18,11 +22,15 @@ jobs:
         token: ${{ secrets.GHA_PAT }}
         ref: vTube
         
-    - name: Install yq
+    - name: Install dependencies
       run: |
+        # Install yq for YAML to JSON conversion
         sudo wget -q https://github.com/mikefarah/yq/releases/latest/download/yq_linux_amd64 -O /usr/bin/yq
         sudo chmod +x /usr/bin/yq
-        echo "yq version: $(yq --version)"
+        
+        # Install jq for JSON validation (optional but helpful)
+        sudo apt-get update
+        sudo apt-get install -y jq
         
     - name: Convert YAML to JSON
       id: convert
@@ -35,7 +43,15 @@ jobs:
           exit 1
         fi
         
+        # First, check if YAML is valid
+        echo "Checking YAML syntax..."
+        if ! yq e '.' default_home_layout.yaml > /dev/null 2>&1; then
+          echo "Error: YAML file is invalid!"
+          exit 1
+        fi
+        
         # Convert YAML to JSON
+        echo "Converting to JSON..."
         yq -o=json default_home_layout.yaml > default_home_layout_new.json
         
         # Check if conversion succeeded
@@ -44,42 +60,38 @@ jobs:
           exit 1
         fi
         
-        # Validate JSON syntax (simple check)
-        if ! python3 -c "
-            import json, sys
-            try:
-                with open('default_home_layout_new.json', 'r') as f:
-                    json.load(f)
-                print('JSON is valid')
-            except Exception as e:
-                print(f'JSON validation error: {e}')
-                sys.exit(1)
-            "; then
-                      echo "Error: Generated JSON is invalid!"
+        # Validate JSON syntax using jq (more reliable)
+        echo "Validating JSON..."
+        if ! jq empty default_home_layout_new.json 2>/dev/null; then
+          echo "Error: Generated JSON is invalid!"
+          echo "JSON content:"
+          cat default_home_layout_new.json
           exit 1
         fi
         
         # Check if JSON already exists and is different
         if [ -f "default_home_layout.json" ]; then
           if cmp -s default_home_layout_new.json default_home_layout.json; then
-            echo "No changes to JSON file."
+            echo "✅ No changes to JSON file."
             echo "changed=false" >> $GITHUB_OUTPUT
             rm default_home_layout_new.json
           else
-            echo "JSON file has changed."
+            echo "🔄 JSON file has changed."
             echo "changed=true" >> $GITHUB_OUTPUT
             mv default_home_layout_new.json default_home_layout.json
           fi
         else
-          echo "Creating new JSON file."
+          echo "✨ Creating new JSON file."
           echo "changed=true" >> $GITHUB_OUTPUT
           mv default_home_layout_new.json default_home_layout.json
         fi
         
+        echo "✅ Conversion successful!"
+        
     - name: Commit and push JSON changes
       if: steps.convert.outputs.changed == 'true'
       run: |
-        # Configure git with the PAT token
+        # Configure git
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
         
@@ -87,5 +99,16 @@ jobs:
         git add default_home_layout.json
         git commit -m "Auto-convert: Update JSON from YAML [skip ci]"
         
-        # Push back to vTube branch using the PAT token
+        # Push back to vTube branch
         git push origin HEAD:vTube
+        
+    - name: Show conversion status
+      if: always()
+      run: |
+        if [ "${{ steps.convert.outputs.changed }}" = "true" ]; then
+          echo "✅ JSON file was updated and committed."
+        elif [ "${{ steps.convert.outputs.changed }}" = "false" ]; then
+          echo "ℹ️  JSON file was already up-to-date."
+        else
+          echo "❌ Conversion failed or was skipped."
+        fi
