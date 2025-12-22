@@ -1,8 +1,8 @@
-- title: Subscriptions (GH...)
+- title: Subscriptions
   id: subscriptions
   feedSources:
     - id: inv_auth_feed
-      title: Subscriptions (GH)
+      title: Subscriptions
       apiType: Invidious
       endpoint: auth_feed
 
@@ -137,7 +137,7 @@
         type: video
         sort: relevance
 
-- title: More Videos
+- title: More Videos (GH)
   id: more_videos
   feedSources:
     - id: inv_search_more_videos
