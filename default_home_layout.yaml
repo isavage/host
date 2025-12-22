@@ -1,4 +1,4 @@
-- title: Subscriptions (new)
+- title: Subscriptions
   id: subscriptions
   feedSources:
     - id: inv_auth_feed
