@@ -1,5 +1,4 @@
 name: Convert YAML to JSON
-
 on:
   push:
     branches:
@@ -7,41 +6,36 @@ on:
     paths:
       - 'default_home_layout.yaml'
 
+permissions:  # Add this at the top level to grant write access
+  contents: write
+
 jobs:
   convert:
     runs-on: ubuntu-latest
-    
+   
     steps:
     - uses: actions/checkout@v4
       with:
-        token: ${{ secrets.GHA_PAT }}
         ref: vTube
-        
+        # Remove the token here – use default GITHUB_TOKEN
+       
     - name: Install yq
       run: |
         sudo wget -q https://github.com/mikefarah/yq/releases/latest/download/yq_linux_amd64 -O /usr/bin/yq
         sudo chmod +x /usr/bin/yq
-        
+       
     - name: Convert YAML to JSON
       run: |
         echo "Converting YAML to JSON..."
         yq -o=json default_home_layout.yaml > default_home_layout.json
-        
+       
     - name: Commit and push
-      env:
-        # Create the authenticated URL
-        AUTH_URL: https://x-access-token:${{ secrets.GHA_PAT }}@github.com/${{ github.repository }}
       run: |
-        # Configure git
         git config user.name "github-actions[bot]"
         git config user.email "github-actions[bot]@users.noreply.github.com"
-        
-        # Set the remote URL with authentication
-        git remote set-url origin $AUTH_URL
-        
-        # Add and check for changes
+       
         git add default_home_layout.json
-        
+       
         if ! git diff --cached --quiet; then
           git commit -m "Auto-convert: Update JSON from YAML [skip ci]"
           git push origin HEAD:vTube
