@@ -1,11 +1,11 @@
 [
   {
-    "title": "Subscriptions (GH.)",
+    "title": "Subscriptions (GH...)",
     "id": "subscriptions",
     "feedSources": [
       {
         "id": "inv_auth_feed",
-        "title": "Subscriptions",
+        "title": "Subscriptions (GH)",
         "apiType": "Invidious",
         "endpoint": "auth_feed"
       }
