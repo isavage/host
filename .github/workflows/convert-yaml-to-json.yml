@@ -17,6 +17,7 @@ jobs:
       with:
         token: ${{ secrets.GHA_PAT }}
         ref: vTube
+        persist-credentials: true  # This is key!
         
     - name: Install yq
       run: |
@@ -27,48 +28,25 @@ jobs:
       id: convert
       run: |
         echo "Converting default_home_layout.yaml to JSON..."
+        yq -o=json default_home_layout.yaml > default_home_layout.json
         
-        # Convert YAML to JSON
-        yq -o=json default_home_layout.yaml > default_home_layout_new.json
+        # Validate
+        python3 -c "import json; json.load(open('default_home_layout.json'))" && echo "✅ JSON syntax is valid"
         
-        # Check if conversion succeeded
-        if [ $? -ne 0 ]; then
-          echo "❌ Failed to convert YAML to JSON"
-          exit 1
-        fi
-        
-        # Simple validation
-        python3 -c "import json; json.load(open('default_home_layout_new.json'))" && echo "✅ JSON syntax is valid"
-        
-        # Check if JSON already exists and is different
-        if [ -f "default_home_layout.json" ]; then
-          if cmp -s default_home_layout_new.json default_home_layout.json; then
-            echo "✅ No changes to JSON file."
-            echo "changed=false" >> $GITHUB_OUTPUT
-            rm default_home_layout_new.json
-          else
-            echo "🔄 JSON file has changed."
-            echo "changed=true" >> $GITHUB_OUTPUT
-            mv default_home_layout_new.json default_home_layout.json
-          fi
+        # Check if different from previous commit
+        if git diff --quiet HEAD -- default_home_layout.json; then
+          echo "✅ No changes to JSON file."
+          echo "changed=false" >> $GITHUB_OUTPUT
         else
-          echo "✨ Creating new JSON file."
+          echo "🔄 JSON file has changed."
           echo "changed=true" >> $GITHUB_OUTPUT
-          mv default_home_layout_new.json default_home_layout.json
         fi
         
-    - name: Commit and push JSON changes
+    - name: Commit and push
       if: steps.convert.outputs.changed == 'true'
-      env:
-        REPO_URL: https://${{ secrets.GHA_PAT }}@github.com/${{ github.repository }}.git
       run: |
-        # Configure git identity
         git config user.name "github-actions[bot]"
         git config user.email "github-actions[bot]@users.noreply.github.com"
-        
-        # Add and commit the JSON file
         git add default_home_layout.json
         git commit -m "Auto-convert: Update JSON from YAML [skip ci]"
-        
-        # Push using the PAT token in the URL
-        git push $REPO_URL HEAD:vTube
+        git push
