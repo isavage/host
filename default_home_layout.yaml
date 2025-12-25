@@ -1,12 +1,4 @@
-- title: Subscriptions (GH)
-  id: subscriptions
-  feedSources:
-    - id: inv_auth_feed
-      title: Subscriptions
-      apiType: Invidious
-      endpoint: auth_feed
-
-- title: Technology
+- title: Science & Technology
   id: technology_videos
   feedSources:
     - id: inv_search_technology_videos
@@ -17,6 +9,15 @@
         q: (@veritasium OR @Maxinomics OR @JeffGeerling OR @AZisk OR @HardwareHaven OR @JeffSu OR @KyleErickson OR @NetworkChuck OR @CoreDumpped)
         type: video
         sort: relevance
+
+- title: Subscriptions (GH)
+  id: subscriptions
+  feedSources:
+    - id: inv_auth_feed
+      title: Subscriptions
+      apiType: Invidious
+      endpoint: auth_feed
+
 
 - title: Documentaries
   id: documentaries
@@ -125,18 +126,6 @@
         sort: relevance
 
 
-- title: Trending Tech
-  id: tech
-  feedSources:
-    - id: inv_search_tech
-      title: Trending Tech
-      apiType: Invidious
-      endpoint: search
-      queryParams:
-        q: (tech videos)
-        type: video
-        sort: relevance
-
 - title: More Videos (GH)
   id: more_videos
   feedSources:
@@ -145,7 +134,7 @@
       apiType: Invidious
       endpoint: search
       queryParams:
-        q: (music videos OR 4K music videos)
+        q: (music videos)
         type: video
         sort: relevance
 
