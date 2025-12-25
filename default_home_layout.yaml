@@ -14,7 +14,7 @@
       apiType: Invidious
       endpoint: search
       queryParams:
-        q: (@JeffGeerling OR @AZisk OR @HardwareHaven OR @LinusTechTips OR @JeffSu OR @KyleErickson OR @NetworkChuck OR @CoreDumpped)
+        q: (@veritasium OR @Maxinomics OR @JeffGeerling OR @AZisk OR @HardwareHaven OR @JeffSu OR @KyleErickson OR @NetworkChuck OR @CoreDumpped)
         type: video
         sort: relevance
 
