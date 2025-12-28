@@ -4,8 +4,16 @@
     - id: vrs_custom_1
       title: Varun, New For You
       type: custom
-      url: https://raw.githubusercontent.com/isavage/host/refs/heads/vTube/vrs_custom_scraper.json
-      
+      url: https://raw.githubusercontent.com/isavage/host/refs/heads/vTube/vrs_custom_scraper-1.json
+
+- title: Varun, More For You
+  id: vrs_custom_recommendations
+  feedSources:
+    - id: vrs_custom_2
+      title: Varun, More For You
+      type: custom
+      url: https://raw.githubusercontent.com/isavage/host/refs/heads/vTube/vrs_custom_scraper-2.json
+
 - title: Science & Technology
   id: technology_videos
   feedSources:
@@ -17,7 +25,7 @@
         q: (@veritasium OR @Maxinomics OR @JeffGeerling OR @AZisk OR @HardwareHaven OR @JeffSu OR @KyleErickson OR @NetworkChuck OR @CoreDumpped)
         type: video
         sort: relevance
-
+        
 - title: Subscriptions
   id: subscriptions
   feedSources:
@@ -52,6 +60,13 @@
         type: video
         sort: relevance
 
+- title: Varun, Some More
+  id: vrs_custom_recommendations
+  feedSources:
+    - id: vrs_custom_3
+      title: Varun, Some More
+      type: custom
+      url: https://raw.githubusercontent.com/isavage/host/refs/heads/vTube/vrs_custom_scraper-3.json
 
 - title: Music & Entertainment
   id: entertainment
