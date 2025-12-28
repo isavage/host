@@ -1,5 +1,17 @@
 [
   {
+    "title": "Varun, New For You",
+    "id": "vrs_custom_recommendations",
+    "feedSources": [
+      {
+        "id": "vrs_custom_1",
+        "title": "Varun, New For You",
+        "type": "custom",
+        "url": "https://raw.githubusercontent.com/isavage/host/refs/heads/vTube/vrs_custom_scraper.json"
+      }
+    ]
+  },
+  {
     "title": "Science & Technology",
     "id": "technology_videos",
     "feedSources": [
@@ -17,7 +29,7 @@
     ]
   },
   {
-    "title": "Subscriptions (GH)",
+    "title": "Subscriptions",
     "id": "subscriptions",
     "feedSources": [
       {
