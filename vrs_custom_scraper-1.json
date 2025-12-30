@@ -1,17 +1,17 @@
 [
   {
     "type": "video",
-    "title": "I read 50 business books. These 11 will make you RICH",
-    "videoId": "MR5fCRVi3Eg",
-    "author": "Nischa",
+    "title": "Why MCP really is a big deal | Model Context Protocol with Tim Berglund",
+    "videoId": "FLpS7OfD5-s",
+    "author": "Confluent Developer",
     "authorId": "N/A",
     "lengthSeconds": 0,
     "published": 0,
-    "viewCount": 229999,
+    "viewCount": 630000,
     "videoThumbnails": [
       {
         "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/MR5fCRVi3Eg/maxresdefault.jpg",
+        "url": "https://i.ytimg.com/vi/FLpS7OfD5-s/maxresdefault.jpg",
         "width": 1280,
         "height": 720
       }
@@ -19,243 +19,9 @@
   },
   {
     "type": "video",
-    "title": "The Man Who Outsmarted EVERY Government",
-    "videoId": "SkAZZxEvgsc",
-    "author": "Blackfiles",
-    "authorId": "N/A",
-    "lengthSeconds": 0,
-    "published": 0,
-    "viewCount": 919999,
-    "videoThumbnails": [
-      {
-        "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/SkAZZxEvgsc/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    ]
-  },
-  {
-    "type": "video",
-    "title": "Music Theory in 16 Minutes",
-    "videoId": "_eKTOMhpy2w",
-    "author": "Guy Michelmore",
-    "authorId": "N/A",
-    "lengthSeconds": 0,
-    "published": 0,
-    "viewCount": 4500000,
-    "videoThumbnails": [
-      {
-        "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/_eKTOMhpy2w/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    ]
-  },
-  {
-    "type": "video",
-    "title": "World Religions from an Academic Point of View",
-    "videoId": "nxhSOcyPCVo",
-    "author": "UsefulCharts",
-    "authorId": "N/A",
-    "lengthSeconds": 0,
-    "published": 0,
-    "viewCount": 1900000,
-    "videoThumbnails": [
-      {
-        "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/nxhSOcyPCVo/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    ]
-  },
-  {
-    "type": "video",
-    "title": "Why 2026 is the Year of the AI Builder with Lovable CEO Anton Osika",
-    "videoId": "Nfy9BCSOTF4",
-    "author": "The AI Daily Brief: Artificial Intelligence News",
-    "authorId": "N/A",
-    "lengthSeconds": 0,
-    "published": 0,
-    "viewCount": 651,
-    "videoThumbnails": [
-      {
-        "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/Nfy9BCSOTF4/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    ]
-  },
-  {
-    "type": "video",
-    "title": "Audi Quattro vs BMW xDrive vs Mercedes 4MATIC – Engineering Explained",
-    "videoId": "O6VRD15PF-w",
-    "author": "Motoring Masters",
-    "authorId": "N/A",
-    "lengthSeconds": 0,
-    "published": 0,
-    "viewCount": 1500000,
-    "videoThumbnails": [
-      {
-        "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/O6VRD15PF-w/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    ]
-  },
-  {
-    "type": "video",
-    "title": "Why is Applied Reinforcement Learning Hard?",
-    "videoId": "RIfSbggZxws",
-    "author": "Mutual Information",
-    "authorId": "N/A",
-    "lengthSeconds": 0,
-    "published": 0,
-    "viewCount": 14000,
-    "videoThumbnails": [
-      {
-        "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/RIfSbggZxws/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    ]
-  },
-  {
-    "type": "video",
-    "title": "How LLMs Actually Generate Text  (Every Dev Should Know This)",
-    "videoId": "NKnZYvZA7w4",
-    "author": "LearnThatStack",
-    "authorId": "N/A",
-    "lengthSeconds": 0,
-    "published": 0,
-    "viewCount": 57000,
-    "videoThumbnails": [
-      {
-        "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/NKnZYvZA7w4/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    ]
-  },
-  {
-    "type": "video",
-    "title": "Google's FREE Tool Just DESTROYED 10 AI Subscriptions (NotebookLM Mastery)",
-    "videoId": "WJtnH0G8G1g",
-    "author": "Vaibhav Sisinty",
-    "authorId": "N/A",
-    "lengthSeconds": 0,
-    "published": 0,
-    "viewCount": 150000,
-    "videoThumbnails": [
-      {
-        "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/WJtnH0G8G1g/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    ]
-  },
-  {
-    "type": "video",
-    "title": "Structures Too Advanced for Their Age | Ancient Aliens",
-    "videoId": "G28ywyeED4Q",
-    "author": "HISTORY",
-    "authorId": "N/A",
-    "lengthSeconds": 0,
-    "published": 0,
-    "viewCount": 22000,
-    "videoThumbnails": [
-      {
-        "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/G28ywyeED4Q/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    ]
-  },
-  {
-    "type": "video",
-    "title": "What does $1,000,000 sound like? - My Trip to AXPONA 2025",
-    "videoId": "IXVaRKOhczg",
-    "author": "Danny Pops",
-    "authorId": "N/A",
-    "lengthSeconds": 0,
-    "published": 0,
-    "viewCount": 1100000,
-    "videoThumbnails": [
-      {
-        "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/IXVaRKOhczg/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    ]
-  },
-  {
-    "type": "video",
-    "title": "LIVE | Taiwan Drills: China Sends a Message to the US and Japan | Vantage with Palki Sharma | N18G",
-    "videoId": "gclm6WKjsiU",
-    "author": "Firstpost",
-    "authorId": "N/A",
-    "lengthSeconds": 0,
-    "published": 0,
-    "viewCount": 67000,
-    "videoThumbnails": [
-      {
-        "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/gclm6WKjsiU/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    ]
-  },
-  {
-    "type": "video",
-    "title": "NASA Found a Strange Substance on Asteroid Bennu",
-    "videoId": "8_4INYWaVyM",
-    "author": "Astrum",
-    "authorId": "N/A",
-    "lengthSeconds": 0,
-    "published": 0,
-    "viewCount": 590000,
-    "videoThumbnails": [
-      {
-        "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/8_4INYWaVyM/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    ]
-  },
-  {
-    "type": "video",
-    "title": "This skill is a huge problem | Sailing Locked (#3)",
-    "videoId": "HRnC28praT4",
-    "author": "Settled",
-    "authorId": "N/A",
-    "lengthSeconds": 0,
-    "published": 0,
-    "viewCount": 570000,
-    "videoThumbnails": [
-      {
-        "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/HRnC28praT4/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    ]
-  },
-  {
-    "type": "video",
-    "title": "Goodbye Gigabit: My Under-$1k UniFi 10 Gb Home Network Build",
-    "videoId": "bUOLJc8ABf0",
-    "author": "Crosstalk Solutions",
+    "title": "20 AI Concepts Explained in 40 Minutes",
+    "videoId": "OYvlznJ4IZQ",
+    "author": "Gaurav Sen",
     "authorId": "N/A",
     "lengthSeconds": 0,
     "published": 0,
@@ -263,7 +29,7 @@
     "videoThumbnails": [
       {
         "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/bUOLJc8ABf0/maxresdefault.jpg",
+        "url": "https://i.ytimg.com/vi/OYvlznJ4IZQ/maxresdefault.jpg",
         "width": 1280,
         "height": 720
       }
@@ -271,17 +37,17 @@
   },
   {
     "type": "video",
-    "title": "The World’s Most Mysterious Book That No One Can Decode • Mystery Files",
-    "videoId": "oUUwmB6Fv2A",
-    "author": "Watcher",
+    "title": "99% Investors Miss Multibaggers Because They Don’t Know When to Sell – Ft Devina Mehra & Rahul Jain",
+    "videoId": "uBTEhbxSlTs",
+    "author": "Rahul Jain",
     "authorId": "N/A",
     "lengthSeconds": 0,
     "published": 0,
-    "viewCount": 3400000,
+    "viewCount": 140000,
     "videoThumbnails": [
       {
         "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/oUUwmB6Fv2A/maxresdefault.jpg",
+        "url": "https://i.ytimg.com/vi/uBTEhbxSlTs/maxresdefault.jpg",
         "width": 1280,
         "height": 720
       }
@@ -289,17 +55,17 @@
   },
   {
     "type": "video",
-    "title": "Supplements I recommend as a doctor (and the ones I don’t)",
-    "videoId": "K5q9JMXYJDg",
-    "author": "The Doctor's Kitchen",
+    "title": "Offline AI on Raspberry Pi 5 — It Talks, Thinks locally without Wi-Fi! (Complete Tutorial)",
+    "videoId": "kFmhSTh167U",
+    "author": "Jdaie Lin",
     "authorId": "N/A",
     "lengthSeconds": 0,
     "published": 0,
-    "viewCount": 450000,
+    "viewCount": 270000,
     "videoThumbnails": [
       {
         "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/K5q9JMXYJDg/maxresdefault.jpg",
+        "url": "https://i.ytimg.com/vi/kFmhSTh167U/maxresdefault.jpg",
         "width": 1280,
         "height": 720
       }
@@ -307,17 +73,17 @@
   },
   {
     "type": "video",
-    "title": "The Discovery of Bacteria Should Have Been Impossible",
-    "videoId": "elJcBe6Qwz4",
-    "author": "SciShow",
+    "title": "What If The Largest Objects in the Universe Collided?",
+    "videoId": "ReiQ0TMYGIw",
+    "author": "What If",
     "authorId": "N/A",
     "lengthSeconds": 0,
     "published": 0,
-    "viewCount": 110000,
+    "viewCount": 99000,
     "videoThumbnails": [
       {
         "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/elJcBe6Qwz4/maxresdefault.jpg",
+        "url": "https://i.ytimg.com/vi/ReiQ0TMYGIw/maxresdefault.jpg",
         "width": 1280,
         "height": 720
       }
@@ -325,17 +91,17 @@
   },
   {
     "type": "video",
-    "title": "Groq, GPUs and the AI frontier: Jonathan Ross on scaling real-time AI",
-    "videoId": "i609M6Tpa0g",
-    "author": "YourStory",
+    "title": "Leaked: Trump’s Defense Stocks - The Investment Opportunity of a Lifetime!?",
+    "videoId": "4GG0ITYWjZs",
+    "author": "Felix & Friends (Goat Academy)",
     "authorId": "N/A",
     "lengthSeconds": 0,
     "published": 0,
-    "viewCount": 5300,
+    "viewCount": 36000,
     "videoThumbnails": [
       {
         "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/i609M6Tpa0g/maxresdefault.jpg",
+        "url": "https://i.ytimg.com/vi/4GG0ITYWjZs/maxresdefault.jpg",
         "width": 1280,
         "height": 720
       }
@@ -343,17 +109,17 @@
   },
   {
     "type": "video",
-    "title": "Adam Savage Learns About the Flipper Zero",
-    "videoId": "c8q2YVRiOAE",
-    "author": "Adam Savage’s Tested",
+    "title": "EP 482 | December 29 | Nvidia bets on Groq: Inference Costs to Plummet Again | Daily AI News",
+    "videoId": "2nEHX1h_QPg",
+    "author": "GAI Insights: Daily AI News & Learning Lab",
     "authorId": "N/A",
     "lengthSeconds": 0,
     "published": 0,
-    "viewCount": 2000000,
+    "viewCount": 174,
     "videoThumbnails": [
       {
         "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/c8q2YVRiOAE/maxresdefault.jpg",
+        "url": "https://i.ytimg.com/vi/2nEHX1h_QPg/maxresdefault.jpg",
         "width": 1280,
         "height": 720
       }
@@ -361,17 +127,17 @@
   },
   {
     "type": "video",
-    "title": "The ULTIMATE Raspberry Pi 5 NAS",
-    "videoId": "l30sADfDiM8",
-    "author": "Jeff Geerling",
+    "title": "Playlist For Men Who Move In Silence | Gentleman Song | Gentleman Dark Blues",
+    "videoId": "hwGsQI_QgQo",
+    "author": "Gentle Blues Sound",
     "authorId": "N/A",
     "lengthSeconds": 0,
     "published": 0,
-    "viewCount": 3800000,
+    "viewCount": 600000,
     "videoThumbnails": [
       {
         "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/l30sADfDiM8/maxresdefault.jpg",
+        "url": "https://i.ytimg.com/vi/hwGsQI_QgQo/maxresdefault.jpg",
         "width": 1280,
         "height": 720
       }
@@ -379,17 +145,17 @@
   },
   {
     "type": "video",
-    "title": "RepoSwarm - Giving AI Agents Architecture Context Across All Your Repos - Roy Osherove",
-    "videoId": "rOMf9xvpgtc",
-    "author": "Roy Osherove",
+    "title": "The Most Valuable 20 Minutes You’ll Spend Today | Matthew McConaughey Motivation",
+    "videoId": "kXH36VoLuZI",
+    "author": "Champions Mentality 365",
     "authorId": "N/A",
     "lengthSeconds": 0,
     "published": 0,
-    "viewCount": 6100,
+    "viewCount": 910000,
     "videoThumbnails": [
       {
         "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/rOMf9xvpgtc/maxresdefault.jpg",
+        "url": "https://i.ytimg.com/vi/kXH36VoLuZI/maxresdefault.jpg",
         "width": 1280,
         "height": 720
       }
@@ -397,17 +163,17 @@
   },
   {
     "type": "video",
-    "title": "IRS Tax Brackets + Capital Gains In 2026 | What You NEED To Know Now",
-    "videoId": "hUGXnncJ9QQ",
-    "author": "Stephen Lee, CPA, CPWA®",
+    "title": "Deep Work Music for Traders ~ Focus Ambient Lab | Night City Productivity Sounds",
+    "videoId": "5n5YG8ShXRQ",
+    "author": "Focus Ambient Lab",
     "authorId": "N/A",
     "lengthSeconds": 0,
     "published": 0,
-    "viewCount": 320000,
+    "viewCount": 180000,
     "videoThumbnails": [
       {
         "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/hUGXnncJ9QQ/maxresdefault.jpg",
+        "url": "https://i.ytimg.com/vi/5n5YG8ShXRQ/maxresdefault.jpg",
         "width": 1280,
         "height": 720
       }
@@ -415,17 +181,17 @@
   },
   {
     "type": "video",
-    "title": "Why Google is the AI Play Everyone is Missing (And OpenAI is Scared) 📈🤖",
-    "videoId": "fHQYvda3cx4",
-    "author": "DELTA CAPITAL",
+    "title": "The Best Covered Call ETFs - High Yields and No Declines",
+    "videoId": "mf6XmOE0fwg",
+    "author": "Permission To Be Wealthy",
     "authorId": "N/A",
     "lengthSeconds": 0,
     "published": 0,
-    "viewCount": 10,
+    "viewCount": 150000,
     "videoThumbnails": [
       {
         "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/fHQYvda3cx4/maxresdefault.jpg",
+        "url": "https://i.ytimg.com/vi/mf6XmOE0fwg/maxresdefault.jpg",
         "width": 1280,
         "height": 720
       }
@@ -433,17 +199,17 @@
   },
   {
     "type": "video",
-    "title": "Upcoming Fragrance Releases for 2026 | What’s Coming Next",
-    "videoId": "31eLQm1vi20",
-    "author": "The Perfume Guy",
+    "title": "Top 10 Stocks I'm Buying to Get Rich in 2026 (Without Getting Lucky)",
+    "videoId": "SBs4LV0_PjA",
+    "author": "Ticker Symbol: YOU",
     "authorId": "N/A",
     "lengthSeconds": 0,
     "published": 0,
-    "viewCount": 9600,
+    "viewCount": 52000,
     "videoThumbnails": [
       {
         "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/31eLQm1vi20/maxresdefault.jpg",
+        "url": "https://i.ytimg.com/vi/SBs4LV0_PjA/maxresdefault.jpg",
         "width": 1280,
         "height": 720
       }
@@ -451,17 +217,17 @@
   },
   {
     "type": "video",
-    "title": "The Most Mindbending Theory of Creation",
-    "videoId": "xVnWw0-ONRY",
-    "author": "Jason Gregory",
+    "title": "The Death of the Token",
+    "videoId": "idvBdrWrKgU",
+    "author": "Ai Verdict",
     "authorId": "N/A",
     "lengthSeconds": 0,
     "published": 0,
-    "viewCount": 190000,
+    "viewCount": 8,
     "videoThumbnails": [
       {
         "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/xVnWw0-ONRY/maxresdefault.jpg",
+        "url": "https://i.ytimg.com/vi/idvBdrWrKgU/maxresdefault.jpg",
         "width": 1280,
         "height": 720
       }
@@ -469,17 +235,17 @@
   },
   {
     "type": "video",
-    "title": "Mehdi Hasan vs Michael Gove DEBATE Part 2: Will Trump 2.0 Make the World a Safer Place?",
-    "videoId": "vHYuJw1VrDc",
-    "author": "How To Academy",
+    "title": "Joe Rogan Experience #2422 - Jensen Huang",
+    "videoId": "3hptKYix4X8",
+    "author": "PowerfulJRE",
     "authorId": "N/A",
     "lengthSeconds": 0,
     "published": 0,
-    "viewCount": 400000,
+    "viewCount": 3000000,
     "videoThumbnails": [
       {
         "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/vHYuJw1VrDc/maxresdefault.jpg",
+        "url": "https://i.ytimg.com/vi/3hptKYix4X8/maxresdefault.jpg",
         "width": 1280,
         "height": 720
       }
@@ -487,17 +253,17 @@
   },
   {
     "type": "video",
-    "title": "Why EVERYONE Should Be Taking These 5 Supplements",
-    "videoId": "TawxFf1MBGc",
-    "author": "FoundMyFitness Clips",
+    "title": "Did Amazon just solve Color E-Ink? Kindle Scribe Colorsoft REVIEW",
+    "videoId": "jjPDkxpMGbs",
+    "author": "Chalid Raqami",
     "authorId": "N/A",
     "lengthSeconds": 0,
     "published": 0,
-    "viewCount": 790000,
+    "viewCount": 170000,
     "videoThumbnails": [
       {
         "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/TawxFf1MBGc/maxresdefault.jpg",
+        "url": "https://i.ytimg.com/vi/jjPDkxpMGbs/maxresdefault.jpg",
         "width": 1280,
         "height": 720
       }
@@ -505,9 +271,81 @@
   },
   {
     "type": "video",
-    "title": "India vs China, Explained",
-    "videoId": "rPckDuTaSnw",
-    "author": "Johnny Harris",
+    "title": "Apple’s not getting my money - DIY Macbook Storage Upgrade",
+    "videoId": "M0ZmR6UU_8k",
+    "author": "Linus Tech Tips",
+    "authorId": "N/A",
+    "lengthSeconds": 0,
+    "published": 0,
+    "viewCount": 4000000,
+    "videoThumbnails": [
+      {
+        "quality": "maxres",
+        "url": "https://i.ytimg.com/vi/M0ZmR6UU_8k/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  },
+  {
+    "type": "video",
+    "title": "Did China Just Drop The Ball On Global Dominance?",
+    "videoId": "lDqYA11oA9w",
+    "author": "Economics Explained",
+    "authorId": "N/A",
+    "lengthSeconds": 0,
+    "published": 0,
+    "viewCount": 270000,
+    "videoThumbnails": [
+      {
+        "quality": "maxres",
+        "url": "https://i.ytimg.com/vi/lDqYA11oA9w/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  },
+  {
+    "type": "video",
+    "title": "These Tiny Computers Made My Home Smarter",
+    "videoId": "E4w1O7eSFIY",
+    "author": "Hardware Haven",
+    "authorId": "N/A",
+    "lengthSeconds": 0,
+    "published": 0,
+    "viewCount": 290000,
+    "videoThumbnails": [
+      {
+        "quality": "maxres",
+        "url": "https://i.ytimg.com/vi/E4w1O7eSFIY/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  },
+  {
+    "type": "video",
+    "title": "The Softest, Creamiest Khichdi — No Pressure Cooker Needed!",
+    "videoId": "_gsLKtRP174",
+    "author": "Backyard Chef",
+    "authorId": "N/A",
+    "lengthSeconds": 0,
+    "published": 0,
+    "viewCount": 760000,
+    "videoThumbnails": [
+      {
+        "quality": "maxres",
+        "url": "https://i.ytimg.com/vi/_gsLKtRP174/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  },
+  {
+    "type": "video",
+    "title": "Making 20 Upgrades for my Desk Setup - Dream Setups #2",
+    "videoId": "6er5oSPUGOI",
+    "author": "Scott Yu-Jan",
     "authorId": "N/A",
     "lengthSeconds": 0,
     "published": 0,
@@ -515,7 +353,7 @@
     "videoThumbnails": [
       {
         "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/rPckDuTaSnw/maxresdefault.jpg",
+        "url": "https://i.ytimg.com/vi/6er5oSPUGOI/maxresdefault.jpg",
         "width": 1280,
         "height": 720
       }
@@ -523,17 +361,179 @@
   },
   {
     "type": "video",
-    "title": "Replace Mac Mini M4 SSD With 2TB Save Big and Boost Speed!",
-    "videoId": "zJC73hm3VM4",
-    "author": "GOT good old tech",
+    "title": "Why Python Is Removing The GIL",
+    "videoId": "UXwoAKB-SvE",
+    "author": "Core Dumped",
     "authorId": "N/A",
     "lengthSeconds": 0,
     "published": 0,
-    "viewCount": 390000,
+    "viewCount": 82000,
     "videoThumbnails": [
       {
         "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/zJC73hm3VM4/maxresdefault.jpg",
+        "url": "https://i.ytimg.com/vi/UXwoAKB-SvE/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  },
+  {
+    "type": "video",
+    "title": "The Only Trait for Success in the AI Era—How to Build It | Carnegie Mellon University Po-Shen Loh",
+    "videoId": "xWYb7tImErI",
+    "author": "EO",
+    "authorId": "N/A",
+    "lengthSeconds": 0,
+    "published": 0,
+    "viewCount": 919999,
+    "videoThumbnails": [
+      {
+        "quality": "maxres",
+        "url": "https://i.ytimg.com/vi/xWYb7tImErI/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  },
+  {
+    "type": "video",
+    "title": "Stop coding, start architecting: Google Antigravity + Cloud Run",
+    "videoId": "ooHyVrYY_2U",
+    "author": "Google Cloud Tech",
+    "authorId": "N/A",
+    "lengthSeconds": 0,
+    "published": 0,
+    "viewCount": 97000,
+    "videoThumbnails": [
+      {
+        "quality": "maxres",
+        "url": "https://i.ytimg.com/vi/ooHyVrYY_2U/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  },
+  {
+    "type": "video",
+    "title": "GPUs, TPUs, & The Economics of AI Explained | Gavin Baker Interview",
+    "videoId": "cmUo4841KQw",
+    "author": "Invest Like The Best",
+    "authorId": "N/A",
+    "lengthSeconds": 0,
+    "published": 0,
+    "viewCount": 170000,
+    "videoThumbnails": [
+      {
+        "quality": "maxres",
+        "url": "https://i.ytimg.com/vi/cmUo4841KQw/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  },
+  {
+    "type": "video",
+    "title": "India's SERVICE BOOM 2025: What's Behind The Rapid Growth? | Sajjid Chinoy | The Core Report",
+    "videoId": "tQtigiLjLI0",
+    "author": "The Core",
+    "authorId": "N/A",
+    "lengthSeconds": 0,
+    "published": 0,
+    "viewCount": 35000,
+    "videoThumbnails": [
+      {
+        "quality": "maxres",
+        "url": "https://i.ytimg.com/vi/tQtigiLjLI0/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  },
+  {
+    "type": "video",
+    "title": "Cursor Agent: 10 Pro Tips!",
+    "videoId": "WVeYLlKOWc0",
+    "author": "Cursor",
+    "authorId": "N/A",
+    "lengthSeconds": 0,
+    "published": 0,
+    "viewCount": 1500000,
+    "videoThumbnails": [
+      {
+        "quality": "maxres",
+        "url": "https://i.ytimg.com/vi/WVeYLlKOWc0/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  },
+  {
+    "type": "video",
+    "title": "Stanford CS230 | Autumn 2025 | Lecture 8: Agents, Prompts, and RAG",
+    "videoId": "k1njvbBmfsw",
+    "author": "Stanford Online",
+    "authorId": "N/A",
+    "lengthSeconds": 0,
+    "published": 0,
+    "viewCount": 170000,
+    "videoThumbnails": [
+      {
+        "quality": "maxres",
+        "url": "https://i.ytimg.com/vi/k1njvbBmfsw/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  },
+  {
+    "type": "video",
+    "title": "21 Life-Changing Books Summarized in 18 Minutes",
+    "videoId": "lyLEBnUTqJI",
+    "author": "Daniel Pink",
+    "authorId": "N/A",
+    "lengthSeconds": 0,
+    "published": 0,
+    "viewCount": 650000,
+    "videoThumbnails": [
+      {
+        "quality": "maxres",
+        "url": "https://i.ytimg.com/vi/lyLEBnUTqJI/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  },
+  {
+    "type": "video",
+    "title": "The Hidden Science of Fireworks",
+    "videoId": "lfkjm2YRG-Q",
+    "author": "Veritasium",
+    "authorId": "N/A",
+    "lengthSeconds": 0,
+    "published": 0,
+    "viewCount": 6600000,
+    "videoThumbnails": [
+      {
+        "quality": "maxres",
+        "url": "https://i.ytimg.com/vi/lfkjm2YRG-Q/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  },
+  {
+    "type": "video",
+    "title": "🏆 My Most Downloaded Shortcuts of 2025",
+    "videoId": "koAMsUYCtFI",
+    "author": "Stephen Robles",
+    "authorId": "N/A",
+    "lengthSeconds": 0,
+    "published": 0,
+    "viewCount": 64000,
+    "videoThumbnails": [
+      {
+        "quality": "maxres",
+        "url": "https://i.ytimg.com/vi/koAMsUYCtFI/maxresdefault.jpg",
         "width": 1280,
         "height": 720
       }
