@@ -1,359 +1,17 @@
 [
   {
     "type": "video",
-    "title": "Apple JUST Dropped a Game-Changer",
-    "videoId": "A0onppIyHEg",
-    "author": "Alex Ziskind",
+    "title": "Introducing FunctionGemma",
+    "videoId": "-Tgc_9uYJLI",
+    "author": "Google for Developers",
     "authorId": "N/A",
     "lengthSeconds": 0,
     "published": 0,
-    "viewCount": 250000,
+    "viewCount": 290000,
     "videoThumbnails": [
       {
         "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/A0onppIyHEg/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    ]
-  },
-  {
-    "type": "video",
-    "title": "How to perform a Fidelity Backdoor Roth IRA (Step by Step Guide)",
-    "videoId": "Kl0uxmKM3aQ",
-    "author": "Stan The Credit Frog",
-    "authorId": "N/A",
-    "lengthSeconds": 0,
-    "published": 0,
-    "viewCount": 380000,
-    "videoThumbnails": [
-      {
-        "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/Kl0uxmKM3aQ/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    ]
-  },
-  {
-    "type": "video",
-    "title": "Khabib Nurmagomedov vs Dustin Poirier | FULL FIGHT | UFC Classics",
-    "videoId": "hIpyHEgXfm4",
-    "author": "UFC",
-    "authorId": "N/A",
-    "lengthSeconds": 0,
-    "published": 0,
-    "viewCount": 890000,
-    "videoThumbnails": [
-      {
-        "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/hIpyHEgXfm4/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    ]
-  },
-  {
-    "type": "video",
-    "title": "Why You MUST Understand This Chart (2026 Predicted)",
-    "videoId": "1dD9Yl5hw6I",
-    "author": "Sam Instone",
-    "authorId": "N/A",
-    "lengthSeconds": 0,
-    "published": 0,
-    "viewCount": 200000,
-    "videoThumbnails": [
-      {
-        "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/1dD9Yl5hw6I/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    ]
-  },
-  {
-    "type": "video",
-    "title": "India’s Dirty Secret: How is the Power Crisis Paralysing India? How to fix it?",
-    "videoId": "C_Wk44s2TWY",
-    "author": "Think School",
-    "authorId": "N/A",
-    "lengthSeconds": 0,
-    "published": 0,
-    "viewCount": 860000,
-    "videoThumbnails": [
-      {
-        "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/C_Wk44s2TWY/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    ]
-  },
-  {
-    "type": "video",
-    "title": "Samsung S95F vs S90F OLED — Which One Should You REALLY Buy? (Review)",
-    "videoId": "TjL5OvEhFB8",
-    "author": "CalebRated",
-    "authorId": "N/A",
-    "lengthSeconds": 0,
-    "published": 0,
-    "viewCount": 52000,
-    "videoThumbnails": [
-      {
-        "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/TjL5OvEhFB8/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    ]
-  },
-  {
-    "type": "video",
-    "title": "Options Trading For Beginners: Complete Guide with Examples",
-    "videoId": "NW1ziUDjB7w",
-    "author": "ClearValue Tax",
-    "authorId": "N/A",
-    "lengthSeconds": 0,
-    "published": 0,
-    "viewCount": 2200000,
-    "videoThumbnails": [
-      {
-        "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/NW1ziUDjB7w/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    ]
-  },
-  {
-    "type": "video",
-    "title": "Claude Code just Built me an AI Agent Team (Claude Code + Skills + MCP)",
-    "videoId": "0J2_YGuNrDo",
-    "author": "Grace Leung",
-    "authorId": "N/A",
-    "lengthSeconds": 0,
-    "published": 0,
-    "viewCount": 65000,
-    "videoThumbnails": [
-      {
-        "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/0J2_YGuNrDo/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    ]
-  },
-  {
-    "type": "video",
-    "title": "'You Cannot Shame A State With No Shame': Indian Student Exposes Pakistan At Oxford Union Debate",
-    "videoId": "_n5-Dmdg040",
-    "author": "TOI Bharat",
-    "authorId": "N/A",
-    "lengthSeconds": 0,
-    "published": 0,
-    "viewCount": 1000000,
-    "videoThumbnails": [
-      {
-        "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/_n5-Dmdg040/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    ]
-  },
-  {
-    "type": "video",
-    "title": "Baked cauliflower tastes better than meat! Crispy roasted cauliflower - Simply delicious!",
-    "videoId": "a-EuZp44JRU",
-    "author": "Unglaubliche Rezepte",
-    "authorId": "N/A",
-    "lengthSeconds": 0,
-    "published": 0,
-    "viewCount": 1000000,
-    "videoThumbnails": [
-      {
-        "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/a-EuZp44JRU/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    ]
-  },
-  {
-    "type": "video",
-    "title": "Grayscale predicts 2026 will be 'dawn of the institutional era' for crypto: CNBC Crypto World",
-    "videoId": "5pZH4qcWWZg",
-    "author": "CNBC Television",
-    "authorId": "N/A",
-    "lengthSeconds": 0,
-    "published": 0,
-    "viewCount": 22000,
-    "videoThumbnails": [
-      {
-        "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/5pZH4qcWWZg/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    ]
-  },
-  {
-    "type": "video",
-    "title": "Master ALL 20 Agentic AI Design Patterns [Complete Course]",
-    "videoId": "e2zIr_2JMbE",
-    "author": "Mark Kashef",
-    "authorId": "N/A",
-    "lengthSeconds": 0,
-    "published": 0,
-    "viewCount": 93000,
-    "videoThumbnails": [
-      {
-        "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/e2zIr_2JMbE/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    ]
-  },
-  {
-    "type": "video",
-    "title": "How The Rich Use LLCs To Hide Their Assets",
-    "videoId": "g9CL5mqIyBA",
-    "author": "Mark J Kohler",
-    "authorId": "N/A",
-    "lengthSeconds": 0,
-    "published": 0,
-    "viewCount": 1100000,
-    "videoThumbnails": [
-      {
-        "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/g9CL5mqIyBA/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    ]
-  },
-  {
-    "type": "video",
-    "title": "The REAL Reason No One Knows What’s Coming With AI",
-    "videoId": "LYgLTraIe2I",
-    "author": "The Diary Of A CEO Clips",
-    "authorId": "N/A",
-    "lengthSeconds": 0,
-    "published": 0,
-    "viewCount": 17000,
-    "videoThumbnails": [
-      {
-        "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/LYgLTraIe2I/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    ]
-  },
-  {
-    "type": "video",
-    "title": "The Science Of Building EXTREME Discipline - Andrew Huberman",
-    "videoId": "AtbkxxoTrYk",
-    "author": "SUCCESS CHASERS",
-    "authorId": "N/A",
-    "lengthSeconds": 0,
-    "published": 0,
-    "viewCount": 1300000,
-    "videoThumbnails": [
-      {
-        "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/AtbkxxoTrYk/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    ]
-  },
-  {
-    "type": "video",
-    "title": "The AI Stock Nobody Understands",
-    "videoId": "S0NYuzjwzSA",
-    "author": "Dumb Money Live",
-    "authorId": "N/A",
-    "lengthSeconds": 0,
-    "published": 0,
-    "viewCount": 55000,
-    "videoThumbnails": [
-      {
-        "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/S0NYuzjwzSA/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    ]
-  },
-  {
-    "type": "video",
-    "title": "AI Is Eating Everything - Truth Exposed",
-    "videoId": "hiADiEIYRpA",
-    "author": "Breakdown",
-    "authorId": "N/A",
-    "lengthSeconds": 0,
-    "published": 0,
-    "viewCount": 229999,
-    "videoThumbnails": [
-      {
-        "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/hiADiEIYRpA/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    ]
-  },
-  {
-    "type": "video",
-    "title": "MCP vs API: Simplifying AI Agent Integration with External Data",
-    "videoId": "7j1t3UZA1TY",
-    "author": "IBM Technology",
-    "authorId": "N/A",
-    "lengthSeconds": 0,
-    "published": 0,
-    "viewCount": 800000,
-    "videoThumbnails": [
-      {
-        "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/7j1t3UZA1TY/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    ]
-  },
-  {
-    "type": "video",
-    "title": "Jack Morris: Stuffing Context is not Memory, Updating Weights is",
-    "videoId": "Jty4s9-Jb78",
-    "author": "AI Engineer",
-    "authorId": "N/A",
-    "lengthSeconds": 0,
-    "published": 0,
-    "viewCount": 5000,
-    "videoThumbnails": [
-      {
-        "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/Jty4s9-Jb78/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    ]
-  },
-  {
-    "type": "video",
-    "title": "If You Don't Understand Bonds, You Don't Understand Money",
-    "videoId": "7d9Lz0D0uzA",
-    "author": "Mel Abraham",
-    "authorId": "N/A",
-    "lengthSeconds": 0,
-    "published": 0,
-    "viewCount": 350000,
-    "videoThumbnails": [
-      {
-        "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/7d9Lz0D0uzA/maxresdefault.jpg",
+        "url": "https://i.ytimg.com/vi/-Tgc_9uYJLI/maxresdefault.jpg",
         "width": 1280,
         "height": 720
       }
@@ -379,17 +37,17 @@
   },
   {
     "type": "video",
-    "title": "$20B AI CEO: The ONLY trait for success in the AI era | Aravind Srinivas, Co-founder of Perplexity",
-    "videoId": "U7PcyE0p54s",
-    "author": "Silicon Valley Girl",
+    "title": "HUSN Mashup 2.0 | Jay Guldekar | Anuv Jain | Aise Kyun | Choo Lo",
+    "videoId": "kQqtBUo3fEU",
+    "author": "Jay Guldekar",
     "authorId": "N/A",
     "lengthSeconds": 0,
     "published": 0,
-    "viewCount": 500000,
+    "viewCount": 14000000,
     "videoThumbnails": [
       {
         "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/U7PcyE0p54s/maxresdefault.jpg",
+        "url": "https://i.ytimg.com/vi/kQqtBUo3fEU/maxresdefault.jpg",
         "width": 1280,
         "height": 720
       }
@@ -397,17 +55,161 @@
   },
   {
     "type": "video",
-    "title": "Tech's Looking Bullish, But... - (Dec 29th) SPY",
-    "videoId": "BqepwWM1YWk",
-    "author": "Cups & Handles",
+    "title": "Viraansh Bhanushali - Opposition - India Vs Pakistan",
+    "videoId": "ixA4ivYK-3I",
+    "author": "OxfordUnion",
     "authorId": "N/A",
     "lengthSeconds": 0,
     "published": 0,
-    "viewCount": 97,
+    "viewCount": 459999,
     "videoThumbnails": [
       {
         "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/BqepwWM1YWk/maxresdefault.jpg",
+        "url": "https://i.ytimg.com/vi/ixA4ivYK-3I/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  },
+  {
+    "type": "video",
+    "title": "Fully Accessorized Tacoma TRD-Off Road- Built with Toyota Genuine Accessories & Associated Products",
+    "videoId": "eIz9gbJPuzY",
+    "author": "Ed Martin Toyota",
+    "authorId": "N/A",
+    "lengthSeconds": 0,
+    "published": 0,
+    "viewCount": 54000,
+    "videoThumbnails": [
+      {
+        "quality": "maxres",
+        "url": "https://i.ytimg.com/vi/eIz9gbJPuzY/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  },
+  {
+    "type": "video",
+    "title": "What If You Started Taking NAC For 30 Days?",
+    "videoId": "xGm-gvDaJA8",
+    "author": "Dr. Sten Ekberg",
+    "authorId": "N/A",
+    "lengthSeconds": 0,
+    "published": 0,
+    "viewCount": 310000,
+    "videoThumbnails": [
+      {
+        "quality": "maxres",
+        "url": "https://i.ytimg.com/vi/xGm-gvDaJA8/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  },
+  {
+    "type": "video",
+    "title": "Neuroscience Confirms: This One Behavior Quietly Weakens Your Brain",
+    "videoId": "negnKVYXloc",
+    "author": "Dr. Matt Jones",
+    "authorId": "N/A",
+    "lengthSeconds": 0,
+    "published": 0,
+    "viewCount": 490000,
+    "videoThumbnails": [
+      {
+        "quality": "maxres",
+        "url": "https://i.ytimg.com/vi/negnKVYXloc/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  },
+  {
+    "type": "video",
+    "title": "Massachusetts Just Changed Housing Forever With ADUs!",
+    "videoId": "Bit3AAKM5fE",
+    "author": "Tyler Munroe | Peak Realty Advisors",
+    "authorId": "N/A",
+    "lengthSeconds": 0,
+    "published": 0,
+    "viewCount": 91000,
+    "videoThumbnails": [
+      {
+        "quality": "maxres",
+        "url": "https://i.ytimg.com/vi/Bit3AAKM5fE/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  },
+  {
+    "type": "video",
+    "title": "The Best Self-Hosted AI Tools You Can Actually Run in Your Home Lab",
+    "videoId": "illvibK_ZmY",
+    "author": "VirtualizationHowto",
+    "authorId": "N/A",
+    "lengthSeconds": 0,
+    "published": 0,
+    "viewCount": 160000,
+    "videoThumbnails": [
+      {
+        "quality": "maxres",
+        "url": "https://i.ytimg.com/vi/illvibK_ZmY/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  },
+  {
+    "type": "video",
+    "title": "LIVE: Thousands Bid Farewell to Bangladesh's Ex-pm Khaleda Zia | Vantage with Palki Sharma",
+    "videoId": "8LRmop0q5TA",
+    "author": "Firstpost",
+    "authorId": "N/A",
+    "lengthSeconds": 0,
+    "published": 0,
+    "viewCount": 31000,
+    "videoThumbnails": [
+      {
+        "quality": "maxres",
+        "url": "https://i.ytimg.com/vi/8LRmop0q5TA/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  },
+  {
+    "type": "video",
+    "title": "Options Trading for Beginners: Super Simple - 2 Hour FREE Course",
+    "videoId": "6Bdv-_YUQ0s",
+    "author": "Chart Fanatics",
+    "authorId": "N/A",
+    "lengthSeconds": 0,
+    "published": 0,
+    "viewCount": 120000,
+    "videoThumbnails": [
+      {
+        "quality": "maxres",
+        "url": "https://i.ytimg.com/vi/6Bdv-_YUQ0s/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  },
+  {
+    "type": "video",
+    "title": "Savage Medley | 17 Song Mashup | Jeffrey Iqbal",
+    "videoId": "dP_8NE3-SrE",
+    "author": "Jeffrey Iqbal",
+    "authorId": "N/A",
+    "lengthSeconds": 0,
+    "published": 0,
+    "viewCount": 1400000,
+    "videoThumbnails": [
+      {
+        "quality": "maxres",
+        "url": "https://i.ytimg.com/vi/dP_8NE3-SrE/maxresdefault.jpg",
         "width": 1280,
         "height": 720
       }
@@ -421,7 +223,7 @@
     "authorId": "N/A",
     "lengthSeconds": 0,
     "published": 0,
-    "viewCount": 2700000,
+    "viewCount": 2800000,
     "videoThumbnails": [
       {
         "quality": "maxres",
@@ -433,9 +235,9 @@
   },
   {
     "type": "video",
-    "title": "Quant Finance with Python and Pandas | 50 Concepts you NEED to Know in 9 Minutes | [Getting Started]",
-    "videoId": "b9RgHa1CnH4",
-    "author": "Daniel Boctor",
+    "title": "How Does the Global Economy work? | Planet Finance Compilation | FD Finance",
+    "videoId": "CMKld7N0aic",
+    "author": "FD Finance",
     "authorId": "N/A",
     "lengthSeconds": 0,
     "published": 0,
@@ -443,7 +245,7 @@
     "videoThumbnails": [
       {
         "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/b9RgHa1CnH4/maxresdefault.jpg",
+        "url": "https://i.ytimg.com/vi/CMKld7N0aic/maxresdefault.jpg",
         "width": 1280,
         "height": 720
       }
@@ -451,9 +253,27 @@
   },
   {
     "type": "video",
-    "title": "How a $2 Circuit Becomes a $20 Product",
-    "videoId": "9gCrxNGSleU",
-    "author": "FluxBench",
+    "title": "India's Jaishankar to Visit Bangladesh for Khaleda Zia's Funeral  | Vantage With Palki Sharma |N18G",
+    "videoId": "dTY1i3UacTc",
+    "author": "Firstpost",
+    "authorId": "N/A",
+    "lengthSeconds": 0,
+    "published": 0,
+    "viewCount": 47000,
+    "videoThumbnails": [
+      {
+        "quality": "maxres",
+        "url": "https://i.ytimg.com/vi/dTY1i3UacTc/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  },
+  {
+    "type": "video",
+    "title": "Don’t Retire With Just Your 401(k): The Ideal Retirement Mix of Roth, Traditional, and Taxable",
+    "videoId": "WxaGoxPl_9k",
+    "author": "Erin Talks Money",
     "authorId": "N/A",
     "lengthSeconds": 0,
     "published": 0,
@@ -461,7 +281,7 @@
     "videoThumbnails": [
       {
         "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/9gCrxNGSleU/maxresdefault.jpg",
+        "url": "https://i.ytimg.com/vi/WxaGoxPl_9k/maxresdefault.jpg",
         "width": 1280,
         "height": 720
       }
@@ -469,17 +289,17 @@
   },
   {
     "type": "video",
-    "title": "The Ultimate Local AI Coding Guide For 2026",
-    "videoId": "rp5EwOogWEw",
-    "author": "Zen van Riel",
+    "title": "Productivity Music – Deep Focus Chillstep Mix for Work & Study Sessions",
+    "videoId": "O1-JbLBf7L0",
+    "author": "Chill Guide",
     "authorId": "N/A",
     "lengthSeconds": 0,
     "published": 0,
-    "viewCount": 100000,
+    "viewCount": 430000,
     "videoThumbnails": [
       {
         "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/rp5EwOogWEw/maxresdefault.jpg",
+        "url": "https://i.ytimg.com/vi/O1-JbLBf7L0/maxresdefault.jpg",
         "width": 1280,
         "height": 720
       }
@@ -487,17 +307,17 @@
   },
   {
     "type": "video",
-    "title": "Turley: Minnesota scandal 'getting WORSE by the day'",
-    "videoId": "4QKehRytAKc",
-    "author": "Fox News",
+    "title": "Cybersecurity Trends in 2026: Shadow AI, Quantum & Deepfakes",
+    "videoId": "2jU-mLMV8Vw",
+    "author": "IBM Technology",
     "authorId": "N/A",
     "lengthSeconds": 0,
     "published": 0,
-    "viewCount": 420000,
+    "viewCount": 37000,
     "videoThumbnails": [
       {
         "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/4QKehRytAKc/maxresdefault.jpg",
+        "url": "https://i.ytimg.com/vi/2jU-mLMV8Vw/maxresdefault.jpg",
         "width": 1280,
         "height": 720
       }
@@ -505,17 +325,17 @@
   },
   {
     "type": "video",
-    "title": "Visualizing transformers and attention | Talk for TNG Big Tech Day '24",
-    "videoId": "KJtZARuO3JY",
-    "author": "Grant Sanderson",
+    "title": "Hisense U65QF Mini-LED | The BEST TV under $1000???",
+    "videoId": "LjRLGAeq91U",
+    "author": "Booredatwork.com",
     "authorId": "N/A",
     "lengthSeconds": 0,
     "published": 0,
-    "viewCount": 990000,
+    "viewCount": 150000,
     "videoThumbnails": [
       {
         "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/KJtZARuO3JY/maxresdefault.jpg",
+        "url": "https://i.ytimg.com/vi/LjRLGAeq91U/maxresdefault.jpg",
         "width": 1280,
         "height": 720
       }
@@ -523,17 +343,197 @@
   },
   {
     "type": "video",
-    "title": "\"The Trinity That Runs the Universe: Brahma, Vishnu, Shiva — Explained Scientifically | Real2Real\"",
-    "videoId": "EqK4H6kyVL4",
-    "author": "Real2Real",
+    "title": "20 AI Concepts Explained in 40 Minutes",
+    "videoId": "OYvlznJ4IZQ",
+    "author": "Gaurav Sen",
     "authorId": "N/A",
     "lengthSeconds": 0,
     "published": 0,
-    "viewCount": 7400,
+    "viewCount": 240000,
     "videoThumbnails": [
       {
         "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/EqK4H6kyVL4/maxresdefault.jpg",
+        "url": "https://i.ytimg.com/vi/OYvlznJ4IZQ/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  },
+  {
+    "type": "video",
+    "title": "BADA BHANGAL: The Last Himalayan Village (Full Documentary)",
+    "videoId": "Imkg25LLqhA",
+    "author": "The shimlaite",
+    "authorId": "N/A",
+    "lengthSeconds": 0,
+    "published": 0,
+    "viewCount": 400000,
+    "videoThumbnails": [
+      {
+        "quality": "maxres",
+        "url": "https://i.ytimg.com/vi/Imkg25LLqhA/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  },
+  {
+    "type": "video",
+    "title": "GL.iNet GL-RM1 Comet KVM - Product setup guide & Review",
+    "videoId": "VZ1jZ9EEi-s",
+    "author": "BlueMonkey 4n6",
+    "authorId": "N/A",
+    "lengthSeconds": 0,
+    "published": 0,
+    "viewCount": 8600,
+    "videoThumbnails": [
+      {
+        "quality": "maxres",
+        "url": "https://i.ytimg.com/vi/VZ1jZ9EEi-s/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  },
+  {
+    "type": "video",
+    "title": "Apple JUST Dropped a Game-Changer",
+    "videoId": "A0onppIyHEg",
+    "author": "Alex Ziskind",
+    "authorId": "N/A",
+    "lengthSeconds": 0,
+    "published": 0,
+    "viewCount": 250000,
+    "videoThumbnails": [
+      {
+        "quality": "maxres",
+        "url": "https://i.ytimg.com/vi/A0onppIyHEg/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  },
+  {
+    "type": "video",
+    "title": "Secure Your Smart Home: Unifi IoT VLAN Firewall Rules for Apple HomeKit Users! 🔒",
+    "videoId": "xMHQy4u8JZA",
+    "author": "Terry Lee White",
+    "authorId": "N/A",
+    "lengthSeconds": 0,
+    "published": 0,
+    "viewCount": 65000,
+    "videoThumbnails": [
+      {
+        "quality": "maxres",
+        "url": "https://i.ytimg.com/vi/xMHQy4u8JZA/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  },
+  {
+    "type": "video",
+    "title": "F-47: This is Everything We Know",
+    "videoId": "VAB3xUA2aLc",
+    "author": "Megaprojects",
+    "authorId": "N/A",
+    "lengthSeconds": 0,
+    "published": 0,
+    "viewCount": 530000,
+    "videoThumbnails": [
+      {
+        "quality": "maxres",
+        "url": "https://i.ytimg.com/vi/VAB3xUA2aLc/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  },
+  {
+    "type": "video",
+    "title": "India vs. China vs. US: Who Wins the Next Decade? | WTF is Finance | Ep 1 ft. Ruchir Sharma",
+    "videoId": "lTCzIDITaac",
+    "author": "Nikhil Kamath",
+    "authorId": "N/A",
+    "lengthSeconds": 0,
+    "published": 0,
+    "viewCount": 969999,
+    "videoThumbnails": [
+      {
+        "quality": "maxres",
+        "url": "https://i.ytimg.com/vi/lTCzIDITaac/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  },
+  {
+    "type": "video",
+    "title": "RAG Crash Course for Beginners",
+    "videoId": "swvzKSOEluc",
+    "author": "KodeKloud",
+    "authorId": "N/A",
+    "lengthSeconds": 0,
+    "published": 0,
+    "viewCount": 67000,
+    "videoThumbnails": [
+      {
+        "quality": "maxres",
+        "url": "https://i.ytimg.com/vi/swvzKSOEluc/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  },
+  {
+    "type": "video",
+    "title": "Boris Cherny (Creator of Claude Code) On What Grew His Career And Building at Anthropic",
+    "videoId": "AmdLVWMdjOk",
+    "author": "Ryan Peterman",
+    "authorId": "N/A",
+    "lengthSeconds": 0,
+    "published": 0,
+    "viewCount": 92000,
+    "videoThumbnails": [
+      {
+        "quality": "maxres",
+        "url": "https://i.ytimg.com/vi/AmdLVWMdjOk/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  },
+  {
+    "type": "video",
+    "title": "Buy These 3 ETFs Today To Get Rich When Markets Crash",
+    "videoId": "-PBGTI6aIvo",
+    "author": "Minority Mindset",
+    "authorId": "N/A",
+    "lengthSeconds": 0,
+    "published": 0,
+    "viewCount": 720000,
+    "videoThumbnails": [
+      {
+        "quality": "maxres",
+        "url": "https://i.ytimg.com/vi/-PBGTI6aIvo/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  },
+  {
+    "type": "video",
+    "title": "The War in Yemen, Mapped",
+    "videoId": "qsO-rULEfrk",
+    "author": "Johnny Harris",
+    "authorId": "N/A",
+    "lengthSeconds": 0,
+    "published": 0,
+    "viewCount": 3300000,
+    "videoThumbnails": [
+      {
+        "quality": "maxres",
+        "url": "https://i.ytimg.com/vi/qsO-rULEfrk/maxresdefault.jpg",
         "width": 1280,
         "height": 720
       }
