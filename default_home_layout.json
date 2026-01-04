@@ -116,6 +116,23 @@
     ]
   },
   {
+    "title": "Reactions",
+    "id": "reactions",
+    "feedSources": [
+      {
+        "id": "inv_search_reactions",
+        "title": "Reactions",
+        "apiType": "Invidious",
+        "endpoint": "search",
+        "queryParams": {
+          "q": "(foreigner reactions OR foreigner reacts)",
+          "type": "video",
+          "sort": "relevance"
+        }
+      }
+    ]
+  },
+  {
     "title": "Recommended",
     "id": "recommended",
     "feedSources": [
