@@ -1,17 +1,17 @@
 [
   {
     "type": "video",
-    "title": "$215M AI CEO: How I’d Build a Profitable AI Startup in 30 Days (2026 Playbook)",
-    "videoId": "HQ3eVt2jgAY",
-    "author": "Silicon Valley Girl",
+    "title": "How to build a financial analyst assistant with Vertex AI Studio & Gemini in under 10 minutes",
+    "videoId": "e8hehBcYU7E",
+    "author": "Google Cloud Tech",
     "authorId": "N/A",
     "lengthSeconds": 0,
     "published": 0,
-    "viewCount": 110000,
+    "viewCount": 122000,
     "videoThumbnails": [
       {
         "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/HQ3eVt2jgAY/maxresdefault.jpg",
+        "url": "https://i.ytimg.com/vi/e8hehBcYU7E/maxresdefault.jpg",
         "width": 1280,
         "height": 720
       }
@@ -19,17 +19,17 @@
   },
   {
     "type": "video",
-    "title": "S&P 500 Index vs S&P 500 ETFs in 2025 - What Went Wrong?",
-    "videoId": "2fJceJbwCXg",
-    "author": "Tom's Personal Finance",
+    "title": "New Displays that FEEL Better...",
+    "videoId": "YtYlc-Qz_6c",
+    "author": "Unbox Therapy",
     "authorId": "N/A",
     "lengthSeconds": 0,
     "published": 0,
-    "viewCount": 4100,
+    "viewCount": 450000,
     "videoThumbnails": [
       {
         "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/2fJceJbwCXg/maxresdefault.jpg",
+        "url": "https://i.ytimg.com/vi/YtYlc-Qz_6c/maxresdefault.jpg",
         "width": 1280,
         "height": 720
       }
@@ -37,9 +37,261 @@
   },
   {
     "type": "video",
-    "title": "I Built An End-To-End Quant Hedge Fund In Python: The Behind-the-Scenes (It’s Wild) [Part #1]",
-    "videoId": "WRSFRB0ECB8",
-    "author": "Quant Science",
+    "title": "NEW GEMINI 3 AI Good For TradingView Strategies? (watch ASAP)",
+    "videoId": "2LC979UiRns",
+    "author": "Michael Automates",
+    "authorId": "N/A",
+    "lengthSeconds": 0,
+    "published": 0,
+    "viewCount": 100000,
+    "videoThumbnails": [
+      {
+        "quality": "maxres",
+        "url": "https://i.ytimg.com/vi/2LC979UiRns/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  },
+  {
+    "type": "video",
+    "title": "I Found the PERFECT Mechanical Watch For you",
+    "videoId": "t61qbYewTOk",
+    "author": "Watchgyan Hindi",
+    "authorId": "N/A",
+    "lengthSeconds": 0,
+    "published": 0,
+    "viewCount": 74000,
+    "videoThumbnails": [
+      {
+        "quality": "maxres",
+        "url": "https://i.ytimg.com/vi/t61qbYewTOk/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  },
+  {
+    "type": "video",
+    "title": "Wifi Problem Simple Fix!",
+    "videoId": "sX_3Aa_LP4Y",
+    "author": "Mikael Mueen",
+    "authorId": "N/A",
+    "lengthSeconds": 0,
+    "published": 0,
+    "viewCount": 11000,
+    "videoThumbnails": [
+      {
+        "quality": "maxres",
+        "url": "https://i.ytimg.com/vi/sX_3Aa_LP4Y/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  },
+  {
+    "type": "video",
+    "title": "CES 2026 Dispatch 3 ! Show Floor: ATSC 3 TV, Gaming and More Tech!",
+    "videoId": "oBQGELH4JAA",
+    "author": "Lon.TV",
+    "authorId": "N/A",
+    "lengthSeconds": 0,
+    "published": 0,
+    "viewCount": 58000,
+    "videoThumbnails": [
+      {
+        "quality": "maxres",
+        "url": "https://i.ytimg.com/vi/oBQGELH4JAA/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  },
+  {
+    "type": "video",
+    "title": "Roborock Rover First Look - This is a GAME CHANGER!",
+    "videoId": "jXSqguJ3J0c",
+    "author": "Vacuum Wars",
+    "authorId": "N/A",
+    "lengthSeconds": 0,
+    "published": 0,
+    "viewCount": 117000,
+    "videoThumbnails": [
+      {
+        "quality": "maxres",
+        "url": "https://i.ytimg.com/vi/jXSqguJ3J0c/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  },
+  {
+    "type": "video",
+    "title": "WTF Happened Today?!",
+    "videoId": "Q4nN8PUDAIA",
+    "author": "The Matt Kohrs Show",
+    "authorId": "N/A",
+    "lengthSeconds": 0,
+    "published": 0,
+    "viewCount": 3200,
+    "videoThumbnails": [
+      {
+        "quality": "maxres",
+        "url": "https://i.ytimg.com/vi/Q4nN8PUDAIA/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  },
+  {
+    "type": "video",
+    "title": "How to Build a Sustainable Home | The Magic of Mud",
+    "videoId": "ilMutLUcGH4",
+    "author": "UN Story",
+    "authorId": "N/A",
+    "lengthSeconds": 0,
+    "published": 0,
+    "viewCount": 960000,
+    "videoThumbnails": [
+      {
+        "quality": "maxres",
+        "url": "https://i.ytimg.com/vi/ilMutLUcGH4/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  },
+  {
+    "type": "video",
+    "title": "Cybersecurity Trends in 2026: Shadow AI, Quantum & Deepfakes",
+    "videoId": "2jU-mLMV8Vw",
+    "author": "IBM Technology",
+    "authorId": "N/A",
+    "lengthSeconds": 0,
+    "published": 0,
+    "viewCount": 94000,
+    "videoThumbnails": [
+      {
+        "quality": "maxres",
+        "url": "https://i.ytimg.com/vi/2jU-mLMV8Vw/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  },
+  {
+    "type": "video",
+    "title": "Inside one of the world’s largest Hindu temples in New Jersey",
+    "videoId": "iZcVh6MRMwQ",
+    "author": "FOX 29 Philadelphia",
+    "authorId": "N/A",
+    "lengthSeconds": 0,
+    "published": 0,
+    "viewCount": 575000,
+    "videoThumbnails": [
+      {
+        "quality": "maxres",
+        "url": "https://i.ytimg.com/vi/iZcVh6MRMwQ/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  },
+  {
+    "type": "video",
+    "title": "$500 vs $3,000 Studio Monitors: What's The Difference?",
+    "videoId": "zg05VjwgVGs",
+    "author": "Audio University",
+    "authorId": "N/A",
+    "lengthSeconds": 0,
+    "published": 0,
+    "viewCount": 3900,
+    "videoThumbnails": [
+      {
+        "quality": "maxres",
+        "url": "https://i.ytimg.com/vi/zg05VjwgVGs/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  },
+  {
+    "type": "video",
+    "title": "A GAME-CHANGING TOOL We Should Have Gotten Sooner! - THE SHOP Part 11",
+    "videoId": "tLijZUES0bs",
+    "author": "Stud Pack",
+    "authorId": "N/A",
+    "lengthSeconds": 0,
+    "published": 0,
+    "viewCount": 558000,
+    "videoThumbnails": [
+      {
+        "quality": "maxres",
+        "url": "https://i.ytimg.com/vi/tLijZUES0bs/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  },
+  {
+    "type": "video",
+    "title": "Trump’s Venezuela Money Grab, Problem Falling Asleep in Meetings & Unarmed Woman Killed by ICE",
+    "videoId": "x03ZxnzfgNA",
+    "author": "Jimmy Kimmel Live",
+    "authorId": "N/A",
+    "lengthSeconds": 0,
+    "published": 0,
+    "viewCount": 2200000,
+    "videoThumbnails": [
+      {
+        "quality": "maxres",
+        "url": "https://i.ytimg.com/vi/x03ZxnzfgNA/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  },
+  {
+    "type": "video",
+    "title": "Trump's Venezuela Grab Rattles China: Billions at Risk | Vantage with Palki Sharma",
+    "videoId": "wdU97TRJ7z4",
+    "author": "Firstpost",
+    "authorId": "N/A",
+    "lengthSeconds": 0,
+    "published": 0,
+    "viewCount": 143000,
+    "videoThumbnails": [
+      {
+        "quality": "maxres",
+        "url": "https://i.ytimg.com/vi/wdU97TRJ7z4/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  },
+  {
+    "type": "video",
+    "title": "This Makes Windows 11 Look Unreal!",
+    "videoId": "n9FsiaoJSWo",
+    "author": "Tech Enthusiast",
+    "authorId": "N/A",
+    "lengthSeconds": 0,
+    "published": 0,
+    "viewCount": 454000,
+    "videoThumbnails": [
+      {
+        "quality": "maxres",
+        "url": "https://i.ytimg.com/vi/n9FsiaoJSWo/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  },
+  {
+    "type": "video",
+    "title": "NEW! Yixiang 12V 314Ah \"Budget\" Battery",
+    "videoId": "UC9JCM0T7RQ",
+    "author": "DIY Solar Power with Will Prowse",
     "authorId": "N/A",
     "lengthSeconds": 0,
     "published": 0,
@@ -47,7 +299,7 @@
     "videoThumbnails": [
       {
         "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/WRSFRB0ECB8/maxresdefault.jpg",
+        "url": "https://i.ytimg.com/vi/UC9JCM0T7RQ/maxresdefault.jpg",
         "width": 1280,
         "height": 720
       }
@@ -55,279 +307,9 @@
   },
   {
     "type": "video",
-    "title": "How to get perfect espresso | Dialing in the Breville Barista Express 2025",
-    "videoId": "qFl0k5e_Tio",
-    "author": "Golden Brown Coffee",
-    "authorId": "N/A",
-    "lengthSeconds": 0,
-    "published": 0,
-    "viewCount": 610000,
-    "videoThumbnails": [
-      {
-        "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/qFl0k5e_Tio/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    ]
-  },
-  {
-    "type": "video",
-    "title": "Napoli vs. Hellas Verona: Extended Highlights | Serie A | CBS Sports Golazo",
-    "videoId": "DJM88U9O9U8",
-    "author": "CBS Sports Golazo",
-    "authorId": "N/A",
-    "lengthSeconds": 0,
-    "published": 0,
-    "viewCount": 3600,
-    "videoThumbnails": [
-      {
-        "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/DJM88U9O9U8/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    ]
-  },
-  {
-    "type": "video",
-    "title": "Sourabh Raaj Jain On Playing Shree Krishna | Acting, Life & Support, Learnings From Mahabharat | TRS",
-    "videoId": "M7x6A9hMeUo",
-    "author": "Ranveer Allahbadia",
-    "authorId": "N/A",
-    "lengthSeconds": 0,
-    "published": 0,
-    "viewCount": 2600000,
-    "videoThumbnails": [
-      {
-        "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/M7x6A9hMeUo/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    ]
-  },
-  {
-    "type": "video",
-    "title": "EXTENDED HIGHLIGHTS! | Nottingham Forest 1-2 Man City | Late Cherki winner!",
-    "videoId": "gMMu6MjtBUg",
-    "author": "Man City",
-    "authorId": "N/A",
-    "lengthSeconds": 0,
-    "published": 0,
-    "viewCount": 570000,
-    "videoThumbnails": [
-      {
-        "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/gMMu6MjtBUg/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    ]
-  },
-  {
-    "type": "video",
-    "title": "Dinosaurs Were Weirder Than We Thought",
-    "videoId": "RDoVLHaYfgM",
-    "author": "Cleo Abram",
-    "authorId": "N/A",
-    "lengthSeconds": 0,
-    "published": 0,
-    "viewCount": 6700000,
-    "videoThumbnails": [
-      {
-        "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/RDoVLHaYfgM/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    ]
-  },
-  {
-    "type": "video",
-    "title": "Exports re-oriented, India overtakes Japan",
-    "videoId": "eWHy2jtEs4o",
-    "author": "DD India",
-    "authorId": "N/A",
-    "lengthSeconds": 0,
-    "published": 0,
-    "viewCount": 53000,
-    "videoThumbnails": [
-      {
-        "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/eWHy2jtEs4o/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    ]
-  },
-  {
-    "type": "video",
-    "title": "Zakir Khan Best Jokes for 10 mins | Delulu Express, Mannpasand | Standup Comedy | Prime Video IN",
-    "videoId": "gH7IS1eqDhE",
-    "author": "Prime Video India",
-    "authorId": "N/A",
-    "lengthSeconds": 0,
-    "published": 0,
-    "viewCount": 130000,
-    "videoThumbnails": [
-      {
-        "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/gH7IS1eqDhE/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    ]
-  },
-  {
-    "type": "video",
-    "title": "Is Silver Price Going to Crash?",
-    "videoId": "6hpIUDX4s7s",
-    "author": "Silver Dragons",
-    "authorId": "N/A",
-    "lengthSeconds": 0,
-    "published": 0,
-    "viewCount": 360000,
-    "videoThumbnails": [
-      {
-        "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/6hpIUDX4s7s/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    ]
-  },
-  {
-    "type": "video",
-    "title": "Stocks that have the MOST UPSIDE in my opinion",
-    "videoId": "GEdvZf9Mk4I",
-    "author": "Financial Education",
-    "authorId": "N/A",
-    "lengthSeconds": 0,
-    "published": 0,
-    "viewCount": 110000,
-    "videoThumbnails": [
-      {
-        "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/GEdvZf9Mk4I/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    ]
-  },
-  {
-    "type": "video",
-    "title": "ARMAF Fragrances Ranked: What’s Actually Worth Wearing",
-    "videoId": "K3gxRwkekGU",
-    "author": "FBFragrances",
-    "authorId": "N/A",
-    "lengthSeconds": 0,
-    "published": 0,
-    "viewCount": 35000,
-    "videoThumbnails": [
-      {
-        "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/K3gxRwkekGU/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    ]
-  },
-  {
-    "type": "video",
-    "title": "Day 111 – Vibe Coding an App Until I Make $1,000,000 | Revenue: $2,516.95",
-    "videoId": "k0ZWGGYnw9o",
-    "author": "BridgeMind",
-    "authorId": "N/A",
-    "lengthSeconds": 0,
-    "published": 0,
-    "viewCount": 35000,
-    "videoThumbnails": [
-      {
-        "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/k0ZWGGYnw9o/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    ]
-  },
-  {
-    "type": "video",
-    "title": "LIVE: US Captures Russia-linked Tanker After Intense Atlantic Chase | Vantage with Palki Sharma",
-    "videoId": "Z14iJdzFDkk",
-    "author": "Firstpost",
-    "authorId": "N/A",
-    "lengthSeconds": 0,
-    "published": 0,
-    "viewCount": 120000,
-    "videoThumbnails": [
-      {
-        "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/Z14iJdzFDkk/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    ]
-  },
-  {
-    "type": "video",
-    "title": "Jeffrey Sachs Interview | US Hegemony, Not Maduro, Is Global Threat: Top US Economist To NDTV",
-    "videoId": "ytx2iPuprD0",
-    "author": "NDTV",
-    "authorId": "N/A",
-    "lengthSeconds": 0,
-    "published": 0,
-    "viewCount": 17000,
-    "videoThumbnails": [
-      {
-        "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/ytx2iPuprD0/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    ]
-  },
-  {
-    "type": "video",
-    "title": "I Bought $405K Of These 2 Stocks | My Top 2 Picks For 2026 (Options With Ryan)",
-    "videoId": "1T7Mi42HCG8",
-    "author": "Options With Ryan",
-    "authorId": "N/A",
-    "lengthSeconds": 0,
-    "published": 0,
-    "viewCount": 29000,
-    "videoThumbnails": [
-      {
-        "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/1T7Mi42HCG8/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    ]
-  },
-  {
-    "type": "video",
-    "title": "5 Core Stocks to Buy and Hold in 2026  I January 5, 2026",
-    "videoId": "QU0aMXBinw0",
-    "author": "Morningstar, Inc.",
-    "authorId": "N/A",
-    "lengthSeconds": 0,
-    "published": 0,
-    "viewCount": 31000,
-    "videoThumbnails": [
-      {
-        "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/QU0aMXBinw0/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    ]
-  },
-  {
-    "type": "video",
-    "title": "Teenagers shine in friendly! | Red Bull Salzburg vs. FC Bayern | Highlights",
-    "videoId": "B0xXkzECMJs",
-    "author": "FC Bayern München",
+    "title": "How To Trade Futures For Beginners | The Basics of Futures Trading [Class 1]",
+    "videoId": "TC8b9bL0900",
+    "author": "ClayTrader",
     "authorId": "N/A",
     "lengthSeconds": 0,
     "published": 0,
@@ -335,7 +317,7 @@
     "videoThumbnails": [
       {
         "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/B0xXkzECMJs/maxresdefault.jpg",
+        "url": "https://i.ytimg.com/vi/TC8b9bL0900/maxresdefault.jpg",
         "width": 1280,
         "height": 720
       }
@@ -343,17 +325,17 @@
   },
   {
     "type": "video",
-    "title": "RAMANUJAN: Letters from an Indian Clerk",
-    "videoId": "OARGZ1xXCxs",
-    "author": "Christopher Sykes",
+    "title": "Investment Portfolio Results After 6 Years (Do This)",
+    "videoId": "CTZUZKvJAAw",
+    "author": "Angelo Castillo",
     "authorId": "N/A",
     "lengthSeconds": 0,
     "published": 0,
-    "viewCount": 770000,
+    "viewCount": 34000,
     "videoThumbnails": [
       {
         "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/OARGZ1xXCxs/maxresdefault.jpg",
+        "url": "https://i.ytimg.com/vi/CTZUZKvJAAw/maxresdefault.jpg",
         "width": 1280,
         "height": 720
       }
@@ -361,17 +343,17 @@
   },
   {
     "type": "video",
-    "title": "Fastest way to become an AI Engineer in 2026 | Skills, Projects & Salary",
-    "videoId": "qQ51dksl1gA",
-    "author": "Maddy Zhang",
+    "title": "The Case for Youth in Politics | HE Omar Sultan Al Olama (One of the World's Youngest Ministers)",
+    "videoId": "-u6Dky1Ve4k",
+    "author": "Nikhil Kamath",
     "authorId": "N/A",
     "lengthSeconds": 0,
     "published": 0,
-    "viewCount": 54000,
+    "viewCount": 99000,
     "videoThumbnails": [
       {
         "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/qQ51dksl1gA/maxresdefault.jpg",
+        "url": "https://i.ytimg.com/vi/-u6Dky1Ve4k/maxresdefault.jpg",
         "width": 1280,
         "height": 720
       }
@@ -379,17 +361,17 @@
   },
   {
     "type": "video",
-    "title": "Breaking Down My SIMPLE Trading Strategy (step by step)",
-    "videoId": "qLtq73bTPBA",
-    "author": "Tori Trades",
+    "title": "How AI Is Unearthing Hidden Scientific Knowledge | Sara Beery | TED",
+    "videoId": "fStLnjrZF_c",
+    "author": "TED",
     "authorId": "N/A",
     "lengthSeconds": 0,
     "published": 0,
-    "viewCount": 160000,
+    "viewCount": 5700,
     "videoThumbnails": [
       {
         "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/qLtq73bTPBA/maxresdefault.jpg",
+        "url": "https://i.ytimg.com/vi/fStLnjrZF_c/maxresdefault.jpg",
         "width": 1280,
         "height": 720
       }
@@ -397,17 +379,17 @@
   },
   {
     "type": "video",
-    "title": "Cigarettes After Sex Playlist — By Fannzy24",
-    "videoId": "1Wqshl2zwAU",
-    "author": "Fannz",
+    "title": "The Odyssey Explained In 25 Minutes | Best Greek Mythology Documentary",
+    "videoId": "OuGeoq_uVts",
+    "author": "The Life Guide",
     "authorId": "N/A",
     "lengthSeconds": 0,
     "published": 0,
-    "viewCount": 1500000,
+    "viewCount": 4700000,
     "videoThumbnails": [
       {
         "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/1Wqshl2zwAU/maxresdefault.jpg",
+        "url": "https://i.ytimg.com/vi/OuGeoq_uVts/maxresdefault.jpg",
         "width": 1280,
         "height": 720
       }
@@ -415,17 +397,17 @@
   },
   {
     "type": "video",
-    "title": "I’m Buying HEAVY NOW: My Top 8 Stocks for Super Growth 2026",
-    "videoId": "86-tr02fYh0",
-    "author": "Investing Simplified - Professor G",
+    "title": "Google A2UI: Agent-to-User Interface - Build AI Generated Apps EASILY! (CopilotKit AG-UI) Opensource",
+    "videoId": "FTtmZQBX-fk",
+    "author": "WorldofAI",
     "authorId": "N/A",
     "lengthSeconds": 0,
     "published": 0,
-    "viewCount": 150000,
+    "viewCount": 40000,
     "videoThumbnails": [
       {
         "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/86-tr02fYh0/maxresdefault.jpg",
+        "url": "https://i.ytimg.com/vi/FTtmZQBX-fk/maxresdefault.jpg",
         "width": 1280,
         "height": 720
       }
@@ -433,17 +415,17 @@
   },
   {
     "type": "video",
-    "title": "The SMB Capital Insider Who Built Bots to Make Money for Him",
-    "videoId": "kmgziRqBFd0",
-    "author": "B The Trader",
+    "title": "Milan vs. Genoa: Extended Highlights | Serie A | CBS Sports Golazo",
+    "videoId": "r7ZctGnoaYc",
+    "author": "CBS Sports Golazo",
     "authorId": "N/A",
     "lengthSeconds": 0,
     "published": 0,
-    "viewCount": 29000,
+    "viewCount": 1100,
     "videoThumbnails": [
       {
         "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/kmgziRqBFd0/maxresdefault.jpg",
+        "url": "https://i.ytimg.com/vi/r7ZctGnoaYc/maxresdefault.jpg",
         "width": 1280,
         "height": 720
       }
@@ -451,17 +433,17 @@
   },
   {
     "type": "video",
-    "title": "This Option Strategy Turned $10k Into $1 Million In One Year",
-    "videoId": "oW6MHjzxHpU",
-    "author": "Volatility Vibes",
+    "title": "Echo45 Weekly Economic Update - January 5, 2026",
+    "videoId": "SKsgXilXa1k",
+    "author": "Echo45 Advisors",
     "authorId": "N/A",
     "lengthSeconds": 0,
     "published": 0,
-    "viewCount": 590000,
+    "viewCount": 8,
     "videoThumbnails": [
       {
         "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/oW6MHjzxHpU/maxresdefault.jpg",
+        "url": "https://i.ytimg.com/vi/SKsgXilXa1k/maxresdefault.jpg",
         "width": 1280,
         "height": 720
       }
@@ -469,17 +451,17 @@
   },
   {
     "type": "video",
-    "title": "Trump Delivers Scatterbrained Speech to GOP, He Guns for Greenland & 5th Anniversary of Insurrection",
-    "videoId": "w4-Vnatjopc",
-    "author": "Jimmy Kimmel Live",
+    "title": "How To Build A Monster Dividend Portfolio | Ep. 325",
+    "videoId": "mQS1tCQUiAM",
+    "author": "Joseph Carlson",
     "authorId": "N/A",
     "lengthSeconds": 0,
     "published": 0,
-    "viewCount": 2100000,
+    "viewCount": 3300000,
     "videoThumbnails": [
       {
         "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/w4-Vnatjopc/maxresdefault.jpg",
+        "url": "https://i.ytimg.com/vi/mQS1tCQUiAM/maxresdefault.jpg",
         "width": 1280,
         "height": 720
       }
@@ -487,17 +469,17 @@
   },
   {
     "type": "video",
-    "title": "Buy These 3 ETFs Today To Get Rich When Markets Crash",
-    "videoId": "-PBGTI6aIvo",
-    "author": "Minority Mindset",
+    "title": "Protecting Your S&P 500 Funds Against A Crash: Guaranteed Principal Protection With CPSN vs A FIA?",
+    "videoId": "w0l2-no-rW4",
+    "author": "Diamond NestEgg",
     "authorId": "N/A",
     "lengthSeconds": 0,
     "published": 0,
-    "viewCount": 750000,
+    "viewCount": 136000,
     "videoThumbnails": [
       {
         "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/-PBGTI6aIvo/maxresdefault.jpg",
+        "url": "https://i.ytimg.com/vi/w0l2-no-rW4/maxresdefault.jpg",
         "width": 1280,
         "height": 720
       }
@@ -505,17 +487,17 @@
   },
   {
     "type": "video",
-    "title": "$1M Prop Firm Day Trader: I Found A 90% Win Rate Edge, And It's SHOCKINGLY Simple",
-    "videoId": "Yg7bTCdoLCQ",
-    "author": "Titans Of Tomorrow",
+    "title": "BANKER EXPLAINS: 10 Things To Know About ETFs Before Investing (ETF Investing for beginners)",
+    "videoId": "C3fG5ADCU5U",
+    "author": "J U M O K E M I | Finance Nerd",
     "authorId": "N/A",
     "lengthSeconds": 0,
     "published": 0,
-    "viewCount": 200000,
+    "viewCount": 246000,
     "videoThumbnails": [
       {
         "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/Yg7bTCdoLCQ/maxresdefault.jpg",
+        "url": "https://i.ytimg.com/vi/C3fG5ADCU5U/maxresdefault.jpg",
         "width": 1280,
         "height": 720
       }
@@ -523,17 +505,35 @@
   },
   {
     "type": "video",
-    "title": "How India's UPI DESTROYED America's Visa & Mastercard | The Indian Insight",
-    "videoId": "85jfpW_q2eo",
-    "author": "The Indian Insight",
+    "title": "15 S-Tier Cheap Fragrances That Smell EXPENSIVE",
+    "videoId": "fODZKOLAxsQ",
+    "author": "Gents Scents",
     "authorId": "N/A",
     "lengthSeconds": 0,
     "published": 0,
-    "viewCount": 490000,
+    "viewCount": 53000,
     "videoThumbnails": [
       {
         "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/85jfpW_q2eo/maxresdefault.jpg",
+        "url": "https://i.ytimg.com/vi/fODZKOLAxsQ/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  },
+  {
+    "type": "video",
+    "title": "Bar Keepers Friend Product Review - Does it Live Up to the Hype?",
+    "videoId": "3k-V7j_4BDw",
+    "author": "Angela Brown Cleaning",
+    "authorId": "N/A",
+    "lengthSeconds": 0,
+    "published": 0,
+    "viewCount": 227000,
+    "videoThumbnails": [
+      {
+        "quality": "maxres",
+        "url": "https://i.ytimg.com/vi/3k-V7j_4BDw/maxresdefault.jpg",
         "width": 1280,
         "height": 720
       }
