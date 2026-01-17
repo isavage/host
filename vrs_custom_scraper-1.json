@@ -1,17 +1,17 @@
 [
   {
     "type": "video",
-    "title": "How to Use Claude to Build INSANE Financial Models (2026)",
-    "videoId": "W-tMaaX777I",
-    "author": "Nicolas Boucher",
+    "title": "Will laser blasters ever be possible? - Christopher Baird",
+    "videoId": "cmO2ryQ8LcY",
+    "author": "TED-Ed",
     "authorId": "N/A",
     "lengthSeconds": 0,
     "published": 0,
-    "viewCount": 73000,
+    "viewCount": 94000,
     "videoThumbnails": [
       {
         "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/W-tMaaX777I/maxresdefault.jpg",
+        "url": "https://i.ytimg.com/vi/cmO2ryQ8LcY/maxresdefault.jpg",
         "width": 1280,
         "height": 720
       }
@@ -19,9 +19,63 @@
   },
   {
     "type": "video",
-    "title": "ACCEPTED Brown Video Portfolio (Class of 2027)",
-    "videoId": "h-3nz4pioGQ",
-    "author": "Anika Suman",
+    "title": "Arnab On Badminton Embarrassment: Why India Must Not Host CWG or Olympics",
+    "videoId": "job5gqtLgT0",
+    "author": "Republic World",
+    "authorId": "N/A",
+    "lengthSeconds": 0,
+    "published": 0,
+    "viewCount": 85000,
+    "videoThumbnails": [
+      {
+        "quality": "maxres",
+        "url": "https://i.ytimg.com/vi/job5gqtLgT0/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  },
+  {
+    "type": "video",
+    "title": "AI this, AI that, Here's Raspberry Pi's new AI HAT",
+    "videoId": "jRQaur0LdLE",
+    "author": "Jeff Geerling",
+    "authorId": "N/A",
+    "lengthSeconds": 0,
+    "published": 0,
+    "viewCount": 180000,
+    "videoThumbnails": [
+      {
+        "quality": "maxres",
+        "url": "https://i.ytimg.com/vi/jRQaur0LdLE/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  },
+  {
+    "type": "video",
+    "title": "U2 - Song For Someone",
+    "videoId": "cuqZPx0H7a0",
+    "author": "U2",
+    "authorId": "N/A",
+    "lengthSeconds": 0,
+    "published": 0,
+    "viewCount": 19000000,
+    "videoThumbnails": [
+      {
+        "quality": "maxres",
+        "url": "https://i.ytimg.com/vi/cuqZPx0H7a0/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  },
+  {
+    "type": "video",
+    "title": "How Graphene is Changing the World … Right Now",
+    "videoId": "9H1nwqjzVVc",
+    "author": "Undecided with Matt Ferrell",
     "authorId": "N/A",
     "lengthSeconds": 0,
     "published": 0,
@@ -29,7 +83,7 @@
     "videoThumbnails": [
       {
         "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/h-3nz4pioGQ/maxresdefault.jpg",
+        "url": "https://i.ytimg.com/vi/9H1nwqjzVVc/maxresdefault.jpg",
         "width": 1280,
         "height": 720
       }
@@ -55,24 +109,6 @@
   },
   {
     "type": "video",
-    "title": "Stop Hackers in Their Tracks: MFA & Passkeys Explained 🔐",
-    "videoId": "gIKdZ1YrR2k",
-    "author": "Shannon Morse",
-    "authorId": "N/A",
-    "lengthSeconds": 0,
-    "published": 0,
-    "viewCount": 72000,
-    "videoThumbnails": [
-      {
-        "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/gIKdZ1YrR2k/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    ]
-  },
-  {
-    "type": "video",
     "title": "Stand By Me (Ben E. King) played by Soren Madsen.",
     "videoId": "NAp6m4j3jIg",
     "author": "sorenmadsen.com",
@@ -84,186 +120,6 @@
       {
         "quality": "maxres",
         "url": "https://i.ytimg.com/vi/NAp6m4j3jIg/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    ]
-  },
-  {
-    "type": "video",
-    "title": "2025 Vibes Of Love Mashup Part 2 | Arijit Singh | Ishq | Tattvaa | Latest Romantic Songs | Raanjhan",
-    "videoId": "M38uvn_wfyc",
-    "author": "Tattvaa",
-    "authorId": "N/A",
-    "lengthSeconds": 0,
-    "published": 0,
-    "viewCount": 2900000,
-    "videoThumbnails": [
-      {
-        "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/M38uvn_wfyc/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    ]
-  },
-  {
-    "type": "video",
-    "title": "Snowden’s Secret: The OS the NSA Can’t Crack",
-    "videoId": "cvi0zacFLIY",
-    "author": "Bootable USBs",
-    "authorId": "N/A",
-    "lengthSeconds": 0,
-    "published": 0,
-    "viewCount": 350000,
-    "videoThumbnails": [
-      {
-        "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/cvi0zacFLIY/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    ]
-  },
-  {
-    "type": "video",
-    "title": "Dan Ives’ and Cathie Wood’s Warnings on Apple!",
-    "videoId": "C9i1UWOUN0E",
-    "author": "David Carbutt",
-    "authorId": "N/A",
-    "lengthSeconds": 0,
-    "published": 0,
-    "viewCount": 4800,
-    "videoThumbnails": [
-      {
-        "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/C9i1UWOUN0E/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    ]
-  },
-  {
-    "type": "video",
-    "title": "Road to 100K: Start of Week 77",
-    "videoId": "b9EnBkqQdUM",
-    "author": "Marco Afonso, CFA",
-    "authorId": "N/A",
-    "lengthSeconds": 0,
-    "published": 0,
-    "viewCount": 9,
-    "videoThumbnails": [
-      {
-        "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/b9EnBkqQdUM/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    ]
-  },
-  {
-    "type": "video",
-    "title": "Inside Aaron Paul’s Rustic Riverside Home In Idaho | Open Door | Architectural Digest",
-    "videoId": "D-qQneOnJl0",
-    "author": "Architectural Digest",
-    "authorId": "N/A",
-    "lengthSeconds": 0,
-    "published": 0,
-    "viewCount": 23000000,
-    "videoThumbnails": [
-      {
-        "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/D-qQneOnJl0/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    ]
-  },
-  {
-    "type": "video",
-    "title": "Indian Jazz | Raga After Midnight | Playlist",
-    "videoId": "M_XQ38-uh_4",
-    "author": "Late Cafe Radio",
-    "authorId": "N/A",
-    "lengthSeconds": 0,
-    "published": 0,
-    "viewCount": 19000,
-    "videoThumbnails": [
-      {
-        "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/M_XQ38-uh_4/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    ]
-  },
-  {
-    "type": "video",
-    "title": "I Ranked The Top 10 Most Popular ETFs in the World (Tier List)",
-    "videoId": "4BKXrtKghh0",
-    "author": "Brian Feroldi",
-    "authorId": "N/A",
-    "lengthSeconds": 0,
-    "published": 0,
-    "viewCount": 120000,
-    "videoThumbnails": [
-      {
-        "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/4BKXrtKghh0/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    ]
-  },
-  {
-    "type": "video",
-    "title": "How I Healed My Eyesight Naturally (No Surgery, No Lasik)",
-    "videoId": "m4tQ2riIywo",
-    "author": "Satvic Movement",
-    "authorId": "N/A",
-    "lengthSeconds": 0,
-    "published": 0,
-    "viewCount": 950000,
-    "videoThumbnails": [
-      {
-        "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/m4tQ2riIywo/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    ]
-  },
-  {
-    "type": "video",
-    "title": "Coke Studio Season 8| Tajdar-e-Haram| Atif Aslam",
-    "videoId": "a18py61_F_w",
-    "author": "Coke Studio Pakistan",
-    "authorId": "N/A",
-    "lengthSeconds": 0,
-    "published": 0,
-    "viewCount": 600000000,
-    "videoThumbnails": [
-      {
-        "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/a18py61_F_w/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    ]
-  },
-  {
-    "type": "video",
-    "title": "Hidden ETHERNET at home using FIBER",
-    "videoId": "Z2FbzCyiNr4",
-    "author": "apalrd's adventures",
-    "authorId": "N/A",
-    "lengthSeconds": 0,
-    "published": 0,
-    "viewCount": 150000,
-    "videoThumbnails": [
-      {
-        "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/Z2FbzCyiNr4/maxresdefault.jpg",
         "width": 1280,
         "height": 720
       }
@@ -289,17 +145,17 @@
   },
   {
     "type": "video",
-    "title": "Why India is a Top Market Pick for Veteran Investors Mark Mobius, Stephen Dover",
-    "videoId": "UqwDj913EuE",
-    "author": "Bloomberg Television",
+    "title": "Winter Love - Mega Mashup | Anuv Jain | Talha Anjum | Best of Soulful Mashups 2024",
+    "videoId": "W7_D2huCK8w",
+    "author": "Mashup Mania",
     "authorId": "N/A",
     "lengthSeconds": 0,
     "published": 0,
-    "viewCount": 13000,
+    "viewCount": 730000,
     "videoThumbnails": [
       {
         "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/UqwDj913EuE/maxresdefault.jpg",
+        "url": "https://i.ytimg.com/vi/W7_D2huCK8w/maxresdefault.jpg",
         "width": 1280,
         "height": 720
       }
@@ -307,71 +163,17 @@
   },
   {
     "type": "video",
-    "title": "Cristiano Ronaldo First Match For Manchester United",
-    "videoId": "30PAXRq2BZc",
-    "author": "VALENTINO PRODUCTIONS",
+    "title": "Show Your Grandmom - Hinduism Explained In English",
+    "videoId": "OJHgjRfLY6s",
+    "author": "Ranveer Allahbadia",
     "authorId": "N/A",
     "lengthSeconds": 0,
     "published": 0,
-    "viewCount": 4500000,
+    "viewCount": 170000,
     "videoThumbnails": [
       {
         "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/30PAXRq2BZc/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    ]
-  },
-  {
-    "type": "video",
-    "title": "Y Combinator Accepted Her Without An Idea. Here’s How She Built A $13 Million-Backed Company Anyway",
-    "videoId": "HnSqkFp-OeI",
-    "author": "Forbes",
-    "authorId": "N/A",
-    "lengthSeconds": 0,
-    "published": 0,
-    "viewCount": 150000,
-    "videoThumbnails": [
-      {
-        "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/HnSqkFp-OeI/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    ]
-  },
-  {
-    "type": "video",
-    "title": "How Ibogaine Could Treat Depression and Anxiety | Nolan Williams | TED",
-    "videoId": "2pPPJbnZOtQ",
-    "author": "TED",
-    "authorId": "N/A",
-    "lengthSeconds": 0,
-    "published": 0,
-    "viewCount": 23000,
-    "videoThumbnails": [
-      {
-        "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/2pPPJbnZOtQ/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    ]
-  },
-  {
-    "type": "video",
-    "title": "Smoke Mood — Just Relax | Deep House Mix 2025 • Chill / Night Vibes / Stress Relief",
-    "videoId": "m2MZnvCRjPk",
-    "author": "Dream Melody",
-    "authorId": "N/A",
-    "lengthSeconds": 0,
-    "published": 0,
-    "viewCount": 390000,
-    "videoThumbnails": [
-      {
-        "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/m2MZnvCRjPk/maxresdefault.jpg",
+        "url": "https://i.ytimg.com/vi/OJHgjRfLY6s/maxresdefault.jpg",
         "width": 1280,
         "height": 720
       }
@@ -397,17 +199,197 @@
   },
   {
     "type": "video",
-    "title": "The Simple Genius of Morocco's Economic Rise",
-    "videoId": "4YHuaa8Jr2A",
-    "author": "Economics Explained",
+    "title": "Snake hunters from India tackle Florida's python problem",
+    "videoId": "r_fFk53I3nE",
+    "author": "ABC News",
     "authorId": "N/A",
     "lengthSeconds": 0,
     "published": 0,
-    "viewCount": 60000,
+    "viewCount": 7000000,
     "videoThumbnails": [
       {
         "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/4YHuaa8Jr2A/maxresdefault.jpg",
+        "url": "https://i.ytimg.com/vi/r_fFk53I3nE/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  },
+  {
+    "type": "video",
+    "title": "I Saw this German Girl and had to ask...",
+    "videoId": "qCT-ATs2S04",
+    "author": "Safi",
+    "authorId": "N/A",
+    "lengthSeconds": 0,
+    "published": 0,
+    "viewCount": 1900000,
+    "videoThumbnails": [
+      {
+        "quality": "maxres",
+        "url": "https://i.ytimg.com/vi/qCT-ATs2S04/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  },
+  {
+    "type": "video",
+    "title": "The 2 Best Stocks to Buy the next 60 days",
+    "videoId": "0snUlvU545k",
+    "author": "Jeremy Lefebvre Makes Money",
+    "authorId": "N/A",
+    "lengthSeconds": 0,
+    "published": 0,
+    "viewCount": 10000,
+    "videoThumbnails": [
+      {
+        "quality": "maxres",
+        "url": "https://i.ytimg.com/vi/0snUlvU545k/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  },
+  {
+    "type": "video",
+    "title": "Why Ukraine’s Deadly Drone Operation Runs Like a ‘McDonald’s’ | WSJ",
+    "videoId": "9hzIMI2DLys",
+    "author": "The Wall Street Journal",
+    "authorId": "N/A",
+    "lengthSeconds": 0,
+    "published": 0,
+    "viewCount": 130000,
+    "videoThumbnails": [
+      {
+        "quality": "maxres",
+        "url": "https://i.ytimg.com/vi/9hzIMI2DLys/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  },
+  {
+    "type": "video",
+    "title": "Pink Stuff vs Bar Keeper's Friend - The Cheaper One Won!",
+    "videoId": "U8lKJDJIyaU",
+    "author": "Cart Confessions",
+    "authorId": "N/A",
+    "lengthSeconds": 0,
+    "published": 0,
+    "viewCount": 84,
+    "videoThumbnails": [
+      {
+        "quality": "maxres",
+        "url": "https://i.ytimg.com/vi/U8lKJDJIyaU/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  },
+  {
+    "type": "video",
+    "title": "millie bobby brown being british for 3 minutes and 55 seconds",
+    "videoId": "WE0eEws5HMg",
+    "author": "Chuckle Honeybear",
+    "authorId": "N/A",
+    "lengthSeconds": 0,
+    "published": 0,
+    "viewCount": 20000000,
+    "videoThumbnails": [
+      {
+        "quality": "maxres",
+        "url": "https://i.ytimg.com/vi/WE0eEws5HMg/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  },
+  {
+    "type": "video",
+    "title": "Only 10% Students Solve this exponential math olympiad question | 2^t =t^32 |",
+    "videoId": "xxGtQlSJb-8",
+    "author": "Rashel's Classroom",
+    "authorId": "N/A",
+    "lengthSeconds": 0,
+    "published": 0,
+    "viewCount": 4400000,
+    "videoThumbnails": [
+      {
+        "quality": "maxres",
+        "url": "https://i.ytimg.com/vi/xxGtQlSJb-8/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  },
+  {
+    "type": "video",
+    "title": "Rhea Seehorn WINS Best Actress in a Drama Series for \"Pluribus\"",
+    "videoId": "lISlrtRQcnI",
+    "author": "Critics Choice",
+    "authorId": "N/A",
+    "lengthSeconds": 0,
+    "published": 0,
+    "viewCount": 459999,
+    "videoThumbnails": [
+      {
+        "quality": "maxres",
+        "url": "https://i.ytimg.com/vi/lISlrtRQcnI/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  },
+  {
+    "type": "video",
+    "title": "BOSTON’s BEST & WORST Neighborhoods Ranked for Home Buyers!",
+    "videoId": "7HeRzLFj5_0",
+    "author": "Kimberlee Meserve - Selling Greater Boston",
+    "authorId": "N/A",
+    "lengthSeconds": 0,
+    "published": 0,
+    "viewCount": 8900,
+    "videoThumbnails": [
+      {
+        "quality": "maxres",
+        "url": "https://i.ytimg.com/vi/7HeRzLFj5_0/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  },
+  {
+    "type": "video",
+    "title": "I got more than money for this",
+    "videoId": "t9YbvAqgn64",
+    "author": "Blacktail Studio",
+    "authorId": "N/A",
+    "lengthSeconds": 0,
+    "published": 0,
+    "viewCount": 1400000,
+    "videoThumbnails": [
+      {
+        "quality": "maxres",
+        "url": "https://i.ytimg.com/vi/t9YbvAqgn64/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  },
+  {
+    "type": "video",
+    "title": "Dishwasher not cleaning properly? Try these tips",
+    "videoId": "S6xzsY_6mEc",
+    "author": "Boulevard Home",
+    "authorId": "N/A",
+    "lengthSeconds": 0,
+    "published": 0,
+    "viewCount": 1000000,
+    "videoThumbnails": [
+      {
+        "quality": "maxres",
+        "url": "https://i.ytimg.com/vi/S6xzsY_6mEc/maxresdefault.jpg",
         "width": 1280,
         "height": 720
       }
@@ -433,17 +415,17 @@
   },
   {
     "type": "video",
-    "title": "Snowflake s Next Move",
-    "videoId": "qe_slnMkFlQ",
-    "author": "EnforceAuth",
+    "title": "639Hz Morning Sitar Tabla Meditation for Emotional Healing & Anxiety Relief | Indian Healing Music",
+    "videoId": "6Jfq4s-gTzg",
+    "author": "Indian Soul Meditation Music",
     "authorId": "N/A",
     "lengthSeconds": 0,
     "published": 0,
-    "viewCount": 5,
+    "viewCount": 82000,
     "videoThumbnails": [
       {
         "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/qe_slnMkFlQ/maxresdefault.jpg",
+        "url": "https://i.ytimg.com/vi/6Jfq4s-gTzg/maxresdefault.jpg",
         "width": 1280,
         "height": 720
       }
@@ -451,17 +433,17 @@
   },
   {
     "type": "video",
-    "title": "Website Hacking for Beginners | SQL Injection",
-    "videoId": "n9xNolex8oA",
-    "author": "Cyb3rMaddy",
+    "title": "Canada Breaks with US, Cuts Tariffs for China | Vantage with Palki Sharma | N18G",
+    "videoId": "cH1Rqo7xo2I",
+    "author": "Firstpost",
     "authorId": "N/A",
     "lengthSeconds": 0,
     "published": 0,
-    "viewCount": 480000,
+    "viewCount": 54000,
     "videoThumbnails": [
       {
         "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/n9xNolex8oA/maxresdefault.jpg",
+        "url": "https://i.ytimg.com/vi/cH1Rqo7xo2I/maxresdefault.jpg",
         "width": 1280,
         "height": 720
       }
@@ -469,17 +451,17 @@
   },
   {
     "type": "video",
-    "title": "Paresh Pahuja - Dooron Dooron (Live from The Voice Notes Concert)",
-    "videoId": "9T-Zbxg9X_4",
-    "author": "Paresh Pahuja",
+    "title": "An Interview with the Winner of the 2025 Nobel Prize in Physics, John Martinis",
+    "videoId": "zMBcoEATKeY",
+    "author": "StarTalk",
     "authorId": "N/A",
     "lengthSeconds": 0,
     "published": 0,
-    "viewCount": 54000000,
+    "viewCount": 290000,
     "videoThumbnails": [
       {
         "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/9T-Zbxg9X_4/maxresdefault.jpg",
+        "url": "https://i.ytimg.com/vi/zMBcoEATKeY/maxresdefault.jpg",
         "width": 1280,
         "height": 720
       }
@@ -487,17 +469,17 @@
   },
   {
     "type": "video",
-    "title": "Best Ways To Reverse Thyroid Permanently | Hypothyroid & Hyperthyroid | Doctor Explains",
-    "videoId": "TYIqaslHkIA",
-    "author": "Dr Rohini Patil",
+    "title": "9 Things To Do Differently With Your Money in 2026 with Dave Ramsey",
+    "videoId": "Hrc-4dZxI08",
+    "author": "Rachel Cruze",
     "authorId": "N/A",
     "lengthSeconds": 0,
     "published": 0,
-    "viewCount": 990000,
+    "viewCount": 210000,
     "videoThumbnails": [
       {
         "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/TYIqaslHkIA/maxresdefault.jpg",
+        "url": "https://i.ytimg.com/vi/Hrc-4dZxI08/maxresdefault.jpg",
         "width": 1280,
         "height": 720
       }
@@ -505,17 +487,17 @@
   },
   {
     "type": "video",
-    "title": "Arnab On Badminton Embarrassment: Why India Must Not Host CWG or Olympics",
-    "videoId": "job5gqtLgT0",
-    "author": "Republic World",
+    "title": "Alter Bridge -  Scales Are Falling (Official Video)",
+    "videoId": "eAx0Td1lUy0",
+    "author": "Alter Bridge",
     "authorId": "N/A",
     "lengthSeconds": 0,
     "published": 0,
-    "viewCount": 84000,
+    "viewCount": 690000,
     "videoThumbnails": [
       {
         "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/job5gqtLgT0/maxresdefault.jpg",
+        "url": "https://i.ytimg.com/vi/eAx0Td1lUy0/maxresdefault.jpg",
         "width": 1280,
         "height": 720
       }
@@ -523,17 +505,35 @@
   },
   {
     "type": "video",
-    "title": "OpenCode just killed all vibe coding apps (it’s insane)",
-    "videoId": "syK7yprJknM",
-    "author": "David Ondrej",
+    "title": "Why the US and Europe are battling for Greenland’s future | Mapped Out",
+    "videoId": "mQrRY9SY_9A",
+    "author": "DW News",
     "authorId": "N/A",
     "lengthSeconds": 0,
     "published": 0,
-    "viewCount": 61000,
+    "viewCount": 3400000,
     "videoThumbnails": [
       {
         "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/syK7yprJknM/maxresdefault.jpg",
+        "url": "https://i.ytimg.com/vi/mQrRY9SY_9A/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  },
+  {
+    "type": "video",
+    "title": "The latest on Netflix: Warner Bros. bid, earnings, and its deal with Matt Damon & Ben Affleck",
+    "videoId": "aJWoGi6DH1k",
+    "author": "Yahoo Finance",
+    "authorId": "N/A",
+    "lengthSeconds": 0,
+    "published": 0,
+    "viewCount": 2300,
+    "videoThumbnails": [
+      {
+        "quality": "maxres",
+        "url": "https://i.ytimg.com/vi/aJWoGi6DH1k/maxresdefault.jpg",
         "width": 1280,
         "height": 720
       }
