@@ -1,17 +1,17 @@
 [
   {
     "type": "video",
-    "title": "Use Local LLMs Already!",
-    "videoId": "pfxgLX-MxMY",
-    "author": "The Art Of The Terminal",
+    "title": "The Everyday Display Smart Glasses",
+    "videoId": "EBoVJwmDU-8",
+    "author": "Unbox Therapy",
     "authorId": "N/A",
     "lengthSeconds": 0,
     "published": 0,
-    "viewCount": 53000,
+    "viewCount": 110000,
     "videoThumbnails": [
       {
         "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/pfxgLX-MxMY/maxresdefault.jpg",
+        "url": "https://i.ytimg.com/vi/EBoVJwmDU-8/maxresdefault.jpg",
         "width": 1280,
         "height": 720
       }
@@ -19,9 +19,225 @@
   },
   {
     "type": "video",
-    "title": "Linux on a Mac (it's not going back)",
-    "videoId": "Y4DKg4WZRx4",
-    "author": "Veronica Explains",
+    "title": "The Simple Genius of Morocco's Economic Rise",
+    "videoId": "4YHuaa8Jr2A",
+    "author": "Economics Explained",
+    "authorId": "N/A",
+    "lengthSeconds": 0,
+    "published": 0,
+    "viewCount": 290000,
+    "videoThumbnails": [
+      {
+        "quality": "maxres",
+        "url": "https://i.ytimg.com/vi/4YHuaa8Jr2A/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  },
+  {
+    "type": "video",
+    "title": "Trip Report Delta Air Lines Airbus A330-300 Boston (BOS) to Honolulu (HNL) Delta One",
+    "videoId": "F-idSp4gCz4",
+    "author": "HNL Voyager",
+    "authorId": "N/A",
+    "lengthSeconds": 0,
+    "published": 0,
+    "viewCount": 3500,
+    "videoThumbnails": [
+      {
+        "quality": "maxres",
+        "url": "https://i.ytimg.com/vi/F-idSp4gCz4/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  },
+  {
+    "type": "video",
+    "title": "I Saw this German Girl and had to ask...",
+    "videoId": "qCT-ATs2S04",
+    "author": "Safi",
+    "authorId": "N/A",
+    "lengthSeconds": 0,
+    "published": 0,
+    "viewCount": 2000000,
+    "videoThumbnails": [
+      {
+        "quality": "maxres",
+        "url": "https://i.ytimg.com/vi/qCT-ATs2S04/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  },
+  {
+    "type": "video",
+    "title": "Here's What To Do With An Old Mac",
+    "videoId": "w59QWE1CzMg",
+    "author": "Jimmy Tries World",
+    "authorId": "N/A",
+    "lengthSeconds": 0,
+    "published": 0,
+    "viewCount": 412,
+    "videoThumbnails": [
+      {
+        "quality": "maxres",
+        "url": "https://i.ytimg.com/vi/w59QWE1CzMg/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  },
+  {
+    "type": "video",
+    "title": "FULL DISCUSSION: Google's Demis Hassabis, Anthropic's Dario Amodei Debate the World After AGI | AI1G",
+    "videoId": "02YLwsCKUww",
+    "author": "DRM News",
+    "authorId": "N/A",
+    "lengthSeconds": 0,
+    "published": 0,
+    "viewCount": 260000,
+    "videoThumbnails": [
+      {
+        "quality": "maxres",
+        "url": "https://i.ytimg.com/vi/02YLwsCKUww/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  },
+  {
+    "type": "video",
+    "title": "The January 23-24, 2026 Winter Storm Coverage, As It Happened...",
+    "videoId": "PFcMH4pff2A",
+    "author": "Ryan Hall, Y'all",
+    "authorId": "N/A",
+    "lengthSeconds": 0,
+    "published": 0,
+    "viewCount": 2500000,
+    "videoThumbnails": [
+      {
+        "quality": "maxres",
+        "url": "https://i.ytimg.com/vi/PFcMH4pff2A/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  },
+  {
+    "type": "video",
+    "title": "Guerlain L'Homme Ideal Cologne Forte Unboxing | Is This Limited Edition Worth It?",
+    "videoId": "SoWY6Wiw58k",
+    "author": "The Perfume Guy",
+    "authorId": "N/A",
+    "lengthSeconds": 0,
+    "published": 0,
+    "viewCount": 6700,
+    "videoThumbnails": [
+      {
+        "quality": "maxres",
+        "url": "https://i.ytimg.com/vi/SoWY6Wiw58k/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  },
+  {
+    "type": "video",
+    "title": "Conan's Greenland weather report cracks up Anderson Cooper",
+    "videoId": "Owrj4i2rpwc",
+    "author": "CNN",
+    "authorId": "N/A",
+    "lengthSeconds": 0,
+    "published": 0,
+    "viewCount": 8300000,
+    "videoThumbnails": [
+      {
+        "quality": "maxres",
+        "url": "https://i.ytimg.com/vi/Owrj4i2rpwc/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  },
+  {
+    "type": "video",
+    "title": "iShowSpeed Explores Inside The Pyramids Of Egypt! 🇪🇬",
+    "videoId": "1BwqkxTBNWI",
+    "author": "Live Speedy",
+    "authorId": "N/A",
+    "lengthSeconds": 0,
+    "published": 0,
+    "viewCount": 2200000,
+    "videoThumbnails": [
+      {
+        "quality": "maxres",
+        "url": "https://i.ytimg.com/vi/1BwqkxTBNWI/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  },
+  {
+    "type": "video",
+    "title": "EU Teases 'Mother of All Trade Deals' with India",
+    "videoId": "hQJfAEifTaM",
+    "author": "Bloomberg Television",
+    "authorId": "N/A",
+    "lengthSeconds": 0,
+    "published": 0,
+    "viewCount": 110000,
+    "videoThumbnails": [
+      {
+        "quality": "maxres",
+        "url": "https://i.ytimg.com/vi/hQJfAEifTaM/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  },
+  {
+    "type": "video",
+    "title": "Susana Cala - Domingo (Acústico)",
+    "videoId": "qssLreymVXI",
+    "author": "Susana Cala",
+    "authorId": "N/A",
+    "lengthSeconds": 0,
+    "published": 0,
+    "viewCount": 8700000,
+    "videoThumbnails": [
+      {
+        "quality": "maxres",
+        "url": "https://i.ytimg.com/vi/qssLreymVXI/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  },
+  {
+    "type": "video",
+    "title": "The Only 5 ETFs I’d Hold for the Next 20 Years (Even Through Crashes)",
+    "videoId": "Ce5mrmMoFjg",
+    "author": "Minority Mindset",
+    "authorId": "N/A",
+    "lengthSeconds": 0,
+    "published": 0,
+    "viewCount": 110000,
+    "videoThumbnails": [
+      {
+        "quality": "maxres",
+        "url": "https://i.ytimg.com/vi/Ce5mrmMoFjg/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  },
+  {
+    "type": "video",
+    "title": "1.2 Billion Youngsters Will Compete For 400 Million Jobs!: Ajay Banga, Nandan Nilekani On Job Crisis",
+    "videoId": "ufWDWodMofI",
+    "author": "Mint",
     "authorId": "N/A",
     "lengthSeconds": 0,
     "published": 0,
@@ -29,7 +245,7 @@
     "videoThumbnails": [
       {
         "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/Y4DKg4WZRx4/maxresdefault.jpg",
+        "url": "https://i.ytimg.com/vi/ufWDWodMofI/maxresdefault.jpg",
         "width": 1280,
         "height": 720
       }
@@ -37,117 +253,9 @@
   },
   {
     "type": "video",
-    "title": "The US is Introducing a Terrifying New Ground Launch Missile",
-    "videoId": "5CmQU24A4cg",
-    "author": "Megaprojects",
-    "authorId": "N/A",
-    "lengthSeconds": 0,
-    "published": 0,
-    "viewCount": 610000,
-    "videoThumbnails": [
-      {
-        "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/5CmQU24A4cg/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    ]
-  },
-  {
-    "type": "video",
-    "title": "5 Critical Blood Tests EVERYONE Should Get (But Very Few Do)",
-    "videoId": "GKsPNHPjOhw",
-    "author": "Leonid Kim MD",
-    "authorId": "N/A",
-    "lengthSeconds": 0,
-    "published": 0,
-    "viewCount": 640000,
-    "videoThumbnails": [
-      {
-        "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/GKsPNHPjOhw/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    ]
-  },
-  {
-    "type": "video",
-    "title": "Digital Twins & Machine Learning - Prediction & Clustering Real Estate Use Cases",
-    "videoId": "xAPvxp75U1A",
-    "author": "Digital Twins for Infrastructures & Cities",
-    "authorId": "N/A",
-    "lengthSeconds": 0,
-    "published": 0,
-    "viewCount": 51,
-    "videoThumbnails": [
-      {
-        "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/xAPvxp75U1A/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    ]
-  },
-  {
-    "type": "video",
-    "title": "Adam Savage Handles a REAL Samurai Sword!",
-    "videoId": "jRDVeS5hjwU",
-    "author": "Adam Savage’s Tested",
-    "authorId": "N/A",
-    "lengthSeconds": 0,
-    "published": 0,
-    "viewCount": 670000,
-    "videoThumbnails": [
-      {
-        "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/jRDVeS5hjwU/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    ]
-  },
-  {
-    "type": "video",
-    "title": "World's Fastest NAS Guide for Total Beginners | UGREEN NAS",
-    "videoId": "E_UhqV3MaHU",
-    "author": "QuickAssTutorials",
-    "authorId": "N/A",
-    "lengthSeconds": 0,
-    "published": 0,
-    "viewCount": 57000,
-    "videoThumbnails": [
-      {
-        "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/E_UhqV3MaHU/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    ]
-  },
-  {
-    "type": "video",
-    "title": "Derby Day VICTORY! 🔴 | Man Utd 2-0 Man City | EXTENDED Highlights",
-    "videoId": "mHcRPO21qlE",
-    "author": "Manchester United",
-    "authorId": "N/A",
-    "lengthSeconds": 0,
-    "published": 0,
-    "viewCount": 2100000,
-    "videoThumbnails": [
-      {
-        "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/mHcRPO21qlE/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    ]
-  },
-  {
-    "type": "video",
-    "title": "When Football Legends Were Asked About Ronaldo Nazário…",
-    "videoId": "-C_IwaQXUSQ",
-    "author": "Vi Ball",
+    "title": "The Day Hanuman Stopped Death",
+    "videoId": "WW99lvWVE4Y",
+    "author": "Indian Monk",
     "authorId": "N/A",
     "lengthSeconds": 0,
     "published": 0,
@@ -155,7 +263,7 @@
     "videoThumbnails": [
       {
         "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/-C_IwaQXUSQ/maxresdefault.jpg",
+        "url": "https://i.ytimg.com/vi/WW99lvWVE4Y/maxresdefault.jpg",
         "width": 1280,
         "height": 720
       }
@@ -163,243 +271,9 @@
   },
   {
     "type": "video",
-    "title": "The Only Time Alcaraz Faced A Player FASTER Than Him ● Carlos Alcaraz vs Yibing Wu Shanghai 2024",
-    "videoId": "GO9U6DYXBU8",
-    "author": "Roger That Tennis",
-    "authorId": "N/A",
-    "lengthSeconds": 0,
-    "published": 0,
-    "viewCount": 960000,
-    "videoThumbnails": [
-      {
-        "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/GO9U6DYXBU8/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    ]
-  },
-  {
-    "type": "video",
-    "title": "High Accuracy Options Trading Strategy (That Actually Works)",
-    "videoId": "AayABdqDKIc",
-    "author": "SMB Capital",
-    "authorId": "N/A",
-    "lengthSeconds": 0,
-    "published": 0,
-    "viewCount": 34000,
-    "videoThumbnails": [
-      {
-        "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/AayABdqDKIc/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    ]
-  },
-  {
-    "type": "video",
-    "title": "Brighton v. Bournemouth | PREMIER LEAGUE HIGHLIGHTS | 1/19/2026 | NBC Sports",
-    "videoId": "INeHaAPprdA",
-    "author": "NBC Sports",
-    "authorId": "N/A",
-    "lengthSeconds": 0,
-    "published": 0,
-    "viewCount": 27000,
-    "videoThumbnails": [
-      {
-        "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/INeHaAPprdA/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    ]
-  },
-  {
-    "type": "video",
-    "title": "What Traders Actually Do",
-    "videoId": "2s_C0munebg",
-    "author": "Gunduz",
-    "authorId": "N/A",
-    "lengthSeconds": 0,
-    "published": 0,
-    "viewCount": 200000,
-    "videoThumbnails": [
-      {
-        "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/2s_C0munebg/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    ]
-  },
-  {
-    "type": "video",
-    "title": "सीधे बताओ - ईश्वर है कि नहीं? || आचार्य प्रशांत, भुवनेश्वर (2026)",
-    "videoId": "FUkGgToJhGY",
-    "author": "आचार्य प्रशान्त - Acharya Prashant",
-    "authorId": "N/A",
-    "lengthSeconds": 0,
-    "published": 0,
-    "viewCount": 1100000,
-    "videoThumbnails": [
-      {
-        "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/FUkGgToJhGY/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    ]
-  },
-  {
-    "type": "video",
-    "title": "Ranking the Strongest & Weakest Submarine Fleets",
-    "videoId": "T5FpD2-TPms",
-    "author": "Johnny Harris",
-    "authorId": "N/A",
-    "lengthSeconds": 0,
-    "published": 0,
-    "viewCount": 3000000,
-    "videoThumbnails": [
-      {
-        "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/T5FpD2-TPms/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    ]
-  },
-  {
-    "type": "video",
-    "title": "How I Use Aspirin to Unclog Arteries",
-    "videoId": "KHIAFMTp1Mk",
-    "author": "Ford Brewer MD MPH",
-    "authorId": "N/A",
-    "lengthSeconds": 0,
-    "published": 0,
-    "viewCount": 6900000,
-    "videoThumbnails": [
-      {
-        "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/KHIAFMTp1Mk/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    ]
-  },
-  {
-    "type": "video",
-    "title": "Game Theory #1:  The Dating Game",
-    "videoId": "hE4l9WyLF3U",
-    "author": "Predictive History",
-    "authorId": "N/A",
-    "lengthSeconds": 0,
-    "published": 0,
-    "viewCount": 450000,
-    "videoThumbnails": [
-      {
-        "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/hE4l9WyLF3U/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    ]
-  },
-  {
-    "type": "video",
-    "title": "Why investors are still betting big on ETFs",
-    "videoId": "a6yYQGjWQpI",
-    "author": "Yahoo Finance",
-    "authorId": "N/A",
-    "lengthSeconds": 0,
-    "published": 0,
-    "viewCount": 10000,
-    "videoThumbnails": [
-      {
-        "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/a6yYQGjWQpI/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    ]
-  },
-  {
-    "type": "video",
-    "title": "How To Write Off Everyday Expenses, LEGALLY In 2026",
-    "videoId": "X0VnkfJkmTM",
-    "author": "Sherman - My CPA Coach",
-    "authorId": "N/A",
-    "lengthSeconds": 0,
-    "published": 0,
-    "viewCount": 71000,
-    "videoThumbnails": [
-      {
-        "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/X0VnkfJkmTM/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    ]
-  },
-  {
-    "type": "video",
-    "title": "India draws the line! EAM Jaishankar calls out Poland’s recent Pakistan visit | Must Watch Video",
-    "videoId": "ZqnSW_jDByw",
-    "author": "ANI News",
-    "authorId": "N/A",
-    "lengthSeconds": 0,
-    "published": 0,
-    "viewCount": 320000,
-    "videoThumbnails": [
-      {
-        "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/ZqnSW_jDByw/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    ]
-  },
-  {
-    "type": "video",
-    "title": "High Risk, High Reward? These Stocks Have Real Momentum",
-    "videoId": "2IQF0TM1fZ0",
-    "author": "MarketBeat",
-    "authorId": "N/A",
-    "lengthSeconds": 0,
-    "published": 0,
-    "viewCount": 5800,
-    "videoThumbnails": [
-      {
-        "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/2IQF0TM1fZ0/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    ]
-  },
-  {
-    "type": "video",
-    "title": "Will Trump invade Greenland?",
-    "videoId": "1mU0VmkHHU8",
-    "author": "The Economist",
-    "authorId": "N/A",
-    "lengthSeconds": 0,
-    "published": 0,
-    "viewCount": 42000,
-    "videoThumbnails": [
-      {
-        "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/1mU0VmkHHU8/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    ]
-  },
-  {
-    "type": "video",
-    "title": "How Do Nuclear Submarines Make Oxygen?- Smarter Every Day 251",
-    "videoId": "g3Ud6mHdhlQ",
-    "author": "SmarterEveryDay",
+    "title": "Two and a Half Men | Charlie, Berta's Granddaughter is OFF Limits!",
+    "videoId": "hJ513iLB0CI",
+    "author": "Peacock",
     "authorId": "N/A",
     "lengthSeconds": 0,
     "published": 0,
@@ -407,7 +281,7 @@
     "videoThumbnails": [
       {
         "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/g3Ud6mHdhlQ/maxresdefault.jpg",
+        "url": "https://i.ytimg.com/vi/hJ513iLB0CI/maxresdefault.jpg",
         "width": 1280,
         "height": 720
       }
@@ -415,17 +289,17 @@
   },
   {
     "type": "video",
-    "title": "Gold at Record Highs — Is a Crash Coming in 2026?",
-    "videoId": "pz30JmUu6pc",
-    "author": "ClearValue Tax",
+    "title": "Best Deep Feeling Mix 2026 - Vocal House, English Deep House, Nu Disco | Deep Feeling Mix 2026",
+    "videoId": "n1P80ry3XeA",
+    "author": "Deep.",
     "authorId": "N/A",
     "lengthSeconds": 0,
     "published": 0,
-    "viewCount": 380000,
+    "viewCount": 200000,
     "videoThumbnails": [
       {
         "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/pz30JmUu6pc/maxresdefault.jpg",
+        "url": "https://i.ytimg.com/vi/n1P80ry3XeA/maxresdefault.jpg",
         "width": 1280,
         "height": 720
       }
@@ -433,17 +307,17 @@
   },
   {
     "type": "video",
-    "title": "I’m a Pathologist: The \"Biological Cost\" of Ozempic and Mounjaro.",
-    "videoId": "YT3BxZNJlhs",
-    "author": "Dr. Amin Hedayat, MD",
+    "title": "S&P 500 / Elliott Wave Daily Update 1/22/2026 by Michael Filighera",
+    "videoId": "VOa44GMlzFA",
+    "author": "Michael Filighera",
     "authorId": "N/A",
     "lengthSeconds": 0,
     "published": 0,
-    "viewCount": 2800000,
+    "viewCount": 317,
     "videoThumbnails": [
       {
         "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/YT3BxZNJlhs/maxresdefault.jpg",
+        "url": "https://i.ytimg.com/vi/VOa44GMlzFA/maxresdefault.jpg",
         "width": 1280,
         "height": 720
       }
@@ -451,17 +325,17 @@
   },
   {
     "type": "video",
-    "title": "Asking Middle Eastern Billionaires How They Got Rich!",
-    "videoId": "njD4aqTp0i4",
-    "author": "School of Hard Knocks",
+    "title": "Stock Market Rallies on Strong GDP and Jobs Data: S&P 500 Up 0.55%, Nasdaq Gains 0.91%",
+    "videoId": "9bNwrUjDBTU",
+    "author": "Lone Wolf Trading Club",
     "authorId": "N/A",
     "lengthSeconds": 0,
     "published": 0,
-    "viewCount": 680000,
+    "viewCount": 13,
     "videoThumbnails": [
       {
         "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/njD4aqTp0i4/maxresdefault.jpg",
+        "url": "https://i.ytimg.com/vi/9bNwrUjDBTU/maxresdefault.jpg",
         "width": 1280,
         "height": 720
       }
@@ -469,17 +343,17 @@
   },
   {
     "type": "video",
-    "title": "The Best Quicken Alternative (Actual Budget Deep Dive)",
-    "videoId": "BQr9ejt3z_g",
-    "author": "tektoc",
+    "title": "Prabhas as the POWERFUL Suryaputra Karna ❤️‍🔥 | Kalki 2898 AD | Netflix India",
+    "videoId": "RSZQZDHD0Fs",
+    "author": "Netflix India",
     "authorId": "N/A",
     "lengthSeconds": 0,
     "published": 0,
-    "viewCount": 82000,
+    "viewCount": 6400000,
     "videoThumbnails": [
       {
         "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/BQr9ejt3z_g/maxresdefault.jpg",
+        "url": "https://i.ytimg.com/vi/RSZQZDHD0Fs/maxresdefault.jpg",
         "width": 1280,
         "height": 720
       }
@@ -487,17 +361,17 @@
   },
   {
     "type": "video",
-    "title": "What My Smart Home Was Missing.",
-    "videoId": "uTxURzmrVtA",
-    "author": "The Stock Pot",
+    "title": "I Tracked Down The Companies Bribing Trump",
+    "videoId": "RPzcGeiNYvk",
+    "author": "More Perfect Union",
     "authorId": "N/A",
     "lengthSeconds": 0,
     "published": 0,
-    "viewCount": 640000,
+    "viewCount": 1000000,
     "videoThumbnails": [
       {
         "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/uTxURzmrVtA/maxresdefault.jpg",
+        "url": "https://i.ytimg.com/vi/RPzcGeiNYvk/maxresdefault.jpg",
         "width": 1280,
         "height": 720
       }
@@ -505,17 +379,17 @@
   },
   {
     "type": "video",
-    "title": "Why Is BlackRock Pulling Its Money Out of America? A $10 Trillion Warning",
-    "videoId": "_AlnhQpj2qI",
-    "author": "The Coin & The Crown",
+    "title": "Everything I Learned Sitting in Billion-Dollar Boardrooms",
+    "videoId": "yCCIDNvp5dk",
+    "author": "theMITmonk",
     "authorId": "N/A",
     "lengthSeconds": 0,
     "published": 0,
-    "viewCount": 15000,
+    "viewCount": 500000,
     "videoThumbnails": [
       {
         "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/_AlnhQpj2qI/maxresdefault.jpg",
+        "url": "https://i.ytimg.com/vi/yCCIDNvp5dk/maxresdefault.jpg",
         "width": 1280,
         "height": 720
       }
@@ -523,17 +397,143 @@
   },
   {
     "type": "video",
-    "title": "How much RAM do you REALLY need...",
-    "videoId": "a4PKeC02HnA",
-    "author": "JayzTwoCents",
+    "title": "STEAL - Official Trailer | Prime Video",
+    "videoId": "8rMfMzNAJaM",
+    "author": "Prime Video",
     "authorId": "N/A",
     "lengthSeconds": 0,
     "published": 0,
-    "viewCount": 610000,
+    "viewCount": 12000000,
     "videoThumbnails": [
       {
         "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/a4PKeC02HnA/maxresdefault.jpg",
+        "url": "https://i.ytimg.com/vi/8rMfMzNAJaM/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  },
+  {
+    "type": "video",
+    "title": "GARSI - Live @ DJanes.net Bali, Indonesia 18.1.2023 / Melodic Techno & Indie Dance DJ Mix 4K",
+    "videoId": "fsnDgWBDmbQ",
+    "author": "DJanes",
+    "authorId": "N/A",
+    "lengthSeconds": 0,
+    "published": 0,
+    "viewCount": 4400000,
+    "videoThumbnails": [
+      {
+        "quality": "maxres",
+        "url": "https://i.ytimg.com/vi/fsnDgWBDmbQ/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  },
+  {
+    "type": "video",
+    "title": "💙 New Hindi Songs 2025 Best of Arijit Singh, Jubin Nautiyal, Atif Aslam & Darshan Raval 🍀🍀",
+    "videoId": "025GNiHAC98",
+    "author": "Hindi Love JUKEBOX",
+    "authorId": "N/A",
+    "lengthSeconds": 0,
+    "published": 0,
+    "viewCount": 229999,
+    "videoThumbnails": [
+      {
+        "quality": "maxres",
+        "url": "https://i.ytimg.com/vi/025GNiHAC98/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  },
+  {
+    "type": "video",
+    "title": "Escaping an Avalanche By Yourself?! DEBUNKED",
+    "videoId": "s4rApf0JjNE",
+    "author": "Debunked",
+    "authorId": "N/A",
+    "lengthSeconds": 0,
+    "published": 0,
+    "viewCount": 7500,
+    "videoThumbnails": [
+      {
+        "quality": "maxres",
+        "url": "https://i.ytimg.com/vi/s4rApf0JjNE/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  },
+  {
+    "type": "video",
+    "title": "The Great Ocean Road with Passenger Paramvir | Australia’s Most Iconic Road Trip",
+    "videoId": "iSbxbG63ZIo",
+    "author": "Skye Robbie",
+    "authorId": "N/A",
+    "lengthSeconds": 0,
+    "published": 0,
+    "viewCount": 220000,
+    "videoThumbnails": [
+      {
+        "quality": "maxres",
+        "url": "https://i.ytimg.com/vi/iSbxbG63ZIo/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  },
+  {
+    "type": "video",
+    "title": "Will IRAN's Regime Change Happen? | Economic Case Study",
+    "videoId": "xCemMgYKjSc",
+    "author": "Think School",
+    "authorId": "N/A",
+    "lengthSeconds": 0,
+    "published": 0,
+    "viewCount": 229999,
+    "videoThumbnails": [
+      {
+        "quality": "maxres",
+        "url": "https://i.ytimg.com/vi/xCemMgYKjSc/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  },
+  {
+    "type": "video",
+    "title": "We Challenged World's Trickiest Player!",
+    "videoId": "MIOfr1E8It0",
+    "author": "TableTennisDaily",
+    "authorId": "N/A",
+    "lengthSeconds": 0,
+    "published": 0,
+    "viewCount": 490000,
+    "videoThumbnails": [
+      {
+        "quality": "maxres",
+        "url": "https://i.ytimg.com/vi/MIOfr1E8It0/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  },
+  {
+    "type": "video",
+    "title": "Greenlandic Politician Shows Mirror To Trump Over Island Invasion Plan: 'He Doesn't Know About...'",
+    "videoId": "DMPe_e-WRMk",
+    "author": "Hook Global",
+    "authorId": "N/A",
+    "lengthSeconds": 0,
+    "published": 0,
+    "viewCount": 3300000,
+    "videoThumbnails": [
+      {
+        "quality": "maxres",
+        "url": "https://i.ytimg.com/vi/DMPe_e-WRMk/maxresdefault.jpg",
         "width": 1280,
         "height": 720
       }
