@@ -1,9 +1,315 @@
 [
   {
     "type": "video",
-    "title": "5 Cheap Garage Door Upgrades",
-    "videoId": "RFZog9yLf4s",
-    "author": "Fix This Build That",
+    "title": "Give Me 18 Minutes and I’ll Make you Dangerously Smart (with AI)",
+    "videoId": "A8_nNYLTXEQ",
+    "author": "theMITmonk",
+    "authorId": "N/A",
+    "lengthSeconds": 0,
+    "published": 0,
+    "viewCount": 170000,
+    "videoThumbnails": [
+      {
+        "quality": "maxres",
+        "url": "https://i.ytimg.com/vi/A8_nNYLTXEQ/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  },
+  {
+    "type": "video",
+    "title": "Should You Hold Gold In 2026?",
+    "videoId": "kczX1Zln7JE",
+    "author": "Nikhil Kamath Clips",
+    "authorId": "N/A",
+    "lengthSeconds": 0,
+    "published": 0,
+    "viewCount": 140000,
+    "videoThumbnails": [
+      {
+        "quality": "maxres",
+        "url": "https://i.ytimg.com/vi/kczX1Zln7JE/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  },
+  {
+    "type": "video",
+    "title": "Video: Snow and wind continue to pick up",
+    "videoId": "Y_BXagXKXzE",
+    "author": "WCVB Channel 5 Boston",
+    "authorId": "N/A",
+    "lengthSeconds": 0,
+    "published": 0,
+    "viewCount": 2600,
+    "videoThumbnails": [
+      {
+        "quality": "maxres",
+        "url": "https://i.ytimg.com/vi/Y_BXagXKXzE/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  },
+  {
+    "type": "video",
+    "title": "You’re Wasting Your Life (and you don’t even know it) | Dostoevsky’s Notes from Underground",
+    "videoId": "CoyN710gRv4",
+    "author": "Unsolicited advice",
+    "authorId": "N/A",
+    "lengthSeconds": 0,
+    "published": 0,
+    "viewCount": 700000,
+    "videoThumbnails": [
+      {
+        "quality": "maxres",
+        "url": "https://i.ytimg.com/vi/CoyN710gRv4/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  },
+  {
+    "type": "video",
+    "title": "3-Day SNOWSTORM and -37°F At My Off-Grid Cabin In Alaska | Cozy Cabin Life",
+    "videoId": "73QAfi2jWyI",
+    "author": "Alaska Cabin Adventures",
+    "authorId": "N/A",
+    "lengthSeconds": 0,
+    "published": 0,
+    "viewCount": 1900000,
+    "videoThumbnails": [
+      {
+        "quality": "maxres",
+        "url": "https://i.ytimg.com/vi/73QAfi2jWyI/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  },
+  {
+    "type": "video",
+    "title": "10 CRAZIEST \" DMT\"  Experiences Shared on Joe Rogan Podcast",
+    "videoId": "33XCa3RBFg0",
+    "author": "JRE Collection",
+    "authorId": "N/A",
+    "lengthSeconds": 0,
+    "published": 0,
+    "viewCount": 270000,
+    "videoThumbnails": [
+      {
+        "quality": "maxres",
+        "url": "https://i.ytimg.com/vi/33XCa3RBFg0/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  },
+  {
+    "type": "video",
+    "title": "I’ve Never Seen An Air Fryer This Good!",
+    "videoId": "Qxs9CkM20Dg",
+    "author": "Project Farm",
+    "authorId": "N/A",
+    "lengthSeconds": 0,
+    "published": 0,
+    "viewCount": 220000,
+    "videoThumbnails": [
+      {
+        "quality": "maxres",
+        "url": "https://i.ytimg.com/vi/Qxs9CkM20Dg/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  },
+  {
+    "type": "video",
+    "title": "Lamine Yamal, Raphinha and Dani Olmo GOALS 💥 Barcelona vs. Real Oviedo | LALIGA Highlights | ESPN FC",
+    "videoId": "y6999gc5HsI",
+    "author": "ESPN FC",
+    "authorId": "N/A",
+    "lengthSeconds": 0,
+    "published": 0,
+    "viewCount": 229999,
+    "videoThumbnails": [
+      {
+        "quality": "maxres",
+        "url": "https://i.ytimg.com/vi/y6999gc5HsI/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  },
+  {
+    "type": "video",
+    "title": "Saying Goodbye To My Dream Shop",
+    "videoId": "kgNiylCpBV4",
+    "author": "Crafted Workshop",
+    "authorId": "N/A",
+    "lengthSeconds": 0,
+    "published": 0,
+    "viewCount": 44000,
+    "videoThumbnails": [
+      {
+        "quality": "maxres",
+        "url": "https://i.ytimg.com/vi/kgNiylCpBV4/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  },
+  {
+    "type": "video",
+    "title": "Xiaomi 17 Ultra - More Camera than Phone!",
+    "videoId": "DqAKQwagCDg",
+    "author": "Marques Brownlee",
+    "authorId": "N/A",
+    "lengthSeconds": 0,
+    "published": 0,
+    "viewCount": 2600000,
+    "videoThumbnails": [
+      {
+        "quality": "maxres",
+        "url": "https://i.ytimg.com/vi/DqAKQwagCDg/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  },
+  {
+    "type": "video",
+    "title": "ElevenLabs just got nuked by open source",
+    "videoId": "dQ841Pd6YvQ",
+    "author": "Jeff Geerling",
+    "authorId": "N/A",
+    "lengthSeconds": 0,
+    "published": 0,
+    "viewCount": 320000,
+    "videoThumbnails": [
+      {
+        "quality": "maxres",
+        "url": "https://i.ytimg.com/vi/dQ841Pd6YvQ/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  },
+  {
+    "type": "video",
+    "title": "Neil deGrasse Tyson’s Sci-Fi Movie Tier List",
+    "videoId": "TAKXQKMTAU0",
+    "author": "StarTalk Plus",
+    "authorId": "N/A",
+    "lengthSeconds": 0,
+    "published": 0,
+    "viewCount": 4100000,
+    "videoThumbnails": [
+      {
+        "quality": "maxres",
+        "url": "https://i.ytimg.com/vi/TAKXQKMTAU0/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  },
+  {
+    "type": "video",
+    "title": "Winter Storm Fern Power Outage Prep | My Complete Home Strategy",
+    "videoId": "FvUITLIhjgY",
+    "author": "TheUrbanPrepper",
+    "authorId": "N/A",
+    "lengthSeconds": 0,
+    "published": 0,
+    "viewCount": 240000,
+    "videoThumbnails": [
+      {
+        "quality": "maxres",
+        "url": "https://i.ytimg.com/vi/FvUITLIhjgY/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  },
+  {
+    "type": "video",
+    "title": "India–EU Free Trade Agreement Explained | Key Gains, Disputes and What Happens Next",
+    "videoId": "LUhBTGOd-v4",
+    "author": "moneycontrol",
+    "authorId": "N/A",
+    "lengthSeconds": 0,
+    "published": 0,
+    "viewCount": 59000,
+    "videoThumbnails": [
+      {
+        "quality": "maxres",
+        "url": "https://i.ytimg.com/vi/LUhBTGOd-v4/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  },
+  {
+    "type": "video",
+    "title": "Spain’s 6 Midfielders Masterclass vs Italy | EURO 2012 Final",
+    "videoId": "TEt-aS4btSQ",
+    "author": "THE ICONIC",
+    "authorId": "N/A",
+    "lengthSeconds": 0,
+    "published": 0,
+    "viewCount": 770000,
+    "videoThumbnails": [
+      {
+        "quality": "maxres",
+        "url": "https://i.ytimg.com/vi/TEt-aS4btSQ/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  },
+  {
+    "type": "video",
+    "title": "AI’s Next Frontier Isn’t Where You Might Expect | Hardy Pemhiwa | TED",
+    "videoId": "P1rPiSxYagM",
+    "author": "TED",
+    "authorId": "N/A",
+    "lengthSeconds": 0,
+    "published": 0,
+    "viewCount": 72000,
+    "videoThumbnails": [
+      {
+        "quality": "maxres",
+        "url": "https://i.ytimg.com/vi/P1rPiSxYagM/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  },
+  {
+    "type": "video",
+    "title": "The letter that revealed Ramanujan's genius",
+    "videoId": "XFsuRxospbU",
+    "author": "Tibees",
+    "authorId": "N/A",
+    "lengthSeconds": 0,
+    "published": 0,
+    "viewCount": 3300000,
+    "videoThumbnails": [
+      {
+        "quality": "maxres",
+        "url": "https://i.ytimg.com/vi/XFsuRxospbU/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  },
+  {
+    "type": "video",
+    "title": "Adam Savage Learns About the Flipper Zero",
+    "videoId": "c8q2YVRiOAE",
+    "author": "Adam Savage’s Tested",
     "authorId": "N/A",
     "lengthSeconds": 0,
     "published": 0,
@@ -11,7 +317,7 @@
     "videoThumbnails": [
       {
         "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/RFZog9yLf4s/maxresdefault.jpg",
+        "url": "https://i.ytimg.com/vi/c8q2YVRiOAE/maxresdefault.jpg",
         "width": 1280,
         "height": 720
       }
@@ -19,387 +325,9 @@
   },
   {
     "type": "video",
-    "title": "How To Bypass AT&T Fiber BGW320 w/ WAS-110 SFP+",
-    "videoId": "3rIsq8tW8js",
-    "author": "digiblur DIY",
-    "authorId": "N/A",
-    "lengthSeconds": 0,
-    "published": 0,
-    "viewCount": 490000,
-    "videoThumbnails": [
-      {
-        "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/3rIsq8tW8js/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    ]
-  },
-  {
-    "type": "video",
-    "title": "EVEN AT 45 YEARS OLD & FAT, RONALDINHO SHOCKED THE WORLD WITH HIS SKILLS IN THIS MATCH",
-    "videoId": "o0HfNk3m29M",
-    "author": "BR7 Football",
-    "authorId": "N/A",
-    "lengthSeconds": 0,
-    "published": 0,
-    "viewCount": 15000000,
-    "videoThumbnails": [
-      {
-        "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/o0HfNk3m29M/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    ]
-  },
-  {
-    "type": "video",
-    "title": "The Surprising Flaws in 18650 Lithium-Ion Batteries",
-    "videoId": "-Y23nfAOiXQ",
-    "author": "Adam Savage’s Tested",
-    "authorId": "N/A",
-    "lengthSeconds": 0,
-    "published": 0,
-    "viewCount": 740000,
-    "videoThumbnails": [
-      {
-        "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/-Y23nfAOiXQ/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    ]
-  },
-  {
-    "type": "video",
-    "title": "How these options traders use AI to place 150 trades a day",
-    "videoId": "AiYShlwEiIg",
-    "author": "Theta Profits",
-    "authorId": "N/A",
-    "lengthSeconds": 0,
-    "published": 0,
-    "viewCount": 917,
-    "videoThumbnails": [
-      {
-        "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/AiYShlwEiIg/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    ]
-  },
-  {
-    "type": "video",
-    "title": "Ranking 22 BDK Fragrances | Which Ones Actually Perform?",
-    "videoId": "OjlXU-TGiTo",
-    "author": "The Perfume Guy",
-    "authorId": "N/A",
-    "lengthSeconds": 0,
-    "published": 0,
-    "viewCount": 21000,
-    "videoThumbnails": [
-      {
-        "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/OjlXU-TGiTo/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    ]
-  },
-  {
-    "type": "video",
-    "title": "This xTool will disrupt everything.... VERY SERIOUSLY!",
-    "videoId": "5to8m8j_AyY",
-    "author": "Joshua De Lisle",
-    "authorId": "N/A",
-    "lengthSeconds": 0,
-    "published": 0,
-    "viewCount": 1800000,
-    "videoThumbnails": [
-      {
-        "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/5to8m8j_AyY/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    ]
-  },
-  {
-    "type": "video",
-    "title": "Uriiu 1,000+ Miles Range 360° HD Digital Indoor Antenna Review",
-    "videoId": "nJefFKXW4uY",
-    "author": "Antenna Man",
-    "authorId": "N/A",
-    "lengthSeconds": 0,
-    "published": 0,
-    "viewCount": 960000,
-    "videoThumbnails": [
-      {
-        "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/nJefFKXW4uY/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    ]
-  },
-  {
-    "type": "video",
-    "title": "LIVE | NY Gov. Hochul Snow Storm Update",
-    "videoId": "hfsgKucwjwU",
-    "author": "Eyewitness News ABC7NY",
-    "authorId": "N/A",
-    "lengthSeconds": 0,
-    "published": 0,
-    "viewCount": 1400,
-    "videoThumbnails": [
-      {
-        "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/hfsgKucwjwU/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    ]
-  },
-  {
-    "type": "video",
-    "title": "What Size Power Station Do You REALLY Need for Home Backup?",
-    "videoId": "yXpk8ofSgzw",
-    "author": "The Solar Lab",
-    "authorId": "N/A",
-    "lengthSeconds": 0,
-    "published": 0,
-    "viewCount": 84000,
-    "videoThumbnails": [
-      {
-        "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/yXpk8ofSgzw/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    ]
-  },
-  {
-    "type": "video",
-    "title": "My Silver Exit Strategy in 2026 — When I Plan to Sell",
-    "videoId": "pKeSSI8YdeQ",
-    "author": "ClearValue Tax",
-    "authorId": "N/A",
-    "lengthSeconds": 0,
-    "published": 0,
-    "viewCount": 600000,
-    "videoThumbnails": [
-      {
-        "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/pKeSSI8YdeQ/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    ]
-  },
-  {
-    "type": "video",
-    "title": "Top 5 Winter Boots CUT IN HALF - Sorel vs Columbia vs North Face vs Keen vs Kamik",
-    "videoId": "JNcLk6snuw0",
-    "author": "Rose Anvil",
-    "authorId": "N/A",
-    "lengthSeconds": 0,
-    "published": 0,
-    "viewCount": 1700000,
-    "videoThumbnails": [
-      {
-        "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/JNcLk6snuw0/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    ]
-  },
-  {
-    "type": "video",
-    "title": "Madison Beer - 2025 Victoria's Secret Fashion Show Performance",
-    "videoId": "cwO8POU6DZE",
-    "author": "Madison Beer",
-    "authorId": "N/A",
-    "lengthSeconds": 0,
-    "published": 0,
-    "viewCount": 1800000,
-    "videoThumbnails": [
-      {
-        "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/cwO8POU6DZE/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    ]
-  },
-  {
-    "type": "video",
-    "title": "New video angles appear to show Alex Pretti disarmed before being killed by federal forces",
-    "videoId": "eZHtDxRzMlE",
-    "author": "WCCO - CBS Minnesota",
-    "authorId": "N/A",
-    "lengthSeconds": 0,
-    "published": 0,
-    "viewCount": 4200,
-    "videoThumbnails": [
-      {
-        "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/eZHtDxRzMlE/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    ]
-  },
-  {
-    "type": "video",
-    "title": "This Perplexity + NotebookLM Workflow Is Insane!",
-    "videoId": "MxFcCHz1e7A",
-    "author": "Paul J Lipsky",
-    "authorId": "N/A",
-    "lengthSeconds": 0,
-    "published": 0,
-    "viewCount": 77000,
-    "videoThumbnails": [
-      {
-        "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/MxFcCHz1e7A/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    ]
-  },
-  {
-    "type": "video",
-    "title": "If Jazz Was Born in India... | Bombay Noir (1 Hour Mix)",
-    "videoId": "wYm56tc0-Rs",
-    "author": "Jazz World",
-    "authorId": "N/A",
-    "lengthSeconds": 0,
-    "published": 0,
-    "viewCount": 150000,
-    "videoThumbnails": [
-      {
-        "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/wYm56tc0-Rs/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    ]
-  },
-  {
-    "type": "video",
-    "title": "The 3 Best Snow Removal Tools You’ve NEVER Heard Of",
-    "videoId": "Lr-pA1Knnxk",
-    "author": "Suburban Acreage",
-    "authorId": "N/A",
-    "lengthSeconds": 0,
-    "published": 0,
-    "viewCount": 270000,
-    "videoThumbnails": [
-      {
-        "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/Lr-pA1Knnxk/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    ]
-  },
-  {
-    "type": "video",
-    "title": "What we know about the fatal Minneapolis shooting",
-    "videoId": "CM3z9yKlTKI",
-    "author": "NBCLA",
-    "authorId": "N/A",
-    "lengthSeconds": 0,
-    "published": 0,
-    "viewCount": 4000,
-    "videoThumbnails": [
-      {
-        "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/CM3z9yKlTKI/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    ]
-  },
-  {
-    "type": "video",
-    "title": "Protests continue after federal agents fatally shot man in Minneapolis",
-    "videoId": "dtZep1buNt4",
-    "author": "WPLG Local 10",
-    "authorId": "N/A",
-    "lengthSeconds": 0,
-    "published": 0,
-    "viewCount": 8100,
-    "videoThumbnails": [
-      {
-        "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/dtZep1buNt4/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    ]
-  },
-  {
-    "type": "video",
-    "title": "Going Solar Is Now So Easy A Caveman Could Do It",
-    "videoId": "tXHKtBk9IE0",
-    "author": "Wilson Forest Lands",
-    "authorId": "N/A",
-    "lengthSeconds": 0,
-    "published": 0,
-    "viewCount": 2800000,
-    "videoThumbnails": [
-      {
-        "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/tXHKtBk9IE0/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    ]
-  },
-  {
-    "type": "video",
-    "title": "Stop Rambling: The 3-2-1 Speaking Trick That Makes You Sound Like A CEO",
-    "videoId": "t260757b_vU",
-    "author": "BigDeal by Codie Sanchez",
-    "authorId": "N/A",
-    "lengthSeconds": 0,
-    "published": 0,
-    "viewCount": 1700000,
-    "videoThumbnails": [
-      {
-        "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/t260757b_vU/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    ]
-  },
-  {
-    "type": "video",
-    "title": "Harbor Freight’s Predator 11500w generator Is Here… And It’s a GAME CHANGER",
-    "videoId": "aUsc8Epnrms",
-    "author": "Outdoor Prepper",
-    "authorId": "N/A",
-    "lengthSeconds": 0,
-    "published": 0,
-    "viewCount": 600000,
-    "videoThumbnails": [
-      {
-        "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/aUsc8Epnrms/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    ]
-  },
-  {
-    "type": "video",
-    "title": "Why Buy A Generator? You Have One Parked In Your Driveway.",
-    "videoId": "Qx3cC1y23JY",
-    "author": "The DIY HVAC Guy",
+    "title": "The $7.9 Trillion Company You've Never Heard Of",
+    "videoId": "5SWhNFzaE10",
+    "author": "History Meets Finance",
     "authorId": "N/A",
     "lengthSeconds": 0,
     "published": 0,
@@ -407,7 +335,7 @@
     "videoThumbnails": [
       {
         "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/Qx3cC1y23JY/maxresdefault.jpg",
+        "url": "https://i.ytimg.com/vi/5SWhNFzaE10/maxresdefault.jpg",
         "width": 1280,
         "height": 720
       }
@@ -415,17 +343,17 @@
   },
   {
     "type": "video",
-    "title": "How ChatGPT transformed my English in 30 days - my progress story 📈",
-    "videoId": "laOq2PHOxvU",
-    "author": "Rupal’s little Corner",
+    "title": "Tom Lee on Gold, Mag 7 & the Next Rotation Trade",
+    "videoId": "uW3_xb9sZos",
+    "author": "Fundstrat",
     "authorId": "N/A",
     "lengthSeconds": 0,
     "published": 0,
-    "viewCount": 760000,
+    "viewCount": 170000,
     "videoThumbnails": [
       {
         "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/laOq2PHOxvU/maxresdefault.jpg",
+        "url": "https://i.ytimg.com/vi/uW3_xb9sZos/maxresdefault.jpg",
         "width": 1280,
         "height": 720
       }
@@ -433,17 +361,17 @@
   },
   {
     "type": "video",
-    "title": "The Successor to CRISPR May Be Even More World Changing",
-    "videoId": "_UimlaolxiA",
-    "author": "SciShow",
+    "title": "Why Do Magnets Work? Feynman’s Answer Will SHATTER Your Reality",
+    "videoId": "0VUlUnx-VPE",
+    "author": "Feynman’s Universe",
     "authorId": "N/A",
     "lengthSeconds": 0,
     "published": 0,
-    "viewCount": 630000,
+    "viewCount": 44000,
     "videoThumbnails": [
       {
         "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/_UimlaolxiA/maxresdefault.jpg",
+        "url": "https://i.ytimg.com/vi/0VUlUnx-VPE/maxresdefault.jpg",
         "width": 1280,
         "height": 720
       }
@@ -451,17 +379,17 @@
   },
   {
     "type": "video",
-    "title": "Everyone will be buying pellet stoves after learning this news",
-    "videoId": "9d9TL02idO4",
-    "author": "Silver Cymbal",
+    "title": "The Internet's Favorite Down Jackets, Ranked.",
+    "videoId": "rHdMviAhDtE",
+    "author": "The Iron Snail",
     "authorId": "N/A",
     "lengthSeconds": 0,
     "published": 0,
-    "viewCount": 1200000,
+    "viewCount": 530000,
     "videoThumbnails": [
       {
         "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/9d9TL02idO4/maxresdefault.jpg",
+        "url": "https://i.ytimg.com/vi/rHdMviAhDtE/maxresdefault.jpg",
         "width": 1280,
         "height": 720
       }
@@ -469,17 +397,17 @@
   },
   {
     "type": "video",
-    "title": "Crystal Palace v. Chelsea | PREMIER LEAGUE HIGHLIGHTS | 1/25/2026 | NBC Sports",
-    "videoId": "R2_43UX3o3I",
-    "author": "NBC Sports",
+    "title": "Google Pixel 10 Pro First 50 Things To Do! (Tips & Tricks)",
+    "videoId": "wCA-m1_aeHI",
+    "author": "Dion Schuddeboom",
     "authorId": "N/A",
     "lengthSeconds": 0,
     "published": 0,
-    "viewCount": 47000,
+    "viewCount": 120000,
     "videoThumbnails": [
       {
         "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/R2_43UX3o3I/maxresdefault.jpg",
+        "url": "https://i.ytimg.com/vi/wCA-m1_aeHI/maxresdefault.jpg",
         "width": 1280,
         "height": 720
       }
@@ -487,17 +415,17 @@
   },
   {
     "type": "video",
-    "title": "Proven Habits to Make Your Car Last Over 500K Miles Without Repairs",
-    "videoId": "kxKi3IhHjk4",
-    "author": "Piston Post",
+    "title": "The Neretva in Bosnia - A wild river on the brink of collapse | DW Documentary",
+    "videoId": "EDikFsdf8mA",
+    "author": "DW Documentary",
     "authorId": "N/A",
     "lengthSeconds": 0,
     "published": 0,
-    "viewCount": 2200000,
+    "viewCount": 13000,
     "videoThumbnails": [
       {
         "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/kxKi3IhHjk4/maxresdefault.jpg",
+        "url": "https://i.ytimg.com/vi/EDikFsdf8mA/maxresdefault.jpg",
         "width": 1280,
         "height": 720
       }
@@ -505,17 +433,17 @@
   },
   {
     "type": "video",
-    "title": "What's the Best Pan Money Can Buy?",
-    "videoId": "LdORIBH3R88",
-    "author": "Chris Young",
+    "title": "The Book the CIA Copied Word for Word, Then Tried To Erase",
+    "videoId": "2iDI-un8WGo",
+    "author": "Video Advice",
     "authorId": "N/A",
     "lengthSeconds": 0,
     "published": 0,
-    "viewCount": 1700000,
+    "viewCount": 1000000,
     "videoThumbnails": [
       {
         "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/LdORIBH3R88/maxresdefault.jpg",
+        "url": "https://i.ytimg.com/vi/2iDI-un8WGo/maxresdefault.jpg",
         "width": 1280,
         "height": 720
       }
@@ -523,17 +451,89 @@
   },
   {
     "type": "video",
-    "title": "Better than a wrench, EDC Knipex pliers wrench XS Review and test",
-    "videoId": "O9NBYBCvVb8",
-    "author": "James Gatlin",
+    "title": "3 Simple After‑Meal Habits to Control Blood Sugar Spikes (Doctor’s Guide)",
+    "videoId": "ZTv-hZlhnqo",
+    "author": "Dr Sumit Kapadia Vascular Surgeon",
     "authorId": "N/A",
     "lengthSeconds": 0,
     "published": 0,
-    "viewCount": 270000,
+    "viewCount": 250000,
     "videoThumbnails": [
       {
         "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/O9NBYBCvVb8/maxresdefault.jpg",
+        "url": "https://i.ytimg.com/vi/ZTv-hZlhnqo/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  },
+  {
+    "type": "video",
+    "title": "Forecast was wrong to start, but what does that mean for the storm?",
+    "videoId": "_USn_E8eKIg",
+    "author": "Jason Nappi",
+    "authorId": "N/A",
+    "lengthSeconds": 0,
+    "published": 0,
+    "viewCount": 29000,
+    "videoThumbnails": [
+      {
+        "quality": "maxres",
+        "url": "https://i.ytimg.com/vi/_USn_E8eKIg/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  },
+  {
+    "type": "video",
+    "title": "Why Interstellar Is Life Changing",
+    "videoId": "iWrFVvEgFYI",
+    "author": "boonanaman",
+    "authorId": "N/A",
+    "lengthSeconds": 0,
+    "published": 0,
+    "viewCount": 330000,
+    "videoThumbnails": [
+      {
+        "quality": "maxres",
+        "url": "https://i.ytimg.com/vi/iWrFVvEgFYI/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  },
+  {
+    "type": "video",
+    "title": "Hare Krishna, Hare Ram (Soulful Chant)",
+    "videoId": "GX_XCHwOahU",
+    "author": "Sanatan Music | Spiritual Meditation & Mantras",
+    "authorId": "N/A",
+    "lengthSeconds": 0,
+    "published": 0,
+    "viewCount": 2600000,
+    "videoThumbnails": [
+      {
+        "quality": "maxres",
+        "url": "https://i.ytimg.com/vi/GX_XCHwOahU/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  },
+  {
+    "type": "video",
+    "title": "The 33kW Solar Mistake That Could Burn Your System (DIY Fix & Design)",
+    "videoId": "o-HpIXbQ_2w",
+    "author": "Ak Electric DIY",
+    "authorId": "N/A",
+    "lengthSeconds": 0,
+    "published": 0,
+    "viewCount": 407,
+    "videoThumbnails": [
+      {
+        "quality": "maxres",
+        "url": "https://i.ytimg.com/vi/o-HpIXbQ_2w/maxresdefault.jpg",
         "width": 1280,
         "height": 720
       }
