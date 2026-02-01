@@ -1,49 +1,13 @@
 [
   {
     "type": "video",
-    "title": "Things Just Changed",
-    "videoId": "Zk8Q6rGfGf0",
-    "author": "Joseph Carlson After Hours",
-    "authorId": "N/A",
-    "lengthSeconds": 0,
-    "published": 0,
-    "viewCount": 150000,
-    "videoThumbnails": [
-      {
-        "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/Zk8Q6rGfGf0/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    ]
-  },
-  {
-    "type": "video",
-    "title": "Clawdbot/OpenClaw Clearly Explained (and how to use it)",
-    "videoId": "U8kXfk8enrY",
-    "author": "Greg Isenberg",
-    "authorId": "N/A",
-    "lengthSeconds": 0,
-    "published": 0,
-    "viewCount": 160000,
-    "videoThumbnails": [
-      {
-        "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/U8kXfk8enrY/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    ]
-  },
-  {
-    "type": "video",
     "title": "I Made a Cowboy Bedroll From a $7 Harbor Freight Drop Cloth",
     "videoId": "EoEjbSMLmYA",
     "author": "Woodbrew",
     "authorId": "N/A",
     "lengthSeconds": 0,
     "published": 0,
-    "viewCount": 436,
+    "viewCount": 4700,
     "videoThumbnails": [
       {
         "quality": "maxres",
@@ -55,17 +19,17 @@
   },
   {
     "type": "video",
-    "title": "New #1 open-source AI model is WILD",
-    "videoId": "F-ANHe_hr9w",
-    "author": "AI Search",
+    "title": "You Stopped Exercising. The Gains That Stuck Around Might Surprise You.",
+    "videoId": "HIXqy8hihbo",
+    "author": "SciShow",
     "authorId": "N/A",
     "lengthSeconds": 0,
     "published": 0,
-    "viewCount": 69000,
+    "viewCount": 300000,
     "videoThumbnails": [
       {
         "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/F-ANHe_hr9w/maxresdefault.jpg",
+        "url": "https://i.ytimg.com/vi/HIXqy8hihbo/maxresdefault.jpg",
         "width": 1280,
         "height": 720
       }
@@ -73,17 +37,17 @@
   },
   {
     "type": "video",
-    "title": "Why Buy A Generator? You Have One Parked In Your Driveway.",
-    "videoId": "Qx3cC1y23JY",
-    "author": "The DIY HVAC Guy",
+    "title": "Carlos Alcaraz v Novak Djokovic Extended Highlights | Australian Open 2026 Final",
+    "videoId": "Z99RntcbEtY",
+    "author": "Australian Open",
     "authorId": "N/A",
     "lengthSeconds": 0,
     "published": 0,
-    "viewCount": 1900000,
+    "viewCount": 270000,
     "videoThumbnails": [
       {
         "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/Qx3cC1y23JY/maxresdefault.jpg",
+        "url": "https://i.ytimg.com/vi/Z99RntcbEtY/maxresdefault.jpg",
         "width": 1280,
         "height": 720
       }
@@ -91,17 +55,125 @@
   },
   {
     "type": "video",
-    "title": "What we learned from the 3-body problem",
-    "videoId": "XKSjCOKDtpk",
-    "author": "Veritasium",
+    "title": "The Only 5 Exercises You Need to Get Jacked",
+    "videoId": "niMXOMwMWcA",
+    "author": "Bodyweight Muscle",
     "authorId": "N/A",
     "lengthSeconds": 0,
     "published": 0,
-    "viewCount": 2300000,
+    "viewCount": 1100000,
     "videoThumbnails": [
       {
         "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/XKSjCOKDtpk/maxresdefault.jpg",
+        "url": "https://i.ytimg.com/vi/niMXOMwMWcA/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  },
+  {
+    "type": "video",
+    "title": "How Corning Invented A New Fiber-Optic Cable For AI And Landed A $6 Billion Meta Deal",
+    "videoId": "Y3KLbc5DlRs",
+    "author": "CNBC",
+    "authorId": "N/A",
+    "lengthSeconds": 0,
+    "published": 0,
+    "viewCount": 470000,
+    "videoThumbnails": [
+      {
+        "quality": "maxres",
+        "url": "https://i.ytimg.com/vi/Y3KLbc5DlRs/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  },
+  {
+    "type": "video",
+    "title": "Silver Crash LIVE: Why Gold, Silver, Wall Street Are Suddenly Falling |Vantage with Palki Sharma",
+    "videoId": "H2-TgJt1Fl4",
+    "author": "Firstpost",
+    "authorId": "N/A",
+    "lengthSeconds": 0,
+    "published": 0,
+    "viewCount": 120000,
+    "videoThumbnails": [
+      {
+        "quality": "maxres",
+        "url": "https://i.ytimg.com/vi/H2-TgJt1Fl4/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  },
+  {
+    "type": "video",
+    "title": "The 3 Best Snow Removal Tools You’ve NEVER Heard Of",
+    "videoId": "Lr-pA1Knnxk",
+    "author": "Suburban Acreage",
+    "authorId": "N/A",
+    "lengthSeconds": 0,
+    "published": 0,
+    "viewCount": 600000,
+    "videoThumbnails": [
+      {
+        "quality": "maxres",
+        "url": "https://i.ytimg.com/vi/Lr-pA1Knnxk/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  },
+  {
+    "type": "video",
+    "title": "Critical Linux Warning: 800,000 Devices Are EXPOSED",
+    "videoId": "81fq__6a1FQ",
+    "author": "David Bombal",
+    "authorId": "N/A",
+    "lengthSeconds": 0,
+    "published": 0,
+    "viewCount": 190000,
+    "videoThumbnails": [
+      {
+        "quality": "maxres",
+        "url": "https://i.ytimg.com/vi/81fq__6a1FQ/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  },
+  {
+    "type": "video",
+    "title": "Coq au Vin Done Right (Michelin Technique)",
+    "videoId": "y1uUkIEORbI",
+    "author": "Fallow",
+    "authorId": "N/A",
+    "lengthSeconds": 0,
+    "published": 0,
+    "viewCount": 409999,
+    "videoThumbnails": [
+      {
+        "quality": "maxres",
+        "url": "https://i.ytimg.com/vi/y1uUkIEORbI/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  },
+  {
+    "type": "video",
+    "title": "The End Of Lexus As We Know It?",
+    "videoId": "DOGQn5FLunY",
+    "author": "The Car Care Nut",
+    "authorId": "N/A",
+    "lengthSeconds": 0,
+    "published": 0,
+    "viewCount": 250000,
+    "videoThumbnails": [
+      {
+        "quality": "maxres",
+        "url": "https://i.ytimg.com/vi/DOGQn5FLunY/maxresdefault.jpg",
         "width": 1280,
         "height": 720
       }
@@ -115,7 +187,7 @@
     "authorId": "N/A",
     "lengthSeconds": 0,
     "published": 0,
-    "viewCount": 390000,
+    "viewCount": 450000,
     "videoThumbnails": [
       {
         "quality": "maxres",
@@ -127,143 +199,17 @@
   },
   {
     "type": "video",
-    "title": "ElevenLabs just got nuked by open source",
-    "videoId": "dQ841Pd6YvQ",
-    "author": "Jeff Geerling",
+    "title": "The Overtime Tax Refund Nobody's Talking About  (The Real Math)",
+    "videoId": "v0eCbWnJjFc",
+    "author": "FIRE Psy Chat",
     "authorId": "N/A",
     "lengthSeconds": 0,
     "published": 0,
-    "viewCount": 450000,
+    "viewCount": 650000,
     "videoThumbnails": [
       {
         "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/dQ841Pd6YvQ/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    ]
-  },
-  {
-    "type": "video",
-    "title": "The Successor to CRISPR May Be Even More World Changing",
-    "videoId": "_UimlaolxiA",
-    "author": "SciShow",
-    "authorId": "N/A",
-    "lengthSeconds": 0,
-    "published": 0,
-    "viewCount": 770000,
-    "videoThumbnails": [
-      {
-        "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/_UimlaolxiA/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    ]
-  },
-  {
-    "type": "video",
-    "title": "Solved a 2000 Year old Problem with Raw Intelligence",
-    "videoId": "GDHAjzhjf8s",
-    "author": "Turing",
-    "authorId": "N/A",
-    "lengthSeconds": 0,
-    "published": 0,
-    "viewCount": 110000,
-    "videoThumbnails": [
-      {
-        "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/GDHAjzhjf8s/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    ]
-  },
-  {
-    "type": "video",
-    "title": "This Candle Burns Forever (Safe, Simple, No Electricity)",
-    "videoId": "DfiPQmC8qeo",
-    "author": "Why Am I Green",
-    "authorId": "N/A",
-    "lengthSeconds": 0,
-    "published": 0,
-    "viewCount": 160000,
-    "videoThumbnails": [
-      {
-        "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/DfiPQmC8qeo/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    ]
-  },
-  {
-    "type": "video",
-    "title": "'Perfect Example Of Rejecting Hegemons': Canada Hails India-EU Deal, Slams Trump Tariff Coercion",
-    "videoId": "evhJ_T1_tbc",
-    "author": "Hook Global",
-    "authorId": "N/A",
-    "lengthSeconds": 0,
-    "published": 0,
-    "viewCount": 260000,
-    "videoThumbnails": [
-      {
-        "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/evhJ_T1_tbc/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    ]
-  },
-  {
-    "type": "video",
-    "title": "I Bought 12 Broken Ryzen CPUs for $10 Each - Can I Profit?",
-    "videoId": "vx8ZIcea2wI",
-    "author": "Alec's Log",
-    "authorId": "N/A",
-    "lengthSeconds": 0,
-    "published": 0,
-    "viewCount": 200000,
-    "videoThumbnails": [
-      {
-        "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/vx8ZIcea2wI/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    ]
-  },
-  {
-    "type": "video",
-    "title": "Stop Heating the Air — Do This Instead (Physics)",
-    "videoId": "aPyqmS_eqRk",
-    "author": "Tactical Psychology",
-    "authorId": "N/A",
-    "lengthSeconds": 0,
-    "published": 0,
-    "viewCount": 62000,
-    "videoThumbnails": [
-      {
-        "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/aPyqmS_eqRk/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    ]
-  },
-  {
-    "type": "video",
-    "title": "The Bluff | Official Trailer (Priyanka Chopra Jonas & Karl Urban, 2026)",
-    "videoId": "Z3MLjkw5ywU",
-    "author": "Entertainment Tonight",
-    "authorId": "N/A",
-    "lengthSeconds": 0,
-    "published": 0,
-    "viewCount": 350000,
-    "videoThumbnails": [
-      {
-        "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/Z3MLjkw5ywU/maxresdefault.jpg",
+        "url": "https://i.ytimg.com/vi/v0eCbWnJjFc/maxresdefault.jpg",
         "width": 1280,
         "height": 720
       }
@@ -277,227 +223,11 @@
     "authorId": "N/A",
     "lengthSeconds": 0,
     "published": 0,
-    "viewCount": 5200,
+    "viewCount": 69000,
     "videoThumbnails": [
       {
         "quality": "maxres",
         "url": "https://i.ytimg.com/vi/2hcsmtkSzIw/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    ]
-  },
-  {
-    "type": "video",
-    "title": "Gemini Free vs. Pro vs. Ultra: Don't Waste Your Money!",
-    "videoId": "eglZFyzqu_M",
-    "author": "Paul J Lipsky",
-    "authorId": "N/A",
-    "lengthSeconds": 0,
-    "published": 0,
-    "viewCount": 45000,
-    "videoThumbnails": [
-      {
-        "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/eglZFyzqu_M/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    ]
-  },
-  {
-    "type": "video",
-    "title": "World is ON THE BRINK? China Crisis, USA Leaks Tariff, B'desh, Iran, India' Game I Abhijit Chavda",
-    "videoId": "hWAD6picfcI",
-    "author": "Abhijit Chavda",
-    "authorId": "N/A",
-    "lengthSeconds": 0,
-    "published": 0,
-    "viewCount": 43000,
-    "videoThumbnails": [
-      {
-        "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/hWAD6picfcI/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    ]
-  },
-  {
-    "type": "video",
-    "title": "O'Romeo: Aashiqon Ki Colony | Shahid K, Disha P | Sajid N | Vishal B | Gulzar | Madhubanti | Javed A",
-    "videoId": "FWHcd8TH7dE",
-    "author": "T-Series",
-    "authorId": "N/A",
-    "lengthSeconds": 0,
-    "published": 0,
-    "viewCount": 11000000,
-    "videoThumbnails": [
-      {
-        "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/FWHcd8TH7dE/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    ]
-  },
-  {
-    "type": "video",
-    "title": "The Surprising Flaws in 18650 Lithium-Ion Batteries",
-    "videoId": "-Y23nfAOiXQ",
-    "author": "Adam Savage’s Tested",
-    "authorId": "N/A",
-    "lengthSeconds": 0,
-    "published": 0,
-    "viewCount": 919999,
-    "videoThumbnails": [
-      {
-        "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/-Y23nfAOiXQ/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    ]
-  },
-  {
-    "type": "video",
-    "title": "US students, businesses, and Hollywood lead 'national shutdown' strike against ICE and CBP | DW News",
-    "videoId": "VM1ljyykjMY",
-    "author": "DW News",
-    "authorId": "N/A",
-    "lengthSeconds": 0,
-    "published": 0,
-    "viewCount": 509999,
-    "videoThumbnails": [
-      {
-        "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/VM1ljyykjMY/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    ]
-  },
-  {
-    "type": "video",
-    "title": "Xiaomi 17 Ultra - More Camera than Phone!",
-    "videoId": "DqAKQwagCDg",
-    "author": "Marques Brownlee",
-    "authorId": "N/A",
-    "lengthSeconds": 0,
-    "published": 0,
-    "viewCount": 3100000,
-    "videoThumbnails": [
-      {
-        "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/DqAKQwagCDg/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    ]
-  },
-  {
-    "type": "video",
-    "title": "GET IN EARLY! These 3 Stocks Will Make Millionaires By 2030",
-    "videoId": "3f8PgWFdmB8",
-    "author": "Ticker Symbol: YOU",
-    "authorId": "N/A",
-    "lengthSeconds": 0,
-    "published": 0,
-    "viewCount": 200000,
-    "videoThumbnails": [
-      {
-        "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/3f8PgWFdmB8/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    ]
-  },
-  {
-    "type": "video",
-    "title": "12th FAIL (Part 1) Movie Reaction! | Vikrant Massey | Medha Shankar",
-    "videoId": "Ykn3e6hEJTk",
-    "author": "CineDesi",
-    "authorId": "N/A",
-    "lengthSeconds": 0,
-    "published": 0,
-    "viewCount": 68000,
-    "videoThumbnails": [
-      {
-        "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/Ykn3e6hEJTk/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    ]
-  },
-  {
-    "type": "video",
-    "title": "WTF Happened in 2012? (A Data Project)",
-    "videoId": "Zwc8WpBs5Uc",
-    "author": "Steve Irby | Build in Public",
-    "authorId": "N/A",
-    "lengthSeconds": 0,
-    "published": 0,
-    "viewCount": 3,
-    "videoThumbnails": [
-      {
-        "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/Zwc8WpBs5Uc/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    ]
-  },
-  {
-    "type": "video",
-    "title": "Why People Are Freaking Out About Clawdbot",
-    "videoId": "GLwTSlRn6-k",
-    "author": "Matt Wolfe",
-    "authorId": "N/A",
-    "lengthSeconds": 0,
-    "published": 0,
-    "viewCount": 220000,
-    "videoThumbnails": [
-      {
-        "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/GLwTSlRn6-k/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    ]
-  },
-  {
-    "type": "video",
-    "title": "Yarbo Autonomous Snow Blower Takes On Major Storm: How Did It Do?",
-    "videoId": "MTdRl2anlTE",
-    "author": "State Of Charge",
-    "authorId": "N/A",
-    "lengthSeconds": 0,
-    "published": 0,
-    "viewCount": 28000,
-    "videoThumbnails": [
-      {
-        "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/MTdRl2anlTE/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    ]
-  },
-  {
-    "type": "video",
-    "title": "Trump Celebrates Melania’s Movie Premiere, Has New BFF Nicki Minaj & Government Shutdown Looms",
-    "videoId": "jWrEsPjZ8LY",
-    "author": "Jimmy Kimmel Live",
-    "authorId": "N/A",
-    "lengthSeconds": 0,
-    "published": 0,
-    "viewCount": 3300000,
-    "videoThumbnails": [
-      {
-        "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/jWrEsPjZ8LY/maxresdefault.jpg",
         "width": 1280,
         "height": 720
       }
@@ -523,17 +253,287 @@
   },
   {
     "type": "video",
-    "title": "Digitization is driving finance",
-    "videoId": "Om1IP9H9ZxU",
-    "author": "Robeco Asset Management",
+    "title": "Is a Battery Snow Blower Worth It??  Ego 2-Stage Review",
+    "videoId": "Q2GhoDQa6tA",
+    "author": "Undecided with Matt Ferrell",
     "authorId": "N/A",
     "lengthSeconds": 0,
     "published": 0,
-    "viewCount": 11,
+    "viewCount": 1400000,
     "videoThumbnails": [
       {
         "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/Om1IP9H9ZxU/maxresdefault.jpg",
+        "url": "https://i.ytimg.com/vi/Q2GhoDQa6tA/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  },
+  {
+    "type": "video",
+    "title": "Drip or stream? Run the dishwasher? Local plumber answers top questions about freezing pipes",
+    "videoId": "eImQId4A9vk",
+    "author": "WWLTV",
+    "authorId": "N/A",
+    "lengthSeconds": 0,
+    "published": 0,
+    "viewCount": 100000,
+    "videoThumbnails": [
+      {
+        "quality": "maxres",
+        "url": "https://i.ytimg.com/vi/eImQId4A9vk/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  },
+  {
+    "type": "video",
+    "title": "Microsoft's shares plummeted by $400 billion in a single-day",
+    "videoId": "5Bb2wBxnzHc",
+    "author": "Sky News Australia",
+    "authorId": "N/A",
+    "lengthSeconds": 0,
+    "published": 0,
+    "viewCount": 350000,
+    "videoThumbnails": [
+      {
+        "quality": "maxres",
+        "url": "https://i.ytimg.com/vi/5Bb2wBxnzHc/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  },
+  {
+    "type": "video",
+    "title": "Strait of Hormuz Showdown: Iran, China & Russia Go All Out To Challenge US With Massive Naval Drills",
+    "videoId": "3zWnOXelXcw",
+    "author": "Hindustan Times",
+    "authorId": "N/A",
+    "lengthSeconds": 0,
+    "published": 0,
+    "viewCount": 100000,
+    "videoThumbnails": [
+      {
+        "quality": "maxres",
+        "url": "https://i.ytimg.com/vi/3zWnOXelXcw/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  },
+  {
+    "type": "video",
+    "title": "You Better Know This EMERGENCY HEATING TRICK | DIY 1LB Propane Tank Refill",
+    "videoId": "kiqnKOnRCxU",
+    "author": "Practical Preparedness",
+    "authorId": "N/A",
+    "lengthSeconds": 0,
+    "published": 0,
+    "viewCount": 3600000,
+    "videoThumbnails": [
+      {
+        "quality": "maxres",
+        "url": "https://i.ytimg.com/vi/kiqnKOnRCxU/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  },
+  {
+    "type": "video",
+    "title": "Jose Mourinho REACTS To Goalkeeper Scoring Against Real Madrid 😲 | UCL Today",
+    "videoId": "t2_hLd8jFRg",
+    "author": "CBS Sports Golazo",
+    "authorId": "N/A",
+    "lengthSeconds": 0,
+    "published": 0,
+    "viewCount": 1600000,
+    "videoThumbnails": [
+      {
+        "quality": "maxres",
+        "url": "https://i.ytimg.com/vi/t2_hLd8jFRg/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  },
+  {
+    "type": "video",
+    "title": "10 MISTAKES Measuring Your BLOOD PRESSURE (Doctor Explains)",
+    "videoId": "dg_ca0HKKog",
+    "author": "Leonid Kim MD",
+    "authorId": "N/A",
+    "lengthSeconds": 0,
+    "published": 0,
+    "viewCount": 490000,
+    "videoThumbnails": [
+      {
+        "quality": "maxres",
+        "url": "https://i.ytimg.com/vi/dg_ca0HKKog/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  },
+  {
+    "type": "video",
+    "title": "Tom Lee Explains Why Gold & Silver Just Sold Off",
+    "videoId": "byuFwPDtyCA",
+    "author": "Fundstrat",
+    "authorId": "N/A",
+    "lengthSeconds": 0,
+    "published": 0,
+    "viewCount": 290000,
+    "videoThumbnails": [
+      {
+        "quality": "maxres",
+        "url": "https://i.ytimg.com/vi/byuFwPDtyCA/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  },
+  {
+    "type": "video",
+    "title": "Why Are There Stones Along Railway Tracks?",
+    "videoId": "uZb25nl7g9I",
+    "author": "Simple Things - Surprising Histories",
+    "authorId": "N/A",
+    "lengthSeconds": 0,
+    "published": 0,
+    "viewCount": 710000,
+    "videoThumbnails": [
+      {
+        "quality": "maxres",
+        "url": "https://i.ytimg.com/vi/uZb25nl7g9I/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  },
+  {
+    "type": "video",
+    "title": "This ONE Hanuman Mantra REMOVES Every Pain, Obstacle and Suffering Instantly",
+    "videoId": "Cua47XwrRIs",
+    "author": "Mahakatha - Meditation Mantras",
+    "authorId": "N/A",
+    "lengthSeconds": 0,
+    "published": 0,
+    "viewCount": 509999,
+    "videoThumbnails": [
+      {
+        "quality": "maxres",
+        "url": "https://i.ytimg.com/vi/Cua47XwrRIs/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  },
+  {
+    "type": "video",
+    "title": "This is My Favorite Electric Car *Right Now*",
+    "videoId": "46tvrNZFxjQ",
+    "author": "Auto Focus",
+    "authorId": "N/A",
+    "lengthSeconds": 0,
+    "published": 0,
+    "viewCount": 620000,
+    "videoThumbnails": [
+      {
+        "quality": "maxres",
+        "url": "https://i.ytimg.com/vi/46tvrNZFxjQ/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  },
+  {
+    "type": "video",
+    "title": "This Winter Is About To Change In A BIG Way...",
+    "videoId": "D6gnqtEPVV8",
+    "author": "Max Velocity - Severe Weather Center",
+    "authorId": "N/A",
+    "lengthSeconds": 0,
+    "published": 0,
+    "viewCount": 170000,
+    "videoThumbnails": [
+      {
+        "quality": "maxres",
+        "url": "https://i.ytimg.com/vi/D6gnqtEPVV8/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  },
+  {
+    "type": "video",
+    "title": "ShadyPanda: The China-Linked Malware That is Everywhere.",
+    "videoId": "HDuBI0Pc1HE",
+    "author": "Into the Shadows",
+    "authorId": "N/A",
+    "lengthSeconds": 0,
+    "published": 0,
+    "viewCount": 180000,
+    "videoThumbnails": [
+      {
+        "quality": "maxres",
+        "url": "https://i.ytimg.com/vi/HDuBI0Pc1HE/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  },
+  {
+    "type": "video",
+    "title": "What we learned from the 3-body problem",
+    "videoId": "XKSjCOKDtpk",
+    "author": "Veritasium",
+    "authorId": "N/A",
+    "lengthSeconds": 0,
+    "published": 0,
+    "viewCount": 2700000,
+    "videoThumbnails": [
+      {
+        "quality": "maxres",
+        "url": "https://i.ytimg.com/vi/XKSjCOKDtpk/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  },
+  {
+    "type": "video",
+    "title": "6 Free Satellite Imagery Tools Every Investigator Should Know",
+    "videoId": "-0RQPOdXrqw",
+    "author": "Bendobrown",
+    "authorId": "N/A",
+    "lengthSeconds": 0,
+    "published": 0,
+    "viewCount": 450000,
+    "videoThumbnails": [
+      {
+        "quality": "maxres",
+        "url": "https://i.ytimg.com/vi/-0RQPOdXrqw/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  },
+  {
+    "type": "video",
+    "title": "Music for Men Who Stay Silent | Gentleman Dark Blues",
+    "videoId": "aV7W2oF-l1E",
+    "author": "Shelby Nights Blues",
+    "authorId": "N/A",
+    "lengthSeconds": 0,
+    "published": 0,
+    "viewCount": 830000,
+    "videoThumbnails": [
+      {
+        "quality": "maxres",
+        "url": "https://i.ytimg.com/vi/aV7W2oF-l1E/maxresdefault.jpg",
         "width": 1280,
         "height": 720
       }
