@@ -1,49 +1,13 @@
 [
   {
     "type": "video",
-    "title": "The Software Selloff Is The Signal To Something Massive",
-    "videoId": "eSx2cft4TCo",
-    "author": "StockedUp",
-    "authorId": "N/A",
-    "lengthSeconds": 0,
-    "published": 0,
-    "viewCount": 6400,
-    "videoThumbnails": [
-      {
-        "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/eSx2cft4TCo/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    ]
-  },
-  {
-    "type": "video",
-    "title": "LIVE: India Says US Trade Deal \"Safeguards\" Farmers Amid Confusion  | Vantage with Palki Sharma",
-    "videoId": "YKwEtwQYePo",
-    "author": "Firstpost",
-    "authorId": "N/A",
-    "lengthSeconds": 0,
-    "published": 0,
-    "viewCount": 70000,
-    "videoThumbnails": [
-      {
-        "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/YKwEtwQYePo/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    ]
-  },
-  {
-    "type": "video",
     "title": "Stock Market Crash?!",
     "videoId": "6trRk2TdUIM",
     "author": "The Matt Kohrs Show",
     "authorId": "N/A",
     "lengthSeconds": 0,
     "published": 0,
-    "viewCount": 590,
+    "viewCount": 631,
     "videoThumbnails": [
       {
         "quality": "maxres",
@@ -73,17 +37,53 @@
   },
   {
     "type": "video",
-    "title": "Why the World Is Rushing to Sign Trade Deals With India | Vantage with Palki Sharma | N18G",
-    "videoId": "lbNqW8B8G18",
+    "title": "India Drops HAL from 5th Generation Fighter Jet Project | Vantage with Palki Sharma",
+    "videoId": "Ccm4WPmhHwI",
     "author": "Firstpost",
     "authorId": "N/A",
     "lengthSeconds": 0,
     "published": 0,
-    "viewCount": 250000,
+    "viewCount": 91000,
     "videoThumbnails": [
       {
         "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/lbNqW8B8G18/maxresdefault.jpg",
+        "url": "https://i.ytimg.com/vi/Ccm4WPmhHwI/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  },
+  {
+    "type": "video",
+    "title": "Iran issues STUNNING pivot after military altercations with US",
+    "videoId": "ojKnmuTTBRE",
+    "author": "Fox News",
+    "authorId": "N/A",
+    "lengthSeconds": 0,
+    "published": 0,
+    "viewCount": 630000,
+    "videoThumbnails": [
+      {
+        "quality": "maxres",
+        "url": "https://i.ytimg.com/vi/ojKnmuTTBRE/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  },
+  {
+    "type": "video",
+    "title": "Trump Agrees to Slash India Tariffs From 50% to 18% | Vantage with Palki Sharma | N18G",
+    "videoId": "_S_tMzBYqGk",
+    "author": "Firstpost",
+    "authorId": "N/A",
+    "lengthSeconds": 0,
+    "published": 0,
+    "viewCount": 229999,
+    "videoThumbnails": [
+      {
+        "quality": "maxres",
+        "url": "https://i.ytimg.com/vi/_S_tMzBYqGk/maxresdefault.jpg",
         "width": 1280,
         "height": 720
       }
