@@ -1,53 +1,35 @@
 [
   {
     "type": "video",
-    "title": "Pakistan Defence Minister Admits \"Handicap\" in Balochistan  | Vantage with Palki Sharma",
-    "videoId": "5dYfckPAKm4",
+    "title": "DIY: Draining ice dams on your roof",
+    "videoId": "_3EqD_-u0lo",
+    "author": "Yoshimoshi",
+    "authorId": "N/A",
+    "lengthSeconds": 0,
+    "published": 0,
+    "viewCount": 350000,
+    "videoThumbnails": [
+      {
+        "quality": "maxres",
+        "url": "https://i.ytimg.com/vi/_3EqD_-u0lo/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  },
+  {
+    "type": "video",
+    "title": "Anthrophic's New Claude Tools Spark Rout in IT Stocks | Vantage with Palki Sharma",
+    "videoId": "CjyvBCiEFOs",
     "author": "Firstpost",
     "authorId": "N/A",
     "lengthSeconds": 0,
     "published": 0,
-    "viewCount": 69000,
+    "viewCount": 170000,
     "videoThumbnails": [
       {
         "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/5dYfckPAKm4/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    ]
-  },
-  {
-    "type": "video",
-    "title": "Stock Market Crash?!",
-    "videoId": "6trRk2TdUIM",
-    "author": "The Matt Kohrs Show",
-    "authorId": "N/A",
-    "lengthSeconds": 0,
-    "published": 0,
-    "viewCount": 402,
-    "videoThumbnails": [
-      {
-        "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/6trRk2TdUIM/maxresdefault.jpg",
-        "width": 1280,
-        "height": 720
-      }
-    ]
-  },
-  {
-    "type": "video",
-    "title": "O’Romeo: Ishq Ka Fever | Shahid K, Triptii D | Sajid N | Vishal B | Gulzar | Arijit S | 13th Feb",
-    "videoId": "SAz5dqeWzyk",
-    "author": "T-Series",
-    "authorId": "N/A",
-    "lengthSeconds": 0,
-    "published": 0,
-    "viewCount": 9600000,
-    "videoThumbnails": [
-      {
-        "quality": "maxres",
-        "url": "https://i.ytimg.com/vi/SAz5dqeWzyk/maxresdefault.jpg",
+        "url": "https://i.ytimg.com/vi/CjyvBCiEFOs/maxresdefault.jpg",
         "width": 1280,
         "height": 720
       }
